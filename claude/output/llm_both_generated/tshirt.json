@@ -1,0 +1,33 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T12:29:25.139826",
+  "product_description": "half sleeve dark blue t shirt with roundneck in medium size without human model",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "Elevate your everyday style with this perfectly fitted dark blue half sleeve tee. Classic comfort meets modern design.",
+      "headline": "The Essential Half Sleeve You Need Now",
+      "description": "Ultra-soft cotton blend that keeps its shape all day. Versatile dark blue roundneck design pairs effortlessly with any outfit. Perfect for year-round wear.",
+      "cta": "Shop Your Perfect Fit"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Elevate your everyday style with this perfectly fitted dark blue half sleeve tee. Classic comfort meets modern design.\",\n    \"headline\": \"The Essential Half Sleeve You Need Now\",\n    \"description\": \"Ultra-soft cotton blend that keeps its shape all day. Versatile dark blue roundneck design pairs effortlessly with any outfit. Perfect for year-round wear.\",\n    \"cta\": \"Shop Your Perfect Fit\"\n}",
+    "generation_time": 2.6699819564819336,
+    "timestamp": "2025-07-26T12:29:12.702515"
+  },
+  "claude_optimized_prompt": "A photorealistic dark blue half-sleeve t-shirt floating elegantly against a soft gradient gray background, gentle studio lighting from top left, crisp fabric details and subtle wrinkles showing quality cotton texture, centered with rule-of-thirds composition, clean minimalist setting, professional product photography style",
+  "image_generation_result": {
+    "image_url": "https://dalleprodsec.blob.core.windows.net/private/images/f2eba92c-cbe8-47d1-a963-5e2b0aa52c15/generated_00.png?se=2025-07-27T16%3A29%3A25Z&sig=100C7jiCH70AviA6UpSQNskgcbG%2FYcx%2BstBmqhUfWjo%3D&ske=2025-07-31T04%3A07%3A18Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-24T04%3A07%3A18Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+    "revised_prompt": "A photorealistic image of a dark blue half-sleeve t-shirt floating elegantly against a soft gradient gray background. Gentle studio lighting from the top left highlights the fabric and creates soft shadows. The t-shirt displays crisp details with subtle wrinkles, showcasing the quality of the cotton texture. The composition follows the rule-of-thirds, with the t-shirt centered for a clean and minimalist setting. The scene captures the essence of professional product photography, emphasizing simplicity and elegance.",
+    "original_prompt": "A photorealistic dark blue half-sleeve t-shirt floating elegantly against a soft gradient gray background, gentle studio lighting from top left, crisp fabric details and subtle wrinkles showing quality cotton texture, centered with rule-of-thirds composition, clean minimalist setting, professional product photography style",
+    "generation_time": 9.933323860168457,
+    "timestamp": "2025-07-26T12:29:25.139763",
+    "size": "1024x1024"
+  },
+  "image_settings": {
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_122925.png"
+}

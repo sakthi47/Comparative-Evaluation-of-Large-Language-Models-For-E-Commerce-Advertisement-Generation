@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:32:49.015025",
+  "input_image": "./input/lunch_box.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Make Lunchtime Fun: Durable, Colorful, and Perfect for On-the-Go Adventures!\",\n  \"description\": \"Brighten your child\u2019s day with this vibrant, ocean-themed lunchbox! Spacious, lightweight, and easy-to-clean, it keeps every meal fresh and exciting. Designed for busy families, it\u2019s the perfect companion for school, picnics, or travel. Durable construction ensures it stands up to daily use while the fun design sparks imagination and adds joy to every bite!\",\n  \"cta\": \"Get yours today and make every lunch an adventure! Click now to grab the perfect lunchbox for your little explorer.\"\n}\n```",
+  "custom_prompt": null
+}

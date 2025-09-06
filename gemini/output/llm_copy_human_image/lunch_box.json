@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:37:54.276129",
+  "input_image": "./input/lunch_box.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Ocean fun lunchbox!  Kids love it!\",",
+      "headline": "\"Kids' Lunchbox\",",
+      "description": "\"Bright blue, ocean design.  Easy to open.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Ocean fun lunchbox!  Kids love it!\",\n  \"headline\": \"Kids' Lunchbox\",\n  \"description\": \"Bright blue, ocean design.  Easy to open.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 2.254556179046631,
+    "timestamp": "2025-07-26T12:37:54.276097"
+  }
+}

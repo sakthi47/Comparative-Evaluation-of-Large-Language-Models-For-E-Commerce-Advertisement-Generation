@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:00.395059",
+  "input_image": "./input/tshirt.jpeg",
+  "product_description": "half hand dark blue t shirt with roundneck in medium size.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your casual look with our modern dark blue half-hand tee. Soft, stylish & perfect for any occasion. Limited stock\u2014get yours today!\",",
+      "headline": "\"Modern Dark Blue Tee\",",
+      "description": "\"Soft, breathable fabric with a sleek round neck. Fits just right.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your casual look with our modern dark blue half-hand tee. Soft, stylish & perfect for any occasion. Limited stock\u2014get yours today!\",\n  \"headline\": \"Modern Dark Blue Tee\",\n  \"description\": \"Soft, breathable fabric with a sleek round neck. Fits just right.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 2.573106050491333,
+    "timestamp": "2025-07-26T20:56:00.395035"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

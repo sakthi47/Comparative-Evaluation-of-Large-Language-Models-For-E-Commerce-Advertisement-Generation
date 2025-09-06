@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T13:09:20.241949",
+  "product_description": "light green pot shaped table lamp with white cone cover",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "gemini_model": "gemini-1.5-flash",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Soft glow. Modern style.  Upgrade your space. Limited stock!\",",
+      "headline": "\"Illuminating Design\",",
+      "description": "\"Green pot lamp, white shade.  Instant ambiance.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Soft glow. Modern style.  Upgrade your space. Limited stock!\",\n  \"headline\": \"Illuminating Design\",\n  \"description\": \"Green pot lamp, white shade.  Instant ambiance.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 0.9194400310516357,
+    "timestamp": "2025-07-26T13:09:17.200895"
+  },
+  "gemini_optimized_prompt": "A light green ceramic pot-shaped table lamp with a crisp white linen cone shade, showcasing a soft, diffused glow.  Studio lighting, clean and minimalist style, emphasizing the lamp's form and texture.  Neutral off-white background, slightly textured concrete-like surface.  Soft, warm light, creating a calming and sophisticated mood.  No props or lifestyle elements.",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "A light green ceramic pot-shaped table lamp with a crisp white linen cone shade, showcasing a soft, diffused glow.  Studio lighting, clean and minimalist style, emphasizing the lamp's form and texture.  Neutral off-white background, slightly textured concrete-like surface.  Soft, warm light, creating a calming and sophisticated mood.  No props or lifestyle elements.",
+    "generation_time": 2.2177908420562744,
+    "timestamp": "2025-07-26T13:09:20.241939",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_130920.jpg"
+}

@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:13.710041",
+  "input_image": "./input/lamp.jpeg",
+  "product_description": "light green pot shaped table lamp with white cone cover",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Brighten your space with our modern light green table lamp. Soft white glow, sleek design. Limited stock\u2014light up your life today!\",",
+      "headline": "\"Modern Glow: Light Green Table Lamp\",",
+      "description": "\"Sleek pot-shaped base with a crisp white cone shade. Adds warmth to any room.\",",
+      "cta": "\"Shop Now \u2013 Last Few Left!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Brighten your space with our modern light green table lamp. Soft white glow, sleek design. Limited stock\u2014light up your life today!\",\n  \"headline\": \"Modern Glow: Light Green Table Lamp\",\n  \"description\": \"Sleek pot-shaped base with a crisp white cone shade. Adds warmth to any room.\",\n  \"cta\": \"Shop Now \u2013 Last Few Left!\"\n}\n```",
+    "generation_time": 2.4638681411743164,
+    "timestamp": "2025-07-26T20:56:13.710007"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:37:13.517427",
+  "input_image": "./input/tshirt.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Upgrade Your Everyday Look with the Perfect Black Tee \u2013 Style Meets Comfort!\",\n  \"description\": \"This premium black t-shirt is designed for effortless style and all-day comfort. Made from ultra-soft, breathable fabric, it feels as good as it looks. Whether you're dressing it up or keeping it casual, this versatile staple lets you express confidence and simplicity. Say goodbye to stiff, uncomfortable shirts and hello to your new favorite go-to wardrobe essential!\",\n  \"cta\": \"Grab yours now and experience the perfect fit \u2013 limited stock available!\"\n}\n```",
+  "custom_prompt": null
+}

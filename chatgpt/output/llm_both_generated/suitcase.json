@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:26:27.456087",
+  "product_description": "black colored travel suitcase with 56cm x 40cm x 23cm of weight capacity 22kg with 2 wheels with handle.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Travel Smart with Sleek Style \u2014 Your Perfect Black Suitcase Awaits!\",\n  \"description\": \"Meet your ultimate travel companion: a modern, compact suitcase (56cm x 40cm x 23cm) built for adventure. With a weight capacity of 22kg, sturdy 2-wheel design, and an ergonomic handle, it\u2019s made to glide effortlessly through airports and streets alike. Sleek black finish ensures timeless style, while durable construction keeps your belongings safe wherever you roam.\",\n  \"cta\": \"Upgrade your travel game today \u2014 Shop now and pack for perfection!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/0aa82254-58fd-4a81-84c0-94b459194b38/generated_00.png?se=2025-07-24T22%3A26%3A27Z&sig=Jy7ggjm4Ufibxd416zyzWtqzuzVRHyML2%2BQrcLvrpaI%3D&ske=2025-07-27T03%3A22%3A58Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-20T03%3A22%3A58Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of black colored travel suitcase with 56cm x 40cm x 23cm of weight capacity 22kg with 2 wheels with handle., \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_182627.png"
+}

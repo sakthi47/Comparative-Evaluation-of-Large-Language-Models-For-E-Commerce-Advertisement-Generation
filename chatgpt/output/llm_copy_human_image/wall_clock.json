@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:38:11.382627",
+  "input_image": "./input/wall_clock.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Time That Stands Still, Style That Moves You!\",\n  \"description\": \"Elevate your space with this sleek, modern wall clock. Designed for precision and elegance, it\u2019s more than a timepiece\u2014it\u2019s a statement. Perfect for any home or office, this clock blends functionality with minimalist charm to keep you on track while enhancing your decor.\",\n  \"cta\": \"Own the perfect blend of style and utility today. Click below and make every second count!\"\n}\n```",
+  "custom_prompt": null
+}

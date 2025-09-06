@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:27:05.252133",
+  "product_description": "shiny pink skin friendly pillow in rectangle shape, 60 cm x 30 cm",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Dream in Pink: The Pillow That Loves Your Skin and Style!\",\n  \"description\": \"Elevate your sleep with our shiny pink, skin-friendly pillow. Designed in a chic rectangle shape (60x30 cm), it\u2019s hypoallergenic, ultra-soft, and perfect for modern interiors. Your skin deserves the best\u2014wake up refreshed and glowing every morning.\",\n  \"cta\": \"Snag your pink perfection now! \ud83d\udecf\ufe0f Shop today and experience the ultimate beauty sleep.\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/09ae55e0-d76c-4e88-bc77-40ac18a7fa5b/generated_00.png?se=2025-07-24T22%3A27%3A05Z&sig=mYpWmBroC4UptdTJzU%2FiUrD%2Fw1RacTgPOiBtymGwfd4%3D&ske=2025-07-25T17%3A39%3A50Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-18T17%3A39%3A50Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of shiny pink skin friendly pillow in rectangle shape, 60 cm x 30 cm, \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_182705.png"
+}

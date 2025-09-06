@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:21:13.818677",
+  "product_description": "plastic medium dark blue rectangle shaped snack box with a light blue lid with animal planet aquarium cover design in the top",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Snack Smarter with Style \u2013 Dive Into Freshness Anywhere!\",\n  \"description\": \"Keep your snacks fresh and organized in this sleek medium dark blue snack box with a vibrant animal planet aquarium design. Durable, lightweight, and perfect for on-the-go adventures \u2013 make every snack break a splash of fun!\",\n  \"cta\": \"Grab yours today and make snack time legendary!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/c96590bc-f5de-4ead-97d1-30224cf14671/generated_00.png?se=2025-07-24T22%3A21%3A13Z&sig=3Qzsv1poDi2hagfDpb2EcZTdE5CINRncByrHy8cH07I%3D&ske=2025-07-28T14%3A52%3A40Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-21T14%3A52%3A40Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of plastic medium dark blue rectangle shaped snack box with a light blue lid with animal planet aquarium cover design in the top, \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_182113.png"
+}

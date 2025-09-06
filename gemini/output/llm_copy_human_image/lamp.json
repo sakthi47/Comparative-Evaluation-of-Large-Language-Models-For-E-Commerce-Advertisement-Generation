@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:37:49.567409",
+  "input_image": "./input/lamp.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Elegant table lamp. Soft light, stylish design. Perfect for any room!\",",
+      "headline": "\"Mid-Century Modern Lamp\",",
+      "description": "\"Add a touch of vintage charm to your space.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Elegant table lamp. Soft light, stylish design. Perfect for any room!\",\n  \"headline\": \"Mid-Century Modern Lamp\",\n  \"description\": \"Add a touch of vintage charm to your space.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 3.5674498081207275,
+    "timestamp": "2025-07-26T12:37:49.567363"
+  }
+}

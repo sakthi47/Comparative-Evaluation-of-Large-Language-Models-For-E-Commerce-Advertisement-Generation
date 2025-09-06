@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:29:35.894172",
+  "input_image": "./input/folding_table.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Transform Your Space with a Sleek, Multipurpose Table \u2013 Style Meets Function!\",\n  \"description\": \"Elevate your home or office with this versatile table featuring a durable wood-grain finish and sturdy metal legs. Perfect for work, dining, or hobbies, its minimal design blends seamlessly into any decor. Lightweight yet robust, it's easy to move and built to last. Create a space that inspires productivity and comfort!\",\n  \"cta\": \"Upgrade your space now \u2013 Shop today and enjoy effortless elegance!\"\n}\n```",
+  "custom_prompt": null
+}

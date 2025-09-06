@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T13:09:13.825752",
+  "product_description": "100 ml grey colored coffee mug with round opening with c shaped handle",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "gemini_model": "gemini-1.5-flash",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Grey day? Grey mug. Perfect blend. Shop now!\",",
+      "headline": "\"Your Daily Ritual Starts Here\",",
+      "description": "\"Simple elegance.  Enjoy your coffee in style.\",",
+      "cta": "\"Get Yours Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Grey day? Grey mug. Perfect blend. Shop now!\",\n  \"headline\": \"Your Daily Ritual Starts Here\",\n  \"description\": \"Simple elegance.  Enjoy your coffee in style.\",\n  \"cta\": \"Get Yours Now\"\n}\n```\n",
+    "generation_time": 0.8538696765899658,
+    "timestamp": "2025-07-26T13:09:10.850187"
+  },
+  "gemini_optimized_prompt": "Studio product shot of a 100ml matte grey ceramic coffee mug with a round opening and a C-shaped handle.  Soft, diffused natural light from the top left, creating subtle shadows. Minimalist white background.  Clean, modern aesthetic.  Color palette: muted greys and off-white. No props.",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "Studio product shot of a 100ml matte grey ceramic coffee mug with a round opening and a C-shaped handle.  Soft, diffused natural light from the top left, creating subtle shadows. Minimalist white background.  Clean, modern aesthetic.  Color palette: muted greys and off-white. No props.",
+    "generation_time": 2.0481791496276855,
+    "timestamp": "2025-07-26T13:09:13.825744",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_130913.jpg"
+}

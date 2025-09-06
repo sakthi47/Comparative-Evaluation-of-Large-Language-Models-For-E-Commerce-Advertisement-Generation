@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T13:09:04.848094",
+  "product_description": "3 litres silver color pressure cooker with bakelite black handle with a whistle on it.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "gemini_model": "gemini-1.5-flash",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Faster meals, less stress.  3L silver pressure cooker. Shop now!\",",
+      "headline": "\"Effortless Cooking\",",
+      "description": "\"Elegant design, quick cooking, delicious results.  Whistle alerts you!\",",
+      "cta": "\"Get Yours Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Faster meals, less stress.  3L silver pressure cooker. Shop now!\",\n  \"headline\": \"Effortless Cooking\",\n  \"description\": \"Elegant design, quick cooking, delicious results.  Whistle alerts you!\",\n  \"cta\": \"Get Yours Now\"\n}\n```\n",
+    "generation_time": 0.9757468700408936,
+    "timestamp": "2025-07-26T13:09:02.147503"
+  },
+  "gemini_optimized_prompt": "3 litres silver color pressure cooker with bakelite black handle with a whistle on it., modern style, professional product photography, clean background, high quality",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "3 litres silver color pressure cooker with bakelite black handle with a whistle on it., modern style, professional product photography, clean background, high quality",
+    "generation_time": 2.6087348461151123,
+    "timestamp": "2025-07-26T13:09:04.848083",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_130904.jpg"
+}

@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:12:33.732899",
+  "product_description": "brown men wallet with two sections and a name tag in front right bottom corner with silver boundary.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Elevate Your Everyday Style with the Perfect Brown Wallet!\",\n  \"description\": \"This modern men's wallet boasts two sleek sections for effortless organization and a bold name tag with a silver boundary for a personalized touch. Compact, durable, and designed to impress\u2014it's the ideal blend of fashion and function for your daily essentials.\",\n  \"cta\": \"Upgrade your accessory game today\u2014shop now!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/d7ad07fa-86de-4af4-bd0c-0dfc7e1c524e/generated_00.png?se=2025-07-24T22%3A12%3A33Z&sig=RZldzy3M7MFx73oG2gDt8b%2F3fA59EcWoyPVaDgAvpxQ%3D&ske=2025-07-29T19%3A02%3A17Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-22T19%3A02%3A17Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of brown men wallet with two sections and a name tag in front right bottom corner with silver boundary., \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_181233.png"
+}

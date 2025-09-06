@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T13:09:40.836026",
+  "product_description": "rectangle shaped sandal wood colored cutting board suitable for chopping made of wood with cylinderical hole for hanging",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "gemini_model": "gemini-1.5-flash",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Elevate your kitchen.  End-grain sandalwood cutting board.  Unmatched durability. Shop now!\",",
+      "headline": "\"Sandalwood Cutting Board\",",
+      "description": "\"Superior chopping, lasting beauty.  Hang it up.\",",
+      "cta": "\"Get Yours Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Elevate your kitchen.  End-grain sandalwood cutting board.  Unmatched durability. Shop now!\",\n  \"headline\": \"Sandalwood Cutting Board\",\n  \"description\": \"Superior chopping, lasting beauty.  Hang it up.\",\n  \"cta\": \"Get Yours Now\"\n}\n```\n",
+    "generation_time": 0.878312349319458,
+    "timestamp": "2025-07-26T13:09:37.732850"
+  },
+  "gemini_optimized_prompt": "A high-resolution product shot of a rectangular sandalwood-colored end-grain cutting board.  The board features a cylindrical hole at one end for hanging.  The wood grain is clearly visible, showcasing its rich texture.  Studio lighting, clean and bright, with subtle shadows to highlight the wood's texture. Minimalist background \u2013 a light grey concrete surface.  Warm, natural color palette emphasizing the sandalwood tones.  No props or lifestyle elements.",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "A high-resolution product shot of a rectangular sandalwood-colored end-grain cutting board.  The board features a cylindrical hole at one end for hanging.  The wood grain is clearly visible, showcasing its rich texture.  Studio lighting, clean and bright, with subtle shadows to highlight the wood's texture. Minimalist background \u2013 a light grey concrete surface.  Warm, natural color palette emphasizing the sandalwood tones.  No props or lifestyle elements.",
+    "generation_time": 2.122875928878784,
+    "timestamp": "2025-07-26T13:09:40.836015",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_130940.jpg"
+}

@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:48.917535",
+  "input_image": "./input/yoga_mat.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Elevate your practice.  Premium yoga mat. Superior grip & comfort.\",",
+      "headline": "\"Find Your Flow\",",
+      "description": "\"Durable, eco-friendly, & stylish.  Perfect for all levels.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Elevate your practice.  Premium yoga mat. Superior grip & comfort.\",\n  \"headline\": \"Find Your Flow\",\n  \"description\": \"Durable, eco-friendly, & stylish.  Perfect for all levels.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 1.7627241611480713,
+    "timestamp": "2025-07-26T12:38:48.917357"
+  }
+}

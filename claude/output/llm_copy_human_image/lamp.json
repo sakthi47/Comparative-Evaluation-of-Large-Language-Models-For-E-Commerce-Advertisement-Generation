@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:55:55.315193",
+  "input_image": "./input/lamp.jpeg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Elegant simplicity meets timeless design. This ceramic table lamp casts a warm glow while making a subtle style statement.",
+      "headline": "Classic Charm, Modern Elegance",
+      "description": "Handcrafted ceramic base with cream-colored shade creates perfect ambient lighting for any room. Versatile design complements all decor.",
+      "cta": "Illuminate Your Space"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Elegant simplicity meets timeless design. This ceramic table lamp casts a warm glow while making a subtle style statement.\",\n    \"headline\": \"Classic Charm, Modern Elegance\",\n    \"description\": \"Handcrafted ceramic base with cream-colored shade creates perfect ambient lighting for any room. Versatile design complements all decor.\",\n    \"cta\": \"Illuminate Your Space\"\n}",
+    "generation_time": 4.436889886856079,
+    "timestamp": "2025-07-26T11:55:55.314942"
+  }
+}

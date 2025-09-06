@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:08.781300",
+  "input_image": "./input/lunch_box.jpeg",
+  "product_description": "plastic medium dark blue rectangle shaped snack box with a light blue lid with animal planet aquarium cover design in the top",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Keep snacks fresh & stylish with our Animal Planet Aquarium snack box! Perfect for home, school, or travel. Limited stock\u2014get yours today!\",",
+      "headline": "\"Stylish & Functional Snack Storage\",",
+      "description": "\"Modern design meets practicality with this eye-catching dark blue snack box.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Keep snacks fresh & stylish with our Animal Planet Aquarium snack box! Perfect for home, school, or travel. Limited stock\u2014get yours today!\",\n  \"headline\": \"Stylish & Functional Snack Storage\",\n  \"description\": \"Modern design meets practicality with this eye-catching dark blue snack box.\",\n  \"cta\": \"Shop Now\"\n}\n```",
+    "generation_time": 2.7739219665527344,
+    "timestamp": "2025-07-26T20:56:08.781277"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

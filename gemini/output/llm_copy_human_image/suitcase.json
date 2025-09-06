@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:17.480144",
+  "input_image": "./input/suitcase.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Smooth travels await.  Durable, stylish carry-on.\",",
+      "headline": "\"Travel in Style\",",
+      "description": "\"Lightweight, spinner wheels, ample space.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Smooth travels await.  Durable, stylish carry-on.\",\n  \"headline\": \"Travel in Style\",\n  \"description\": \"Lightweight, spinner wheels, ample space.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 1.5919530391693115,
+    "timestamp": "2025-07-26T12:38:17.480045"
+  }
+}

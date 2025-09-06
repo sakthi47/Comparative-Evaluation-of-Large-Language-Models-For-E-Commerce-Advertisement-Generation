@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:21:52.311125",
+  "product_description": "100 ml grey colored coffee mug with round opening with c shaped handle",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Sip in Style: The Perfect Grey Mug for Coffee Lovers!\",\n  \"description\": \"Elevate your coffee moments with our sleek, 100 ml grey mug. Featuring a round opening and ergonomic C-shaped handle, it\u2019s designed for comfort and modern elegance. Perfect for daily rituals or gifting someone special.\",\n  \"cta\": \"Shop now and redefine your coffee experience!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/aa4c2b86-5359-446e-8bda-6b1678d925cc/generated_00.png?se=2025-07-24T22%3A21%3A52Z&sig=hh8gmfOPlkzSZGwdrGV79eaTaE%2B8k%2FRKv2El4r7OiFk%3D&ske=2025-07-28T19%3A20%3A19Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-21T19%3A20%3A19Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of 100 ml grey colored coffee mug with round opening with c shaped handle, \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_182152.png"
+}

@@ -1,0 +1,33 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T12:07:19.431289",
+  "product_description": "100 ml grey colored coffee mug with round opening with c shaped handle",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "Start your mornings right with this sleek grey mug that fits perfectly in your hand. Your daily brew deserves the best.",
+      "headline": "Elevate Your Daily Coffee Ritual",
+      "description": "Ergonomically designed 100ml mug combines modern style with perfect portion control. Durable ceramic construction keeps your favorite drink at ideal temperature.",
+      "cta": "Grab Your Perfect Mug"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Start your mornings right with this sleek grey mug that fits perfectly in your hand. Your daily brew deserves the best.\",\n    \"headline\": \"Elevate Your Daily Coffee Ritual\",\n    \"description\": \"Ergonomically designed 100ml mug combines modern style with perfect portion control. Durable ceramic construction keeps your favorite drink at ideal temperature.\",\n    \"cta\": \"Grab Your Perfect Mug\"\n}",
+    "generation_time": 4.409667015075684,
+    "timestamp": "2025-07-26T12:07:04.463855"
+  },
+  "claude_optimized_prompt": "A modern minimalist kitchen scene at sunrise, sunlight streaming through window, sleek grey ceramic coffee mug on white marble countertop, steam rising from dark coffee, soft morning shadows, shallow depth of field, professional product photography lighting, rule of thirds composition, photorealistic 8K quality",
+  "image_generation_result": {
+    "image_url": "https://dalleprodsec.blob.core.windows.net/private/images/a62acefa-166e-4244-b73a-e689b65f29ef/generated_00.png?se=2025-07-27T16%3A07%3A19Z&sig=aXecrXc5ygqQ%2B319REDx5fw5QedDQeMKFiGm4%2BPnouM%3D&ske=2025-08-02T15%3A52%3A54Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-26T15%3A52%3A54Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+    "revised_prompt": "A modern minimalist kitchen scene at sunrise, with sunlight streaming through a large window. A sleek grey ceramic coffee mug sits on a pristine white marble countertop, with steam gently rising from the dark coffee inside. Soft morning shadows fall across the counter, creating a calming ambiance. The image uses a shallow depth of field to emphasize the coffee mug, with professional product photography lighting enhancing the details. The scene follows the rule of thirds composition, presented in stunning photorealistic 8K quality, capturing every texture and nuance of the materials.",
+    "original_prompt": "A modern minimalist kitchen scene at sunrise, sunlight streaming through window, sleek grey ceramic coffee mug on white marble countertop, steam rising from dark coffee, soft morning shadows, shallow depth of field, professional product photography lighting, rule of thirds composition, photorealistic 8K quality",
+    "generation_time": 9.931546926498413,
+    "timestamp": "2025-07-26T12:07:19.431255",
+    "size": "1024x1024"
+  },
+  "image_settings": {
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_120719.png"
+}

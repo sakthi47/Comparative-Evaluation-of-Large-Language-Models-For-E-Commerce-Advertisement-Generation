@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:36:12.076716",
+  "input_image": "./input/suitcase.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Travel Smarter, Not Harder: The Ultimate Luggage for Effortless Adventures!\",\n  \"description\": \"Say goodbye to travel hassles! This sleek, lightweight suitcase is designed for ultimate convenience with 360\u00b0 spinner wheels, durable hard-shell protection, and a spacious interior. Glide through airports with ease and keep your belongings safe, stylish, and organized. Perfect for jet-setters, weekend warriors, and dreamers chasing their next adventure.\",\n  \"cta\": \"Upgrade your travel game today\u2014click now and make every journey unforgettable!\"\n}\n```",
+  "custom_prompt": null
+}

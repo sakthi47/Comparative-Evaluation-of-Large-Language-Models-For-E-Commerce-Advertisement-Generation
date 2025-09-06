@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:13:17.970099",
+  "product_description": "wooden folding table of size 100cm x 200cm with long black iron legs",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Elevate Your Space: Sleek, Sturdy, and Effortlessly Foldable.\",\n  \"description\": \"Discover the perfect blend of modern design and practicality with our 100cm x 200cm wooden folding table. Crafted with a rich, smooth wooden surface and bold black iron legs, it\u2019s a statement piece for any home or workspace. Effortlessly fold it away to save space, or use it to host, work, or create\u2014all while adding a touch of elegance to your surroundings.\",\n  \"cta\": \"Upgrade your space today! Click to shop now and bring modern functionality to your home.\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/9025e231-300d-4e64-9820-5706e8b89c60/generated_00.png?se=2025-07-24T22%3A13%3A17Z&sig=00iKK1k5U3TWUEy%2BsSosnfOEFHEfGD0u%2B4%2F25MlhpCU%3D&ske=2025-07-29T19%3A02%3A17Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-22T19%3A02%3A17Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of wooden folding table of size 100cm x 200cm with long black iron legs, \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_181317.png"
+}

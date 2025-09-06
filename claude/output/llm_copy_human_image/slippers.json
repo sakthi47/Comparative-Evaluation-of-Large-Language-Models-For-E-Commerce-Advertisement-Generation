@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:28:04.952357",
+  "input_image": "./input/slippers.jpg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Step into cloud-like comfort with these ultra-lightweight slides. Perfect for home, pool, or anywhere relaxation calls.",
+      "headline": "Ultimate Comfort Slides in Serene Blue",
+      "description": "Ergonomically designed slides featuring durable foam construction, non-slip texture, and waterproof material for versatile indoor-outdoor wear.",
+      "cta": "Shop Comfort Slides"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Step into cloud-like comfort with these ultra-lightweight slides. Perfect for home, pool, or anywhere relaxation calls.\",\n    \"headline\": \"Ultimate Comfort Slides in Serene Blue\",\n    \"description\": \"Ergonomically designed slides featuring durable foam construction, non-slip texture, and waterproof material for versatile indoor-outdoor wear.\",\n    \"cta\": \"Shop Comfort Slides\"\n}",
+    "generation_time": 3.6933138370513916,
+    "timestamp": "2025-07-26T11:28:04.952120"
+  }
+}

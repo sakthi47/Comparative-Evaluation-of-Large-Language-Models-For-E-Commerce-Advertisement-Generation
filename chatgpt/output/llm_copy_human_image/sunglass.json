@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:36:48.019255",
+  "input_image": "./input/sunglass.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Look Sharp, Stay Protected \u2014 Sunglasses That Redefine Style & Comfort!\",\n  \"description\": \"Step up your game with these sleek, high-performance sunglasses designed to keep your eyes safe while turning heads. Lightweight, durable, and crafted for all-day comfort, they\u2019re perfect for outdoor adventures or city strolls. Experience UV protection that doesn\u2019t compromise on style. Your confidence deserves this upgrade.\",\n  \"cta\": \"Shop Now & Elevate Your Style Instantly!\"\n}\n```",
+  "custom_prompt": null
+}

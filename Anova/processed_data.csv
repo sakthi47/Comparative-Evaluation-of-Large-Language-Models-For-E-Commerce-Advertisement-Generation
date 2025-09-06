@@ -1,0 +1,1016 @@
+ResponseID,Product,AdNumber,AdType,QuestionType,QuestionNumber,Rating,Age,ShoppingFreq,LLM_Model
+R_4S35m4DfqEz3acA,Watch,1,Human Both,Purchase Intent,1,1,2,2,Human
+R_4S35m4DfqEz3acA,Watch,1,Human Both,Visual Appeal,2,1,2,2,Human
+R_4S35m4DfqEz3acA,Watch,1,Human Both,Value Convincing,3,1,2,2,Human
+R_4S35m4DfqEz3acA,Watch,1,Human Both,Message Clarity,4,7,2,2,Human
+R_4S35m4DfqEz3acA,Watch,1,Human Both,Trustworthiness,5,2,2,2,Human
+R_4S35m4DfqEz3acA,Watch,2,Human Image + ChatGPT Copy,Purchase Intent,1,1,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,2,Human Image + ChatGPT Copy,Visual Appeal,2,1,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,2,Human Image + ChatGPT Copy,Value Convincing,3,3,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,2,Human Image + ChatGPT Copy,Message Clarity,4,7,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,2,Human Image + ChatGPT Copy,Trustworthiness,5,3,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,3,Human Image + Claude Copy,Purchase Intent,1,1,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,3,Human Image + Claude Copy,Visual Appeal,2,2,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,3,Human Image + Claude Copy,Value Convincing,3,3,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,3,Human Image + Claude Copy,Message Clarity,4,6,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,3,Human Image + Claude Copy,Trustworthiness,5,3,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,4,Human Image + Deepseek Copy,Purchase Intent,1,1,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,4,Human Image + Deepseek Copy,Visual Appeal,2,3,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,4,Human Image + Deepseek Copy,Value Convincing,3,4,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,4,Human Image + Deepseek Copy,Message Clarity,4,4,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,4,Human Image + Deepseek Copy,Trustworthiness,5,4,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,5,Human Image + Gemini Copy,Purchase Intent,1,3,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,5,Human Image + Gemini Copy,Visual Appeal,2,1,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,5,Human Image + Gemini Copy,Value Convincing,3,5,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,5,Human Image + Gemini Copy,Message Clarity,4,5,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,5,Human Image + Gemini Copy,Trustworthiness,5,4,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,6,ChatGPT Image + Human Copy,Purchase Intent,1,5,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,6,ChatGPT Image + Human Copy,Visual Appeal,2,7,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,6,ChatGPT Image + Human Copy,Value Convincing,3,7,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,6,ChatGPT Image + Human Copy,Message Clarity,4,7,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,6,ChatGPT Image + Human Copy,Trustworthiness,5,6,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,7,Claude Image + Human Copy,Purchase Intent,1,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,7,Claude Image + Human Copy,Visual Appeal,2,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,7,Claude Image + Human Copy,Value Convincing,3,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,7,Claude Image + Human Copy,Message Clarity,4,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,7,Claude Image + Human Copy,Trustworthiness,5,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,8,Deepseek Image + Human Copy,Purchase Intent,1,4,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,8,Deepseek Image + Human Copy,Visual Appeal,2,4,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,8,Deepseek Image + Human Copy,Value Convincing,3,4,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,8,Deepseek Image + Human Copy,Message Clarity,4,7,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,8,Deepseek Image + Human Copy,Trustworthiness,5,7,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,9,Gemini Image + Human Copy,Purchase Intent,1,3,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,9,Gemini Image + Human Copy,Visual Appeal,2,3,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,9,Gemini Image + Human Copy,Value Convincing,3,4,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,9,Gemini Image + Human Copy,Message Clarity,4,4,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,9,Gemini Image + Human Copy,Trustworthiness,5,5,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,10,ChatGPT Both,Purchase Intent,1,3,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,10,ChatGPT Both,Visual Appeal,2,4,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,10,ChatGPT Both,Value Convincing,3,5,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,10,ChatGPT Both,Message Clarity,4,5,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,10,ChatGPT Both,Trustworthiness,5,6,2,2,ChatGPT
+R_4S35m4DfqEz3acA,Watch,11,Claude Both,Purchase Intent,1,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,11,Claude Both,Visual Appeal,2,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,11,Claude Both,Value Convincing,3,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,11,Claude Both,Message Clarity,4,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,11,Claude Both,Trustworthiness,5,7,2,2,Claude
+R_4S35m4DfqEz3acA,Watch,12,Deepseek Both,Purchase Intent,1,4,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,12,Deepseek Both,Visual Appeal,2,3,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,12,Deepseek Both,Value Convincing,3,3,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,12,Deepseek Both,Message Clarity,4,6,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,12,Deepseek Both,Trustworthiness,5,4,2,2,Deepseek
+R_4S35m4DfqEz3acA,Watch,13,Gemini Both,Purchase Intent,1,2,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,13,Gemini Both,Visual Appeal,2,2,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,13,Gemini Both,Value Convincing,3,3,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,13,Gemini Both,Message Clarity,4,6,2,2,Gemini
+R_4S35m4DfqEz3acA,Watch,13,Gemini Both,Trustworthiness,5,4,2,2,Gemini
+R_6v7FtH5zhON27qX,Watch,1,Human Both,Purchase Intent,1,5,1,3,Human
+R_6v7FtH5zhON27qX,Watch,1,Human Both,Visual Appeal,2,5,1,3,Human
+R_6v7FtH5zhON27qX,Watch,1,Human Both,Value Convincing,3,6,1,3,Human
+R_6v7FtH5zhON27qX,Watch,1,Human Both,Message Clarity,4,5,1,3,Human
+R_6v7FtH5zhON27qX,Watch,1,Human Both,Trustworthiness,5,5,1,3,Human
+R_6v7FtH5zhON27qX,Watch,2,Human Image + ChatGPT Copy,Purchase Intent,1,7,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,2,Human Image + ChatGPT Copy,Visual Appeal,2,7,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,2,Human Image + ChatGPT Copy,Value Convincing,3,7,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,2,Human Image + ChatGPT Copy,Message Clarity,4,7,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,2,Human Image + ChatGPT Copy,Trustworthiness,5,7,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,3,Human Image + Claude Copy,Purchase Intent,1,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,3,Human Image + Claude Copy,Visual Appeal,2,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,3,Human Image + Claude Copy,Value Convincing,3,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,3,Human Image + Claude Copy,Message Clarity,4,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,3,Human Image + Claude Copy,Trustworthiness,5,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,4,Human Image + Deepseek Copy,Purchase Intent,1,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,4,Human Image + Deepseek Copy,Visual Appeal,2,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,4,Human Image + Deepseek Copy,Value Convincing,3,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,4,Human Image + Deepseek Copy,Message Clarity,4,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,4,Human Image + Deepseek Copy,Trustworthiness,5,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,5,Human Image + Gemini Copy,Purchase Intent,1,5,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,5,Human Image + Gemini Copy,Visual Appeal,2,6,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,5,Human Image + Gemini Copy,Value Convincing,3,6,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,5,Human Image + Gemini Copy,Message Clarity,4,5,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,5,Human Image + Gemini Copy,Trustworthiness,5,5,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,6,ChatGPT Image + Human Copy,Purchase Intent,1,6,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,6,ChatGPT Image + Human Copy,Visual Appeal,2,5,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,6,ChatGPT Image + Human Copy,Value Convincing,3,5,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,6,ChatGPT Image + Human Copy,Message Clarity,4,5,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,6,ChatGPT Image + Human Copy,Trustworthiness,5,6,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,7,Claude Image + Human Copy,Purchase Intent,1,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,7,Claude Image + Human Copy,Visual Appeal,2,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,7,Claude Image + Human Copy,Value Convincing,3,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,7,Claude Image + Human Copy,Message Clarity,4,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,7,Claude Image + Human Copy,Trustworthiness,5,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,8,Deepseek Image + Human Copy,Purchase Intent,1,7,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,8,Deepseek Image + Human Copy,Visual Appeal,2,7,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,8,Deepseek Image + Human Copy,Value Convincing,3,7,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,8,Deepseek Image + Human Copy,Message Clarity,4,7,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,8,Deepseek Image + Human Copy,Trustworthiness,5,7,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,9,Gemini Image + Human Copy,Purchase Intent,1,5,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,9,Gemini Image + Human Copy,Visual Appeal,2,5,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,9,Gemini Image + Human Copy,Value Convincing,3,5,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,9,Gemini Image + Human Copy,Message Clarity,4,5,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,9,Gemini Image + Human Copy,Trustworthiness,5,5,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,10,ChatGPT Both,Purchase Intent,1,5,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,10,ChatGPT Both,Visual Appeal,2,5,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,10,ChatGPT Both,Value Convincing,3,6,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,10,ChatGPT Both,Message Clarity,4,6,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,10,ChatGPT Both,Trustworthiness,5,6,1,3,ChatGPT
+R_6v7FtH5zhON27qX,Watch,11,Claude Both,Purchase Intent,1,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,11,Claude Both,Visual Appeal,2,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,11,Claude Both,Value Convincing,3,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,11,Claude Both,Message Clarity,4,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,11,Claude Both,Trustworthiness,5,7,1,3,Claude
+R_6v7FtH5zhON27qX,Watch,12,Deepseek Both,Purchase Intent,1,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,12,Deepseek Both,Visual Appeal,2,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,12,Deepseek Both,Value Convincing,3,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,12,Deepseek Both,Message Clarity,4,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,12,Deepseek Both,Trustworthiness,5,6,1,3,Deepseek
+R_6v7FtH5zhON27qX,Watch,13,Gemini Both,Purchase Intent,1,4,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,13,Gemini Both,Visual Appeal,2,2,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,13,Gemini Both,Value Convincing,3,4,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,13,Gemini Both,Message Clarity,4,4,1,3,Gemini
+R_6v7FtH5zhON27qX,Watch,13,Gemini Both,Trustworthiness,5,5,1,3,Gemini
+R_671cTbLk5psflhw,Watch,1,Human Both,Purchase Intent,1,3,1,3,Human
+R_671cTbLk5psflhw,Watch,1,Human Both,Visual Appeal,2,4,1,3,Human
+R_671cTbLk5psflhw,Watch,1,Human Both,Value Convincing,3,3,1,3,Human
+R_671cTbLk5psflhw,Watch,1,Human Both,Message Clarity,4,7,1,3,Human
+R_671cTbLk5psflhw,Watch,1,Human Both,Trustworthiness,5,7,1,3,Human
+R_671cTbLk5psflhw,Watch,2,Human Image + ChatGPT Copy,Purchase Intent,1,7,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,2,Human Image + ChatGPT Copy,Visual Appeal,2,4,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,2,Human Image + ChatGPT Copy,Value Convincing,3,7,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,2,Human Image + ChatGPT Copy,Message Clarity,4,4,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,2,Human Image + ChatGPT Copy,Trustworthiness,5,7,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,3,Human Image + Claude Copy,Purchase Intent,1,7,1,3,Claude
+R_671cTbLk5psflhw,Watch,3,Human Image + Claude Copy,Visual Appeal,2,4,1,3,Claude
+R_671cTbLk5psflhw,Watch,3,Human Image + Claude Copy,Value Convincing,3,6,1,3,Claude
+R_671cTbLk5psflhw,Watch,3,Human Image + Claude Copy,Message Clarity,4,6,1,3,Claude
+R_671cTbLk5psflhw,Watch,3,Human Image + Claude Copy,Trustworthiness,5,6,1,3,Claude
+R_671cTbLk5psflhw,Watch,4,Human Image + Deepseek Copy,Purchase Intent,1,7,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,4,Human Image + Deepseek Copy,Visual Appeal,2,4,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,4,Human Image + Deepseek Copy,Value Convincing,3,4,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,4,Human Image + Deepseek Copy,Message Clarity,4,4,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,4,Human Image + Deepseek Copy,Trustworthiness,5,2,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,5,Human Image + Gemini Copy,Purchase Intent,1,1,1,3,Gemini
+R_671cTbLk5psflhw,Watch,5,Human Image + Gemini Copy,Visual Appeal,2,4,1,3,Gemini
+R_671cTbLk5psflhw,Watch,5,Human Image + Gemini Copy,Value Convincing,3,3,1,3,Gemini
+R_671cTbLk5psflhw,Watch,5,Human Image + Gemini Copy,Message Clarity,4,3,1,3,Gemini
+R_671cTbLk5psflhw,Watch,5,Human Image + Gemini Copy,Trustworthiness,5,6,1,3,Gemini
+R_671cTbLk5psflhw,Watch,6,ChatGPT Image + Human Copy,Purchase Intent,1,3,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,6,ChatGPT Image + Human Copy,Visual Appeal,2,5,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,6,ChatGPT Image + Human Copy,Value Convincing,3,1,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,6,ChatGPT Image + Human Copy,Message Clarity,4,6,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,6,ChatGPT Image + Human Copy,Trustworthiness,5,4,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,7,Claude Image + Human Copy,Purchase Intent,1,3,1,3,Claude
+R_671cTbLk5psflhw,Watch,7,Claude Image + Human Copy,Visual Appeal,2,7,1,3,Claude
+R_671cTbLk5psflhw,Watch,7,Claude Image + Human Copy,Value Convincing,3,1,1,3,Claude
+R_671cTbLk5psflhw,Watch,7,Claude Image + Human Copy,Message Clarity,4,6,1,3,Claude
+R_671cTbLk5psflhw,Watch,7,Claude Image + Human Copy,Trustworthiness,5,4,1,3,Claude
+R_671cTbLk5psflhw,Watch,8,Deepseek Image + Human Copy,Purchase Intent,1,3,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,8,Deepseek Image + Human Copy,Visual Appeal,2,4,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,8,Deepseek Image + Human Copy,Value Convincing,3,1,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,8,Deepseek Image + Human Copy,Message Clarity,4,6,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,8,Deepseek Image + Human Copy,Trustworthiness,5,4,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,9,Gemini Image + Human Copy,Purchase Intent,1,3,1,3,Gemini
+R_671cTbLk5psflhw,Watch,9,Gemini Image + Human Copy,Visual Appeal,2,1,1,3,Gemini
+R_671cTbLk5psflhw,Watch,9,Gemini Image + Human Copy,Value Convincing,3,1,1,3,Gemini
+R_671cTbLk5psflhw,Watch,9,Gemini Image + Human Copy,Message Clarity,4,6,1,3,Gemini
+R_671cTbLk5psflhw,Watch,9,Gemini Image + Human Copy,Trustworthiness,5,4,1,3,Gemini
+R_671cTbLk5psflhw,Watch,10,ChatGPT Both,Purchase Intent,1,4,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,10,ChatGPT Both,Visual Appeal,2,3,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,10,ChatGPT Both,Value Convincing,3,5,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,10,ChatGPT Both,Message Clarity,4,4,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,10,ChatGPT Both,Trustworthiness,5,4,1,3,ChatGPT
+R_671cTbLk5psflhw,Watch,11,Claude Both,Purchase Intent,1,6,1,3,Claude
+R_671cTbLk5psflhw,Watch,11,Claude Both,Visual Appeal,2,6,1,3,Claude
+R_671cTbLk5psflhw,Watch,11,Claude Both,Value Convincing,3,5,1,3,Claude
+R_671cTbLk5psflhw,Watch,11,Claude Both,Message Clarity,4,5,1,3,Claude
+R_671cTbLk5psflhw,Watch,11,Claude Both,Trustworthiness,5,6,1,3,Claude
+R_671cTbLk5psflhw,Watch,12,Deepseek Both,Purchase Intent,1,4,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,12,Deepseek Both,Visual Appeal,2,1,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,12,Deepseek Both,Value Convincing,3,3,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,12,Deepseek Both,Message Clarity,4,5,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,12,Deepseek Both,Trustworthiness,5,3,1,3,Deepseek
+R_671cTbLk5psflhw,Watch,13,Gemini Both,Purchase Intent,1,2,1,3,Gemini
+R_671cTbLk5psflhw,Watch,13,Gemini Both,Visual Appeal,2,1,1,3,Gemini
+R_671cTbLk5psflhw,Watch,13,Gemini Both,Value Convincing,3,2,1,3,Gemini
+R_671cTbLk5psflhw,Watch,13,Gemini Both,Message Clarity,4,3,1,3,Gemini
+R_671cTbLk5psflhw,Watch,13,Gemini Both,Trustworthiness,5,2,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,1,Human Both,Purchase Intent,1,6,1,3,Human
+R_634MTKiz84DZY8F,Pillow,1,Human Both,Visual Appeal,2,6,1,3,Human
+R_634MTKiz84DZY8F,Pillow,1,Human Both,Value Convincing,3,5,1,3,Human
+R_634MTKiz84DZY8F,Pillow,1,Human Both,Message Clarity,4,4,1,3,Human
+R_634MTKiz84DZY8F,Pillow,1,Human Both,Trustworthiness,5,6,1,3,Human
+R_634MTKiz84DZY8F,Pillow,2,Human Image + ChatGPT Copy,Purchase Intent,1,6,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,2,Human Image + ChatGPT Copy,Visual Appeal,2,6,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,2,Human Image + ChatGPT Copy,Value Convincing,3,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,2,Human Image + ChatGPT Copy,Message Clarity,4,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,2,Human Image + ChatGPT Copy,Trustworthiness,5,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,3,Human Image + Claude Copy,Purchase Intent,1,7,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,3,Human Image + Claude Copy,Visual Appeal,2,6,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,3,Human Image + Claude Copy,Value Convincing,3,7,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,3,Human Image + Claude Copy,Message Clarity,4,6,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,3,Human Image + Claude Copy,Trustworthiness,5,7,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,4,Human Image + Deepseek Copy,Purchase Intent,1,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,4,Human Image + Deepseek Copy,Visual Appeal,2,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,4,Human Image + Deepseek Copy,Value Convincing,3,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,4,Human Image + Deepseek Copy,Message Clarity,4,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,4,Human Image + Deepseek Copy,Trustworthiness,5,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,5,Human Image + Gemini Copy,Purchase Intent,1,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,5,Human Image + Gemini Copy,Visual Appeal,2,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,5,Human Image + Gemini Copy,Value Convincing,3,7,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,5,Human Image + Gemini Copy,Message Clarity,4,7,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,5,Human Image + Gemini Copy,Trustworthiness,5,7,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,6,ChatGPT Image + Human Copy,Purchase Intent,1,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,6,ChatGPT Image + Human Copy,Visual Appeal,2,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,6,ChatGPT Image + Human Copy,Value Convincing,3,6,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,6,ChatGPT Image + Human Copy,Message Clarity,4,5,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,6,ChatGPT Image + Human Copy,Trustworthiness,5,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,7,Claude Image + Human Copy,Purchase Intent,1,7,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,7,Claude Image + Human Copy,Visual Appeal,2,7,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,7,Claude Image + Human Copy,Value Convincing,3,5,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,7,Claude Image + Human Copy,Message Clarity,4,4,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,7,Claude Image + Human Copy,Trustworthiness,5,7,1,3,Claude
+R_634MTKiz84DZY8F,Pillow,8,Deepseek Image + Human Copy,Purchase Intent,1,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,8,Deepseek Image + Human Copy,Visual Appeal,2,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,8,Deepseek Image + Human Copy,Value Convincing,3,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,8,Deepseek Image + Human Copy,Message Clarity,4,6,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,8,Deepseek Image + Human Copy,Trustworthiness,5,5,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,9,Gemini Image + Human Copy,Purchase Intent,1,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,9,Gemini Image + Human Copy,Visual Appeal,2,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,9,Gemini Image + Human Copy,Value Convincing,3,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,9,Gemini Image + Human Copy,Message Clarity,4,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,9,Gemini Image + Human Copy,Trustworthiness,5,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,10,ChatGPT Both,Purchase Intent,1,6,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,10,ChatGPT Both,Visual Appeal,2,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,10,ChatGPT Both,Value Convincing,3,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,10,ChatGPT Both,Message Clarity,4,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,10,ChatGPT Both,Trustworthiness,5,7,1,3,ChatGPT
+R_634MTKiz84DZY8F,Pillow,12,Deepseek Both,Purchase Intent,1,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,12,Deepseek Both,Visual Appeal,2,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,12,Deepseek Both,Value Convincing,3,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,12,Deepseek Both,Message Clarity,4,6,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,12,Deepseek Both,Trustworthiness,5,7,1,3,Deepseek
+R_634MTKiz84DZY8F,Pillow,13,Gemini Both,Purchase Intent,1,7,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,13,Gemini Both,Visual Appeal,2,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,13,Gemini Both,Value Convincing,3,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,13,Gemini Both,Message Clarity,4,6,1,3,Gemini
+R_634MTKiz84DZY8F,Pillow,13,Gemini Both,Trustworthiness,5,7,1,3,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,1,Human Both,Purchase Intent,1,5,2,1,Human
+R_6gXdz7PF79EoEKR,Cutting Board,1,Human Both,Visual Appeal,2,4,2,1,Human
+R_6gXdz7PF79EoEKR,Cutting Board,1,Human Both,Value Convincing,3,5,2,1,Human
+R_6gXdz7PF79EoEKR,Cutting Board,1,Human Both,Message Clarity,4,7,2,1,Human
+R_6gXdz7PF79EoEKR,Cutting Board,1,Human Both,Trustworthiness,5,5,2,1,Human
+R_6gXdz7PF79EoEKR,Cutting Board,2,Human Image + ChatGPT Copy,Purchase Intent,1,5,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,2,Human Image + ChatGPT Copy,Visual Appeal,2,4,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,2,Human Image + ChatGPT Copy,Value Convincing,3,6,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,2,Human Image + ChatGPT Copy,Message Clarity,4,7,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,2,Human Image + ChatGPT Copy,Trustworthiness,5,7,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,3,Human Image + Claude Copy,Purchase Intent,1,5,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,3,Human Image + Claude Copy,Visual Appeal,2,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,3,Human Image + Claude Copy,Value Convincing,3,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,3,Human Image + Claude Copy,Message Clarity,4,7,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,3,Human Image + Claude Copy,Trustworthiness,5,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,4,Human Image + Deepseek Copy,Purchase Intent,1,5,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,4,Human Image + Deepseek Copy,Visual Appeal,2,5,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,4,Human Image + Deepseek Copy,Value Convincing,3,6,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,4,Human Image + Deepseek Copy,Message Clarity,4,7,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,4,Human Image + Deepseek Copy,Trustworthiness,5,6,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,5,Human Image + Gemini Copy,Purchase Intent,1,6,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,5,Human Image + Gemini Copy,Visual Appeal,2,6,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,5,Human Image + Gemini Copy,Value Convincing,3,4,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,5,Human Image + Gemini Copy,Message Clarity,4,5,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,5,Human Image + Gemini Copy,Trustworthiness,5,4,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,6,ChatGPT Image + Human Copy,Purchase Intent,1,4,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,6,ChatGPT Image + Human Copy,Visual Appeal,2,6,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,6,ChatGPT Image + Human Copy,Value Convincing,3,4,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,6,ChatGPT Image + Human Copy,Message Clarity,4,4,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,6,ChatGPT Image + Human Copy,Trustworthiness,5,6,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,7,Claude Image + Human Copy,Purchase Intent,1,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,7,Claude Image + Human Copy,Visual Appeal,2,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,7,Claude Image + Human Copy,Value Convincing,3,4,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,7,Claude Image + Human Copy,Message Clarity,4,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,7,Claude Image + Human Copy,Trustworthiness,5,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,8,Deepseek Image + Human Copy,Purchase Intent,1,4,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,8,Deepseek Image + Human Copy,Visual Appeal,2,6,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,8,Deepseek Image + Human Copy,Value Convincing,3,4,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,8,Deepseek Image + Human Copy,Message Clarity,4,5,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,8,Deepseek Image + Human Copy,Trustworthiness,5,5,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,9,Gemini Image + Human Copy,Purchase Intent,1,6,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,9,Gemini Image + Human Copy,Visual Appeal,2,6,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,9,Gemini Image + Human Copy,Value Convincing,3,4,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,9,Gemini Image + Human Copy,Message Clarity,4,5,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,9,Gemini Image + Human Copy,Trustworthiness,5,4,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,10,ChatGPT Both,Purchase Intent,1,6,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,10,ChatGPT Both,Visual Appeal,2,6,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,10,ChatGPT Both,Value Convincing,3,4,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,10,ChatGPT Both,Message Clarity,4,6,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,10,ChatGPT Both,Trustworthiness,5,5,2,1,ChatGPT
+R_6gXdz7PF79EoEKR,Cutting Board,11,Claude Both,Purchase Intent,1,5,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,11,Claude Both,Visual Appeal,2,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,11,Claude Both,Value Convincing,3,5,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,11,Claude Both,Message Clarity,4,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,11,Claude Both,Trustworthiness,5,6,2,1,Claude
+R_6gXdz7PF79EoEKR,Cutting Board,12,Deepseek Both,Purchase Intent,1,5,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,12,Deepseek Both,Visual Appeal,2,5,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,12,Deepseek Both,Value Convincing,3,6,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,12,Deepseek Both,Message Clarity,4,6,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,12,Deepseek Both,Trustworthiness,5,5,2,1,Deepseek
+R_6gXdz7PF79EoEKR,Cutting Board,13,Gemini Both,Purchase Intent,1,5,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,13,Gemini Both,Visual Appeal,2,4,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,13,Gemini Both,Value Convincing,3,5,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,13,Gemini Both,Message Clarity,4,5,2,1,Gemini
+R_6gXdz7PF79EoEKR,Cutting Board,13,Gemini Both,Trustworthiness,5,6,2,1,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,1,Human Both,Purchase Intent,1,3,2,4,Human
+R_1qUrHc8BYj2WzYQ,Pillow,1,Human Both,Visual Appeal,2,2,2,4,Human
+R_1qUrHc8BYj2WzYQ,Pillow,1,Human Both,Value Convincing,3,3,2,4,Human
+R_1qUrHc8BYj2WzYQ,Pillow,1,Human Both,Message Clarity,4,3,2,4,Human
+R_1qUrHc8BYj2WzYQ,Pillow,1,Human Both,Trustworthiness,5,3,2,4,Human
+R_1qUrHc8BYj2WzYQ,Pillow,2,Human Image + ChatGPT Copy,Purchase Intent,1,4,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,2,Human Image + ChatGPT Copy,Visual Appeal,2,1,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,2,Human Image + ChatGPT Copy,Value Convincing,3,3,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,2,Human Image + ChatGPT Copy,Message Clarity,4,2,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,2,Human Image + ChatGPT Copy,Trustworthiness,5,2,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,3,Human Image + Claude Copy,Purchase Intent,1,2,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,3,Human Image + Claude Copy,Visual Appeal,2,1,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,3,Human Image + Claude Copy,Value Convincing,3,2,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,3,Human Image + Claude Copy,Message Clarity,4,4,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,3,Human Image + Claude Copy,Trustworthiness,5,2,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,4,Human Image + Deepseek Copy,Purchase Intent,1,2,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,4,Human Image + Deepseek Copy,Visual Appeal,2,2,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,4,Human Image + Deepseek Copy,Value Convincing,3,2,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,4,Human Image + Deepseek Copy,Message Clarity,4,2,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,4,Human Image + Deepseek Copy,Trustworthiness,5,3,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,5,Human Image + Gemini Copy,Purchase Intent,1,3,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,5,Human Image + Gemini Copy,Visual Appeal,2,2,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,5,Human Image + Gemini Copy,Value Convincing,3,2,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,5,Human Image + Gemini Copy,Message Clarity,4,3,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,5,Human Image + Gemini Copy,Trustworthiness,5,2,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,6,ChatGPT Image + Human Copy,Purchase Intent,1,1,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,6,ChatGPT Image + Human Copy,Visual Appeal,2,1,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,6,ChatGPT Image + Human Copy,Value Convincing,3,1,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,6,ChatGPT Image + Human Copy,Message Clarity,4,1,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,6,ChatGPT Image + Human Copy,Trustworthiness,5,1,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,7,Claude Image + Human Copy,Purchase Intent,1,5,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,7,Claude Image + Human Copy,Visual Appeal,2,4,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,7,Claude Image + Human Copy,Value Convincing,3,4,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,7,Claude Image + Human Copy,Message Clarity,4,3,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,7,Claude Image + Human Copy,Trustworthiness,5,3,2,4,Claude
+R_1qUrHc8BYj2WzYQ,Pillow,8,Deepseek Image + Human Copy,Purchase Intent,1,5,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,8,Deepseek Image + Human Copy,Visual Appeal,2,6,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,8,Deepseek Image + Human Copy,Value Convincing,3,6,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,8,Deepseek Image + Human Copy,Message Clarity,4,5,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,8,Deepseek Image + Human Copy,Trustworthiness,5,6,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,9,Gemini Image + Human Copy,Purchase Intent,1,6,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,9,Gemini Image + Human Copy,Visual Appeal,2,4,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,9,Gemini Image + Human Copy,Value Convincing,3,4,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,9,Gemini Image + Human Copy,Message Clarity,4,6,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,9,Gemini Image + Human Copy,Trustworthiness,5,5,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,10,ChatGPT Both,Purchase Intent,1,1,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,10,ChatGPT Both,Visual Appeal,2,1,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,10,ChatGPT Both,Value Convincing,3,3,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,10,ChatGPT Both,Message Clarity,4,2,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,10,ChatGPT Both,Trustworthiness,5,3,2,4,ChatGPT
+R_1qUrHc8BYj2WzYQ,Pillow,12,Deepseek Both,Purchase Intent,1,6,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,12,Deepseek Both,Visual Appeal,2,5,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,12,Deepseek Both,Value Convincing,3,5,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,12,Deepseek Both,Message Clarity,4,5,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,12,Deepseek Both,Trustworthiness,5,5,2,4,Deepseek
+R_1qUrHc8BYj2WzYQ,Pillow,13,Gemini Both,Purchase Intent,1,6,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,13,Gemini Both,Visual Appeal,2,1,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,13,Gemini Both,Value Convincing,3,4,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,13,Gemini Both,Message Clarity,4,3,2,4,Gemini
+R_1qUrHc8BYj2WzYQ,Pillow,13,Gemini Both,Trustworthiness,5,5,2,4,Gemini
+R_67TEDsDIKzhLOpx,Watch,1,Human Both,Purchase Intent,1,4,1,3,Human
+R_67TEDsDIKzhLOpx,Watch,1,Human Both,Visual Appeal,2,4,1,3,Human
+R_67TEDsDIKzhLOpx,Watch,1,Human Both,Value Convincing,3,4,1,3,Human
+R_67TEDsDIKzhLOpx,Watch,1,Human Both,Message Clarity,4,4,1,3,Human
+R_67TEDsDIKzhLOpx,Watch,1,Human Both,Trustworthiness,5,4,1,3,Human
+R_67TEDsDIKzhLOpx,Watch,2,Human Image + ChatGPT Copy,Purchase Intent,1,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,2,Human Image + ChatGPT Copy,Visual Appeal,2,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,2,Human Image + ChatGPT Copy,Value Convincing,3,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,2,Human Image + ChatGPT Copy,Message Clarity,4,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,2,Human Image + ChatGPT Copy,Trustworthiness,5,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,3,Human Image + Claude Copy,Purchase Intent,1,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,3,Human Image + Claude Copy,Visual Appeal,2,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,3,Human Image + Claude Copy,Value Convincing,3,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,3,Human Image + Claude Copy,Message Clarity,4,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,3,Human Image + Claude Copy,Trustworthiness,5,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,4,Human Image + Deepseek Copy,Purchase Intent,1,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,4,Human Image + Deepseek Copy,Visual Appeal,2,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,4,Human Image + Deepseek Copy,Value Convincing,3,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,4,Human Image + Deepseek Copy,Message Clarity,4,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,4,Human Image + Deepseek Copy,Trustworthiness,5,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,5,Human Image + Gemini Copy,Purchase Intent,1,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,5,Human Image + Gemini Copy,Visual Appeal,2,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,5,Human Image + Gemini Copy,Value Convincing,3,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,5,Human Image + Gemini Copy,Message Clarity,4,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,5,Human Image + Gemini Copy,Trustworthiness,5,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,6,ChatGPT Image + Human Copy,Purchase Intent,1,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,6,ChatGPT Image + Human Copy,Visual Appeal,2,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,6,ChatGPT Image + Human Copy,Value Convincing,3,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,6,ChatGPT Image + Human Copy,Message Clarity,4,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,6,ChatGPT Image + Human Copy,Trustworthiness,5,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,7,Claude Image + Human Copy,Purchase Intent,1,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,7,Claude Image + Human Copy,Visual Appeal,2,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,7,Claude Image + Human Copy,Value Convincing,3,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,7,Claude Image + Human Copy,Message Clarity,4,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,7,Claude Image + Human Copy,Trustworthiness,5,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,8,Deepseek Image + Human Copy,Purchase Intent,1,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,8,Deepseek Image + Human Copy,Visual Appeal,2,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,8,Deepseek Image + Human Copy,Value Convincing,3,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,8,Deepseek Image + Human Copy,Message Clarity,4,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,8,Deepseek Image + Human Copy,Trustworthiness,5,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,9,Gemini Image + Human Copy,Purchase Intent,1,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,9,Gemini Image + Human Copy,Visual Appeal,2,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,9,Gemini Image + Human Copy,Value Convincing,3,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,9,Gemini Image + Human Copy,Message Clarity,4,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,9,Gemini Image + Human Copy,Trustworthiness,5,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,10,ChatGPT Both,Purchase Intent,1,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,10,ChatGPT Both,Visual Appeal,2,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,10,ChatGPT Both,Value Convincing,3,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,10,ChatGPT Both,Message Clarity,4,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,10,ChatGPT Both,Trustworthiness,5,4,1,3,ChatGPT
+R_67TEDsDIKzhLOpx,Watch,11,Claude Both,Purchase Intent,1,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,11,Claude Both,Visual Appeal,2,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,11,Claude Both,Value Convincing,3,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,11,Claude Both,Message Clarity,4,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,11,Claude Both,Trustworthiness,5,4,1,3,Claude
+R_67TEDsDIKzhLOpx,Watch,12,Deepseek Both,Purchase Intent,1,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,12,Deepseek Both,Visual Appeal,2,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,12,Deepseek Both,Value Convincing,3,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,12,Deepseek Both,Message Clarity,4,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,12,Deepseek Both,Trustworthiness,5,4,1,3,Deepseek
+R_67TEDsDIKzhLOpx,Watch,13,Gemini Both,Purchase Intent,1,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,13,Gemini Both,Visual Appeal,2,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,13,Gemini Both,Value Convincing,3,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,13,Gemini Both,Message Clarity,4,4,1,3,Gemini
+R_67TEDsDIKzhLOpx,Watch,13,Gemini Both,Trustworthiness,5,4,1,3,Gemini
+R_640J1KjLG1cLOBI,Watch,1,Human Both,Purchase Intent,1,4,2,4,Human
+R_640J1KjLG1cLOBI,Watch,1,Human Both,Visual Appeal,2,5,2,4,Human
+R_640J1KjLG1cLOBI,Watch,1,Human Both,Value Convincing,3,6,2,4,Human
+R_640J1KjLG1cLOBI,Watch,1,Human Both,Message Clarity,4,6,2,4,Human
+R_640J1KjLG1cLOBI,Watch,1,Human Both,Trustworthiness,5,6,2,4,Human
+R_640J1KjLG1cLOBI,Watch,2,Human Image + ChatGPT Copy,Purchase Intent,1,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,2,Human Image + ChatGPT Copy,Visual Appeal,2,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,2,Human Image + ChatGPT Copy,Value Convincing,3,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,2,Human Image + ChatGPT Copy,Message Clarity,4,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,2,Human Image + ChatGPT Copy,Trustworthiness,5,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,3,Human Image + Claude Copy,Purchase Intent,1,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,3,Human Image + Claude Copy,Visual Appeal,2,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,3,Human Image + Claude Copy,Value Convincing,3,3,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,3,Human Image + Claude Copy,Message Clarity,4,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,3,Human Image + Claude Copy,Trustworthiness,5,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,4,Human Image + Deepseek Copy,Purchase Intent,1,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,4,Human Image + Deepseek Copy,Visual Appeal,2,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,4,Human Image + Deepseek Copy,Value Convincing,3,3,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,4,Human Image + Deepseek Copy,Message Clarity,4,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,4,Human Image + Deepseek Copy,Trustworthiness,5,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,5,Human Image + Gemini Copy,Purchase Intent,1,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,5,Human Image + Gemini Copy,Visual Appeal,2,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,5,Human Image + Gemini Copy,Value Convincing,3,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,5,Human Image + Gemini Copy,Message Clarity,4,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,5,Human Image + Gemini Copy,Trustworthiness,5,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,6,ChatGPT Image + Human Copy,Purchase Intent,1,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,6,ChatGPT Image + Human Copy,Visual Appeal,2,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,6,ChatGPT Image + Human Copy,Value Convincing,3,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,6,ChatGPT Image + Human Copy,Message Clarity,4,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,6,ChatGPT Image + Human Copy,Trustworthiness,5,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,7,Claude Image + Human Copy,Purchase Intent,1,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,7,Claude Image + Human Copy,Visual Appeal,2,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,7,Claude Image + Human Copy,Value Convincing,3,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,7,Claude Image + Human Copy,Message Clarity,4,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,7,Claude Image + Human Copy,Trustworthiness,5,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,8,Deepseek Image + Human Copy,Purchase Intent,1,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,8,Deepseek Image + Human Copy,Visual Appeal,2,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,8,Deepseek Image + Human Copy,Value Convincing,3,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,8,Deepseek Image + Human Copy,Message Clarity,4,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,8,Deepseek Image + Human Copy,Trustworthiness,5,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,9,Gemini Image + Human Copy,Purchase Intent,1,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,9,Gemini Image + Human Copy,Visual Appeal,2,3,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,9,Gemini Image + Human Copy,Value Convincing,3,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,9,Gemini Image + Human Copy,Message Clarity,4,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,9,Gemini Image + Human Copy,Trustworthiness,5,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,10,ChatGPT Both,Purchase Intent,1,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,10,ChatGPT Both,Visual Appeal,2,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,10,ChatGPT Both,Value Convincing,3,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,10,ChatGPT Both,Message Clarity,4,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,10,ChatGPT Both,Trustworthiness,5,4,2,4,ChatGPT
+R_640J1KjLG1cLOBI,Watch,11,Claude Both,Purchase Intent,1,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,11,Claude Both,Visual Appeal,2,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,11,Claude Both,Value Convincing,3,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,11,Claude Both,Message Clarity,4,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,11,Claude Both,Trustworthiness,5,4,2,4,Claude
+R_640J1KjLG1cLOBI,Watch,12,Deepseek Both,Purchase Intent,1,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,12,Deepseek Both,Visual Appeal,2,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,12,Deepseek Both,Value Convincing,3,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,12,Deepseek Both,Message Clarity,4,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,12,Deepseek Both,Trustworthiness,5,4,2,4,Deepseek
+R_640J1KjLG1cLOBI,Watch,13,Gemini Both,Purchase Intent,1,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,13,Gemini Both,Visual Appeal,2,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,13,Gemini Both,Value Convincing,3,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,13,Gemini Both,Message Clarity,4,4,2,4,Gemini
+R_640J1KjLG1cLOBI,Watch,13,Gemini Both,Trustworthiness,5,4,2,4,Gemini
+R_6nN8tq8C70oiutL,Pillow,1,Human Both,Purchase Intent,1,5,1,3,Human
+R_6nN8tq8C70oiutL,Pillow,1,Human Both,Visual Appeal,2,7,1,3,Human
+R_6nN8tq8C70oiutL,Pillow,1,Human Both,Value Convincing,3,5,1,3,Human
+R_6nN8tq8C70oiutL,Pillow,1,Human Both,Message Clarity,4,5,1,3,Human
+R_6nN8tq8C70oiutL,Pillow,1,Human Both,Trustworthiness,5,5,1,3,Human
+R_6nN8tq8C70oiutL,Pillow,2,Human Image + ChatGPT Copy,Purchase Intent,1,5,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,2,Human Image + ChatGPT Copy,Visual Appeal,2,5,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,2,Human Image + ChatGPT Copy,Value Convincing,3,5,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,2,Human Image + ChatGPT Copy,Message Clarity,4,5,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,2,Human Image + ChatGPT Copy,Trustworthiness,5,5,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,3,Human Image + Claude Copy,Purchase Intent,1,3,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,3,Human Image + Claude Copy,Visual Appeal,2,3,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,3,Human Image + Claude Copy,Value Convincing,3,3,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,3,Human Image + Claude Copy,Message Clarity,4,3,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,3,Human Image + Claude Copy,Trustworthiness,5,2,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,4,Human Image + Deepseek Copy,Purchase Intent,1,4,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,4,Human Image + Deepseek Copy,Visual Appeal,2,4,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,4,Human Image + Deepseek Copy,Value Convincing,3,6,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,4,Human Image + Deepseek Copy,Message Clarity,4,6,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,4,Human Image + Deepseek Copy,Trustworthiness,5,6,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,5,Human Image + Gemini Copy,Purchase Intent,1,5,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,5,Human Image + Gemini Copy,Visual Appeal,2,5,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,5,Human Image + Gemini Copy,Value Convincing,3,6,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,5,Human Image + Gemini Copy,Message Clarity,4,6,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,5,Human Image + Gemini Copy,Trustworthiness,5,6,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,6,ChatGPT Image + Human Copy,Purchase Intent,1,4,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,6,ChatGPT Image + Human Copy,Visual Appeal,2,4,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,6,ChatGPT Image + Human Copy,Value Convincing,3,4,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,6,ChatGPT Image + Human Copy,Message Clarity,4,4,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,6,ChatGPT Image + Human Copy,Trustworthiness,5,3,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,7,Claude Image + Human Copy,Purchase Intent,1,4,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,7,Claude Image + Human Copy,Visual Appeal,2,4,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,7,Claude Image + Human Copy,Value Convincing,3,4,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,7,Claude Image + Human Copy,Message Clarity,4,4,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,7,Claude Image + Human Copy,Trustworthiness,5,4,1,3,Claude
+R_6nN8tq8C70oiutL,Pillow,8,Deepseek Image + Human Copy,Purchase Intent,1,5,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,8,Deepseek Image + Human Copy,Visual Appeal,2,4,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,8,Deepseek Image + Human Copy,Value Convincing,3,5,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,8,Deepseek Image + Human Copy,Message Clarity,4,5,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,8,Deepseek Image + Human Copy,Trustworthiness,5,4,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,9,Gemini Image + Human Copy,Purchase Intent,1,5,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,9,Gemini Image + Human Copy,Visual Appeal,2,4,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,9,Gemini Image + Human Copy,Value Convincing,3,4,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,9,Gemini Image + Human Copy,Message Clarity,4,5,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,9,Gemini Image + Human Copy,Trustworthiness,5,5,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,10,ChatGPT Both,Purchase Intent,1,4,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,10,ChatGPT Both,Visual Appeal,2,3,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,10,ChatGPT Both,Value Convincing,3,3,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,10,ChatGPT Both,Message Clarity,4,4,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,10,ChatGPT Both,Trustworthiness,5,3,1,3,ChatGPT
+R_6nN8tq8C70oiutL,Pillow,12,Deepseek Both,Purchase Intent,1,5,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,12,Deepseek Both,Visual Appeal,2,6,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,12,Deepseek Both,Value Convincing,3,5,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,12,Deepseek Both,Message Clarity,4,5,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,12,Deepseek Both,Trustworthiness,5,5,1,3,Deepseek
+R_6nN8tq8C70oiutL,Pillow,13,Gemini Both,Purchase Intent,1,4,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,13,Gemini Both,Visual Appeal,2,4,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,13,Gemini Both,Value Convincing,3,3,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,13,Gemini Both,Message Clarity,4,3,1,3,Gemini
+R_6nN8tq8C70oiutL,Pillow,13,Gemini Both,Trustworthiness,5,4,1,3,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,1,Human Both,Purchase Intent,1,4,1,2,Human
+R_6O3aCJsxnubeoar,Cutting Board,1,Human Both,Visual Appeal,2,4,1,2,Human
+R_6O3aCJsxnubeoar,Cutting Board,1,Human Both,Value Convincing,3,5,1,2,Human
+R_6O3aCJsxnubeoar,Cutting Board,1,Human Both,Message Clarity,4,4,1,2,Human
+R_6O3aCJsxnubeoar,Cutting Board,1,Human Both,Trustworthiness,5,5,1,2,Human
+R_6O3aCJsxnubeoar,Cutting Board,2,Human Image + ChatGPT Copy,Purchase Intent,1,5,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,2,Human Image + ChatGPT Copy,Visual Appeal,2,6,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,2,Human Image + ChatGPT Copy,Value Convincing,3,6,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,2,Human Image + ChatGPT Copy,Message Clarity,4,5,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,2,Human Image + ChatGPT Copy,Trustworthiness,5,5,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,3,Human Image + Claude Copy,Purchase Intent,1,4,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,3,Human Image + Claude Copy,Visual Appeal,2,4,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,3,Human Image + Claude Copy,Value Convincing,3,4,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,3,Human Image + Claude Copy,Message Clarity,4,3,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,3,Human Image + Claude Copy,Trustworthiness,5,3,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,4,Human Image + Deepseek Copy,Purchase Intent,1,3,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,4,Human Image + Deepseek Copy,Visual Appeal,2,3,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,4,Human Image + Deepseek Copy,Value Convincing,3,3,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,4,Human Image + Deepseek Copy,Message Clarity,4,2,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,4,Human Image + Deepseek Copy,Trustworthiness,5,2,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,5,Human Image + Gemini Copy,Purchase Intent,1,5,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,5,Human Image + Gemini Copy,Visual Appeal,2,5,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,5,Human Image + Gemini Copy,Value Convincing,3,4,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,5,Human Image + Gemini Copy,Message Clarity,4,6,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,5,Human Image + Gemini Copy,Trustworthiness,5,3,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,6,ChatGPT Image + Human Copy,Purchase Intent,1,3,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,6,ChatGPT Image + Human Copy,Visual Appeal,2,3,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,6,ChatGPT Image + Human Copy,Value Convincing,3,3,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,6,ChatGPT Image + Human Copy,Message Clarity,4,2,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,6,ChatGPT Image + Human Copy,Trustworthiness,5,3,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,7,Claude Image + Human Copy,Purchase Intent,1,4,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,7,Claude Image + Human Copy,Visual Appeal,2,3,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,7,Claude Image + Human Copy,Value Convincing,3,2,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,7,Claude Image + Human Copy,Message Clarity,4,3,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,7,Claude Image + Human Copy,Trustworthiness,5,3,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,8,Deepseek Image + Human Copy,Purchase Intent,1,3,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,8,Deepseek Image + Human Copy,Visual Appeal,2,4,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,8,Deepseek Image + Human Copy,Value Convincing,3,4,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,8,Deepseek Image + Human Copy,Message Clarity,4,3,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,8,Deepseek Image + Human Copy,Trustworthiness,5,4,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,9,Gemini Image + Human Copy,Purchase Intent,1,4,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,9,Gemini Image + Human Copy,Visual Appeal,2,3,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,9,Gemini Image + Human Copy,Value Convincing,3,4,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,9,Gemini Image + Human Copy,Message Clarity,4,4,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,9,Gemini Image + Human Copy,Trustworthiness,5,4,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,10,ChatGPT Both,Purchase Intent,1,3,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,10,ChatGPT Both,Visual Appeal,2,4,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,10,ChatGPT Both,Value Convincing,3,3,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,10,ChatGPT Both,Message Clarity,4,3,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,10,ChatGPT Both,Trustworthiness,5,4,1,2,ChatGPT
+R_6O3aCJsxnubeoar,Cutting Board,11,Claude Both,Purchase Intent,1,5,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,11,Claude Both,Visual Appeal,2,5,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,11,Claude Both,Value Convincing,3,4,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,11,Claude Both,Message Clarity,4,5,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,11,Claude Both,Trustworthiness,5,5,1,2,Claude
+R_6O3aCJsxnubeoar,Cutting Board,12,Deepseek Both,Purchase Intent,1,3,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,12,Deepseek Both,Visual Appeal,2,4,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,12,Deepseek Both,Value Convincing,3,3,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,12,Deepseek Both,Message Clarity,4,3,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,12,Deepseek Both,Trustworthiness,5,4,1,2,Deepseek
+R_6O3aCJsxnubeoar,Cutting Board,13,Gemini Both,Purchase Intent,1,3,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,13,Gemini Both,Visual Appeal,2,3,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,13,Gemini Both,Value Convincing,3,3,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,13,Gemini Both,Message Clarity,4,3,1,2,Gemini
+R_6O3aCJsxnubeoar,Cutting Board,13,Gemini Both,Trustworthiness,5,3,1,2,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,1,Human Both,Purchase Intent,1,3,1,3,Human
+R_6QvBUBahqHLqylP,Cutting Board,1,Human Both,Visual Appeal,2,1,1,3,Human
+R_6QvBUBahqHLqylP,Cutting Board,1,Human Both,Value Convincing,3,3,1,3,Human
+R_6QvBUBahqHLqylP,Cutting Board,1,Human Both,Message Clarity,4,1,1,3,Human
+R_6QvBUBahqHLqylP,Cutting Board,1,Human Both,Trustworthiness,5,3,1,3,Human
+R_6QvBUBahqHLqylP,Cutting Board,2,Human Image + ChatGPT Copy,Purchase Intent,1,3,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,2,Human Image + ChatGPT Copy,Visual Appeal,2,2,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,2,Human Image + ChatGPT Copy,Value Convincing,3,3,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,2,Human Image + ChatGPT Copy,Message Clarity,4,5,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,2,Human Image + ChatGPT Copy,Trustworthiness,5,3,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,3,Human Image + Claude Copy,Purchase Intent,1,3,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,3,Human Image + Claude Copy,Visual Appeal,2,3,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,3,Human Image + Claude Copy,Value Convincing,3,4,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,3,Human Image + Claude Copy,Message Clarity,4,2,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,3,Human Image + Claude Copy,Trustworthiness,5,3,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,4,Human Image + Deepseek Copy,Purchase Intent,1,2,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,4,Human Image + Deepseek Copy,Visual Appeal,2,3,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,4,Human Image + Deepseek Copy,Value Convincing,3,3,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,4,Human Image + Deepseek Copy,Message Clarity,4,3,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,4,Human Image + Deepseek Copy,Trustworthiness,5,3,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,5,Human Image + Gemini Copy,Purchase Intent,1,3,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,5,Human Image + Gemini Copy,Visual Appeal,2,2,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,5,Human Image + Gemini Copy,Value Convincing,3,1,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,5,Human Image + Gemini Copy,Message Clarity,4,2,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,5,Human Image + Gemini Copy,Trustworthiness,5,3,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,6,ChatGPT Image + Human Copy,Purchase Intent,1,7,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,6,ChatGPT Image + Human Copy,Visual Appeal,2,5,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,6,ChatGPT Image + Human Copy,Value Convincing,3,4,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,6,ChatGPT Image + Human Copy,Message Clarity,4,5,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,6,ChatGPT Image + Human Copy,Trustworthiness,5,7,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,7,Claude Image + Human Copy,Purchase Intent,1,5,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,7,Claude Image + Human Copy,Visual Appeal,2,3,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,7,Claude Image + Human Copy,Value Convincing,3,5,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,7,Claude Image + Human Copy,Message Clarity,4,4,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,7,Claude Image + Human Copy,Trustworthiness,5,3,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,8,Deepseek Image + Human Copy,Purchase Intent,1,5,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,8,Deepseek Image + Human Copy,Visual Appeal,2,5,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,8,Deepseek Image + Human Copy,Value Convincing,3,5,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,8,Deepseek Image + Human Copy,Message Clarity,4,4,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,8,Deepseek Image + Human Copy,Trustworthiness,5,5,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,9,Gemini Image + Human Copy,Purchase Intent,1,5,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,9,Gemini Image + Human Copy,Visual Appeal,2,5,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,9,Gemini Image + Human Copy,Value Convincing,3,5,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,9,Gemini Image + Human Copy,Message Clarity,4,5,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,9,Gemini Image + Human Copy,Trustworthiness,5,5,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,10,ChatGPT Both,Purchase Intent,1,5,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,10,ChatGPT Both,Visual Appeal,2,4,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,10,ChatGPT Both,Value Convincing,3,4,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,10,ChatGPT Both,Message Clarity,4,5,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,10,ChatGPT Both,Trustworthiness,5,4,1,3,ChatGPT
+R_6QvBUBahqHLqylP,Cutting Board,11,Claude Both,Purchase Intent,1,2,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,11,Claude Both,Visual Appeal,2,3,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,11,Claude Both,Value Convincing,3,3,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,11,Claude Both,Message Clarity,4,3,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,11,Claude Both,Trustworthiness,5,3,1,3,Claude
+R_6QvBUBahqHLqylP,Cutting Board,12,Deepseek Both,Purchase Intent,1,4,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,12,Deepseek Both,Visual Appeal,2,4,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,12,Deepseek Both,Value Convincing,3,4,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,12,Deepseek Both,Message Clarity,4,2,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,12,Deepseek Both,Trustworthiness,5,5,1,3,Deepseek
+R_6QvBUBahqHLqylP,Cutting Board,13,Gemini Both,Purchase Intent,1,2,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,13,Gemini Both,Visual Appeal,2,2,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,13,Gemini Both,Value Convincing,3,2,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,13,Gemini Both,Message Clarity,4,1,1,3,Gemini
+R_6QvBUBahqHLqylP,Cutting Board,13,Gemini Both,Trustworthiness,5,3,1,3,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,1,Human Both,Purchase Intent,1,4,1,2,Human
+R_6DX8qz1FXfvaqd3,Pillow,1,Human Both,Visual Appeal,2,3,1,2,Human
+R_6DX8qz1FXfvaqd3,Pillow,1,Human Both,Value Convincing,3,4,1,2,Human
+R_6DX8qz1FXfvaqd3,Pillow,1,Human Both,Message Clarity,4,1,1,2,Human
+R_6DX8qz1FXfvaqd3,Pillow,1,Human Both,Trustworthiness,5,2,1,2,Human
+R_6DX8qz1FXfvaqd3,Pillow,2,Human Image + ChatGPT Copy,Purchase Intent,1,3,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,2,Human Image + ChatGPT Copy,Visual Appeal,2,3,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,2,Human Image + ChatGPT Copy,Value Convincing,3,3,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,2,Human Image + ChatGPT Copy,Message Clarity,4,4,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,2,Human Image + ChatGPT Copy,Trustworthiness,5,2,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,3,Human Image + Claude Copy,Purchase Intent,1,3,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,3,Human Image + Claude Copy,Visual Appeal,2,4,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,3,Human Image + Claude Copy,Value Convincing,3,5,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,3,Human Image + Claude Copy,Message Clarity,4,3,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,3,Human Image + Claude Copy,Trustworthiness,5,2,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,4,Human Image + Deepseek Copy,Purchase Intent,1,5,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,4,Human Image + Deepseek Copy,Visual Appeal,2,4,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,4,Human Image + Deepseek Copy,Value Convincing,3,3,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,4,Human Image + Deepseek Copy,Message Clarity,4,5,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,4,Human Image + Deepseek Copy,Trustworthiness,5,6,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,5,Human Image + Gemini Copy,Purchase Intent,1,3,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,5,Human Image + Gemini Copy,Visual Appeal,2,4,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,5,Human Image + Gemini Copy,Value Convincing,3,4,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,5,Human Image + Gemini Copy,Message Clarity,4,4,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,5,Human Image + Gemini Copy,Trustworthiness,5,4,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,6,ChatGPT Image + Human Copy,Purchase Intent,1,3,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,6,ChatGPT Image + Human Copy,Visual Appeal,2,4,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,6,ChatGPT Image + Human Copy,Value Convincing,3,3,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,6,ChatGPT Image + Human Copy,Message Clarity,4,4,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,6,ChatGPT Image + Human Copy,Trustworthiness,5,5,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,7,Claude Image + Human Copy,Purchase Intent,1,3,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,7,Claude Image + Human Copy,Visual Appeal,2,4,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,7,Claude Image + Human Copy,Value Convincing,3,5,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,7,Claude Image + Human Copy,Message Clarity,4,4,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,7,Claude Image + Human Copy,Trustworthiness,5,4,1,2,Claude
+R_6DX8qz1FXfvaqd3,Pillow,8,Deepseek Image + Human Copy,Purchase Intent,1,5,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,8,Deepseek Image + Human Copy,Visual Appeal,2,2,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,8,Deepseek Image + Human Copy,Value Convincing,3,4,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,8,Deepseek Image + Human Copy,Message Clarity,4,3,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,8,Deepseek Image + Human Copy,Trustworthiness,5,5,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,9,Gemini Image + Human Copy,Purchase Intent,1,3,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,9,Gemini Image + Human Copy,Visual Appeal,2,2,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,9,Gemini Image + Human Copy,Value Convincing,3,4,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,9,Gemini Image + Human Copy,Message Clarity,4,4,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,9,Gemini Image + Human Copy,Trustworthiness,5,5,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,10,ChatGPT Both,Purchase Intent,1,1,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,10,ChatGPT Both,Visual Appeal,2,3,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,10,ChatGPT Both,Value Convincing,3,4,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,10,ChatGPT Both,Message Clarity,4,4,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,10,ChatGPT Both,Trustworthiness,5,5,1,2,ChatGPT
+R_6DX8qz1FXfvaqd3,Pillow,12,Deepseek Both,Purchase Intent,1,5,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,12,Deepseek Both,Visual Appeal,2,4,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,12,Deepseek Both,Value Convincing,3,4,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,12,Deepseek Both,Message Clarity,4,3,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,12,Deepseek Both,Trustworthiness,5,5,1,2,Deepseek
+R_6DX8qz1FXfvaqd3,Pillow,13,Gemini Both,Purchase Intent,1,5,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,13,Gemini Both,Visual Appeal,2,4,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,13,Gemini Both,Value Convincing,3,4,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,13,Gemini Both,Message Clarity,4,4,1,2,Gemini
+R_6DX8qz1FXfvaqd3,Pillow,13,Gemini Both,Trustworthiness,5,3,1,2,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,1,Human Both,Purchase Intent,1,7,2,3,Human
+R_9GDWShVvvpPCEMN,Cutting Board,1,Human Both,Visual Appeal,2,7,2,3,Human
+R_9GDWShVvvpPCEMN,Cutting Board,1,Human Both,Value Convincing,3,7,2,3,Human
+R_9GDWShVvvpPCEMN,Cutting Board,1,Human Both,Message Clarity,4,6,2,3,Human
+R_9GDWShVvvpPCEMN,Cutting Board,1,Human Both,Trustworthiness,5,7,2,3,Human
+R_9GDWShVvvpPCEMN,Cutting Board,2,Human Image + ChatGPT Copy,Purchase Intent,1,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,2,Human Image + ChatGPT Copy,Visual Appeal,2,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,2,Human Image + ChatGPT Copy,Value Convincing,3,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,2,Human Image + ChatGPT Copy,Message Clarity,4,6,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,2,Human Image + ChatGPT Copy,Trustworthiness,5,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,3,Human Image + Claude Copy,Purchase Intent,1,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,3,Human Image + Claude Copy,Visual Appeal,2,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,3,Human Image + Claude Copy,Value Convincing,3,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,3,Human Image + Claude Copy,Message Clarity,4,6,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,3,Human Image + Claude Copy,Trustworthiness,5,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,4,Human Image + Deepseek Copy,Purchase Intent,1,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,4,Human Image + Deepseek Copy,Visual Appeal,2,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,4,Human Image + Deepseek Copy,Value Convincing,3,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,4,Human Image + Deepseek Copy,Message Clarity,4,6,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,4,Human Image + Deepseek Copy,Trustworthiness,5,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,5,Human Image + Gemini Copy,Purchase Intent,1,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,5,Human Image + Gemini Copy,Visual Appeal,2,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,5,Human Image + Gemini Copy,Value Convincing,3,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,5,Human Image + Gemini Copy,Message Clarity,4,6,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,5,Human Image + Gemini Copy,Trustworthiness,5,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,6,ChatGPT Image + Human Copy,Purchase Intent,1,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,6,ChatGPT Image + Human Copy,Visual Appeal,2,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,6,ChatGPT Image + Human Copy,Value Convincing,3,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,6,ChatGPT Image + Human Copy,Message Clarity,4,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,6,ChatGPT Image + Human Copy,Trustworthiness,5,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,7,Claude Image + Human Copy,Purchase Intent,1,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,7,Claude Image + Human Copy,Visual Appeal,2,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,7,Claude Image + Human Copy,Value Convincing,3,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,7,Claude Image + Human Copy,Message Clarity,4,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,7,Claude Image + Human Copy,Trustworthiness,5,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,8,Deepseek Image + Human Copy,Purchase Intent,1,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,8,Deepseek Image + Human Copy,Visual Appeal,2,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,8,Deepseek Image + Human Copy,Value Convincing,3,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,8,Deepseek Image + Human Copy,Message Clarity,4,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,8,Deepseek Image + Human Copy,Trustworthiness,5,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,9,Gemini Image + Human Copy,Purchase Intent,1,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,9,Gemini Image + Human Copy,Visual Appeal,2,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,9,Gemini Image + Human Copy,Value Convincing,3,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,9,Gemini Image + Human Copy,Message Clarity,4,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,9,Gemini Image + Human Copy,Trustworthiness,5,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,10,ChatGPT Both,Purchase Intent,1,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,10,ChatGPT Both,Visual Appeal,2,6,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,10,ChatGPT Both,Value Convincing,3,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,10,ChatGPT Both,Message Clarity,4,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,10,ChatGPT Both,Trustworthiness,5,7,2,3,ChatGPT
+R_9GDWShVvvpPCEMN,Cutting Board,11,Claude Both,Purchase Intent,1,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,11,Claude Both,Visual Appeal,2,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,11,Claude Both,Value Convincing,3,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,11,Claude Both,Message Clarity,4,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,11,Claude Both,Trustworthiness,5,7,2,3,Claude
+R_9GDWShVvvpPCEMN,Cutting Board,12,Deepseek Both,Purchase Intent,1,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,12,Deepseek Both,Visual Appeal,2,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,12,Deepseek Both,Value Convincing,3,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,12,Deepseek Both,Message Clarity,4,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,12,Deepseek Both,Trustworthiness,5,7,2,3,Deepseek
+R_9GDWShVvvpPCEMN,Cutting Board,13,Gemini Both,Purchase Intent,1,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,13,Gemini Both,Visual Appeal,2,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,13,Gemini Both,Value Convincing,3,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,13,Gemini Both,Message Clarity,4,7,2,3,Gemini
+R_9GDWShVvvpPCEMN,Cutting Board,13,Gemini Both,Trustworthiness,5,7,2,3,Gemini
+R_6NkaClyycjX3Da4,Watch,1,Human Both,Purchase Intent,1,7,4,2,Human
+R_6NkaClyycjX3Da4,Watch,1,Human Both,Visual Appeal,2,7,4,2,Human
+R_6NkaClyycjX3Da4,Watch,1,Human Both,Value Convincing,3,6,4,2,Human
+R_6NkaClyycjX3Da4,Watch,1,Human Both,Message Clarity,4,4,4,2,Human
+R_6NkaClyycjX3Da4,Watch,1,Human Both,Trustworthiness,5,6,4,2,Human
+R_6NkaClyycjX3Da4,Watch,2,Human Image + ChatGPT Copy,Purchase Intent,1,5,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,2,Human Image + ChatGPT Copy,Visual Appeal,2,6,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,2,Human Image + ChatGPT Copy,Value Convincing,3,6,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,2,Human Image + ChatGPT Copy,Message Clarity,4,5,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,2,Human Image + ChatGPT Copy,Trustworthiness,5,4,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,3,Human Image + Claude Copy,Purchase Intent,1,7,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,3,Human Image + Claude Copy,Visual Appeal,2,7,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,3,Human Image + Claude Copy,Value Convincing,3,6,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,3,Human Image + Claude Copy,Message Clarity,4,2,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,3,Human Image + Claude Copy,Trustworthiness,5,5,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,4,Human Image + Deepseek Copy,Purchase Intent,1,5,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,4,Human Image + Deepseek Copy,Visual Appeal,2,4,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,4,Human Image + Deepseek Copy,Value Convincing,3,7,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,4,Human Image + Deepseek Copy,Message Clarity,4,2,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,4,Human Image + Deepseek Copy,Trustworthiness,5,7,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,5,Human Image + Gemini Copy,Purchase Intent,1,7,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,5,Human Image + Gemini Copy,Visual Appeal,2,5,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,5,Human Image + Gemini Copy,Value Convincing,3,6,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,5,Human Image + Gemini Copy,Message Clarity,4,5,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,5,Human Image + Gemini Copy,Trustworthiness,5,6,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,6,ChatGPT Image + Human Copy,Purchase Intent,1,2,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,6,ChatGPT Image + Human Copy,Visual Appeal,2,2,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,6,ChatGPT Image + Human Copy,Value Convincing,3,2,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,6,ChatGPT Image + Human Copy,Message Clarity,4,2,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,6,ChatGPT Image + Human Copy,Trustworthiness,5,4,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,7,Claude Image + Human Copy,Purchase Intent,1,2,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,7,Claude Image + Human Copy,Visual Appeal,2,1,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,7,Claude Image + Human Copy,Value Convincing,3,3,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,7,Claude Image + Human Copy,Message Clarity,4,2,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,7,Claude Image + Human Copy,Trustworthiness,5,3,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,8,Deepseek Image + Human Copy,Purchase Intent,1,1,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,8,Deepseek Image + Human Copy,Visual Appeal,2,1,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,8,Deepseek Image + Human Copy,Value Convincing,3,2,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,8,Deepseek Image + Human Copy,Message Clarity,4,2,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,8,Deepseek Image + Human Copy,Trustworthiness,5,6,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,9,Gemini Image + Human Copy,Purchase Intent,1,4,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,9,Gemini Image + Human Copy,Visual Appeal,2,2,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,9,Gemini Image + Human Copy,Value Convincing,3,2,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,9,Gemini Image + Human Copy,Message Clarity,4,2,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,9,Gemini Image + Human Copy,Trustworthiness,5,6,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,10,ChatGPT Both,Purchase Intent,1,2,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,10,ChatGPT Both,Visual Appeal,2,2,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,10,ChatGPT Both,Value Convincing,3,2,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,10,ChatGPT Both,Message Clarity,4,2,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,10,ChatGPT Both,Trustworthiness,5,5,4,2,ChatGPT
+R_6NkaClyycjX3Da4,Watch,11,Claude Both,Purchase Intent,1,1,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,11,Claude Both,Visual Appeal,2,2,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,11,Claude Both,Value Convincing,3,2,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,11,Claude Both,Message Clarity,4,1,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,11,Claude Both,Trustworthiness,5,2,4,2,Claude
+R_6NkaClyycjX3Da4,Watch,12,Deepseek Both,Purchase Intent,1,7,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,12,Deepseek Both,Visual Appeal,2,4,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,12,Deepseek Both,Value Convincing,3,6,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,12,Deepseek Both,Message Clarity,4,3,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,12,Deepseek Both,Trustworthiness,5,5,4,2,Deepseek
+R_6NkaClyycjX3Da4,Watch,13,Gemini Both,Purchase Intent,1,7,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,13,Gemini Both,Visual Appeal,2,6,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,13,Gemini Both,Value Convincing,3,7,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,13,Gemini Both,Message Clarity,4,2,4,2,Gemini
+R_6NkaClyycjX3Da4,Watch,13,Gemini Both,Trustworthiness,5,6,4,2,Gemini
+R_6u9Tk27fbgRclFv,Pillow,1,Human Both,Purchase Intent,1,2,2,4,Human
+R_6u9Tk27fbgRclFv,Pillow,1,Human Both,Visual Appeal,2,2,2,4,Human
+R_6u9Tk27fbgRclFv,Pillow,1,Human Both,Value Convincing,3,3,2,4,Human
+R_6u9Tk27fbgRclFv,Pillow,1,Human Both,Message Clarity,4,4,2,4,Human
+R_6u9Tk27fbgRclFv,Pillow,1,Human Both,Trustworthiness,5,3,2,4,Human
+R_6u9Tk27fbgRclFv,Pillow,2,Human Image + ChatGPT Copy,Purchase Intent,1,2,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,2,Human Image + ChatGPT Copy,Visual Appeal,2,2,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,2,Human Image + ChatGPT Copy,Value Convincing,3,3,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,2,Human Image + ChatGPT Copy,Message Clarity,4,4,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,2,Human Image + ChatGPT Copy,Trustworthiness,5,3,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,3,Human Image + Claude Copy,Purchase Intent,1,2,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,3,Human Image + Claude Copy,Visual Appeal,2,2,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,3,Human Image + Claude Copy,Value Convincing,3,3,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,3,Human Image + Claude Copy,Message Clarity,4,4,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,3,Human Image + Claude Copy,Trustworthiness,5,3,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,4,Human Image + Deepseek Copy,Purchase Intent,1,2,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,4,Human Image + Deepseek Copy,Visual Appeal,2,3,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,4,Human Image + Deepseek Copy,Value Convincing,3,3,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,4,Human Image + Deepseek Copy,Message Clarity,4,4,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,4,Human Image + Deepseek Copy,Trustworthiness,5,4,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,5,Human Image + Gemini Copy,Purchase Intent,1,2,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,5,Human Image + Gemini Copy,Visual Appeal,2,2,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,5,Human Image + Gemini Copy,Value Convincing,3,2,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,5,Human Image + Gemini Copy,Message Clarity,4,2,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,5,Human Image + Gemini Copy,Trustworthiness,5,3,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,6,ChatGPT Image + Human Copy,Purchase Intent,1,1,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,6,ChatGPT Image + Human Copy,Visual Appeal,2,1,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,6,ChatGPT Image + Human Copy,Value Convincing,3,2,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,6,ChatGPT Image + Human Copy,Message Clarity,4,2,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,6,ChatGPT Image + Human Copy,Trustworthiness,5,3,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,7,Claude Image + Human Copy,Purchase Intent,1,4,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,7,Claude Image + Human Copy,Visual Appeal,2,4,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,7,Claude Image + Human Copy,Value Convincing,3,4,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,7,Claude Image + Human Copy,Message Clarity,4,4,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,7,Claude Image + Human Copy,Trustworthiness,5,4,2,4,Claude
+R_6u9Tk27fbgRclFv,Pillow,8,Deepseek Image + Human Copy,Purchase Intent,1,2,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,8,Deepseek Image + Human Copy,Visual Appeal,2,2,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,8,Deepseek Image + Human Copy,Value Convincing,3,3,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,8,Deepseek Image + Human Copy,Message Clarity,4,3,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,8,Deepseek Image + Human Copy,Trustworthiness,5,3,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,9,Gemini Image + Human Copy,Purchase Intent,1,2,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,9,Gemini Image + Human Copy,Visual Appeal,2,2,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,9,Gemini Image + Human Copy,Value Convincing,3,3,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,9,Gemini Image + Human Copy,Message Clarity,4,3,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,9,Gemini Image + Human Copy,Trustworthiness,5,4,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,10,ChatGPT Both,Purchase Intent,1,1,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,10,ChatGPT Both,Visual Appeal,2,1,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,10,ChatGPT Both,Value Convincing,3,2,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,10,ChatGPT Both,Message Clarity,4,3,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,10,ChatGPT Both,Trustworthiness,5,2,2,4,ChatGPT
+R_6u9Tk27fbgRclFv,Pillow,12,Deepseek Both,Purchase Intent,1,2,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,12,Deepseek Both,Visual Appeal,2,1,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,12,Deepseek Both,Value Convincing,3,2,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,12,Deepseek Both,Message Clarity,4,3,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,12,Deepseek Both,Trustworthiness,5,4,2,4,Deepseek
+R_6u9Tk27fbgRclFv,Pillow,13,Gemini Both,Purchase Intent,1,2,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,13,Gemini Both,Visual Appeal,2,1,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,13,Gemini Both,Value Convincing,3,1,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,13,Gemini Both,Message Clarity,4,3,2,4,Gemini
+R_6u9Tk27fbgRclFv,Pillow,13,Gemini Both,Trustworthiness,5,1,2,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,1,Human Both,Purchase Intent,1,2,1,4,Human
+R_6ZD2zn2Wzjsf3wt,Cutting Board,1,Human Both,Visual Appeal,2,1,1,4,Human
+R_6ZD2zn2Wzjsf3wt,Cutting Board,1,Human Both,Value Convincing,3,2,1,4,Human
+R_6ZD2zn2Wzjsf3wt,Cutting Board,1,Human Both,Message Clarity,4,4,1,4,Human
+R_6ZD2zn2Wzjsf3wt,Cutting Board,1,Human Both,Trustworthiness,5,2,1,4,Human
+R_6ZD2zn2Wzjsf3wt,Cutting Board,2,Human Image + ChatGPT Copy,Purchase Intent,1,5,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,2,Human Image + ChatGPT Copy,Visual Appeal,2,1,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,2,Human Image + ChatGPT Copy,Value Convincing,3,5,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,2,Human Image + ChatGPT Copy,Message Clarity,4,6,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,2,Human Image + ChatGPT Copy,Trustworthiness,5,4,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,3,Human Image + Claude Copy,Purchase Intent,1,5,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,3,Human Image + Claude Copy,Visual Appeal,2,1,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,3,Human Image + Claude Copy,Value Convincing,3,4,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,3,Human Image + Claude Copy,Message Clarity,4,6,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,3,Human Image + Claude Copy,Trustworthiness,5,4,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,4,Human Image + Deepseek Copy,Purchase Intent,1,6,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,4,Human Image + Deepseek Copy,Visual Appeal,2,1,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,4,Human Image + Deepseek Copy,Value Convincing,3,5,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,4,Human Image + Deepseek Copy,Message Clarity,4,4,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,4,Human Image + Deepseek Copy,Trustworthiness,5,3,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,5,Human Image + Gemini Copy,Purchase Intent,1,3,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,5,Human Image + Gemini Copy,Visual Appeal,2,1,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,5,Human Image + Gemini Copy,Value Convincing,3,2,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,5,Human Image + Gemini Copy,Message Clarity,4,5,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,5,Human Image + Gemini Copy,Trustworthiness,5,1,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,6,ChatGPT Image + Human Copy,Purchase Intent,1,2,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,6,ChatGPT Image + Human Copy,Visual Appeal,2,5,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,6,ChatGPT Image + Human Copy,Value Convincing,3,2,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,6,ChatGPT Image + Human Copy,Message Clarity,4,4,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,6,ChatGPT Image + Human Copy,Trustworthiness,5,2,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,7,Claude Image + Human Copy,Purchase Intent,1,2,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,7,Claude Image + Human Copy,Visual Appeal,2,3,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,7,Claude Image + Human Copy,Value Convincing,3,2,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,7,Claude Image + Human Copy,Message Clarity,4,4,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,7,Claude Image + Human Copy,Trustworthiness,5,2,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,8,Deepseek Image + Human Copy,Purchase Intent,1,2,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,8,Deepseek Image + Human Copy,Visual Appeal,2,2,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,8,Deepseek Image + Human Copy,Value Convincing,3,2,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,8,Deepseek Image + Human Copy,Message Clarity,4,4,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,8,Deepseek Image + Human Copy,Trustworthiness,5,2,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,9,Gemini Image + Human Copy,Purchase Intent,1,2,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,9,Gemini Image + Human Copy,Visual Appeal,2,2,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,9,Gemini Image + Human Copy,Value Convincing,3,1,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,9,Gemini Image + Human Copy,Message Clarity,4,4,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,9,Gemini Image + Human Copy,Trustworthiness,5,1,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,10,ChatGPT Both,Purchase Intent,1,4,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,10,ChatGPT Both,Visual Appeal,2,3,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,10,ChatGPT Both,Value Convincing,3,4,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,10,ChatGPT Both,Message Clarity,4,5,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,10,ChatGPT Both,Trustworthiness,5,5,1,4,ChatGPT
+R_6ZD2zn2Wzjsf3wt,Cutting Board,11,Claude Both,Purchase Intent,1,2,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,11,Claude Both,Visual Appeal,2,2,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,11,Claude Both,Value Convincing,3,3,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,11,Claude Both,Message Clarity,4,2,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,11,Claude Both,Trustworthiness,5,2,1,4,Claude
+R_6ZD2zn2Wzjsf3wt,Cutting Board,12,Deepseek Both,Purchase Intent,1,3,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,12,Deepseek Both,Visual Appeal,2,2,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,12,Deepseek Both,Value Convincing,3,2,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,12,Deepseek Both,Message Clarity,4,5,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,12,Deepseek Both,Trustworthiness,5,2,1,4,Deepseek
+R_6ZD2zn2Wzjsf3wt,Cutting Board,13,Gemini Both,Purchase Intent,1,5,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,13,Gemini Both,Visual Appeal,2,3,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,13,Gemini Both,Value Convincing,3,4,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,13,Gemini Both,Message Clarity,4,3,1,4,Gemini
+R_6ZD2zn2Wzjsf3wt,Cutting Board,13,Gemini Both,Trustworthiness,5,2,1,4,Gemini

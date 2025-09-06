@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:37:58.405611",
+  "input_image": "./input/phone_case.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Eco-friendly phone case.  Stylish & durable.  Shop now!\",",
+      "headline": "\"Sustainable Style\",",
+      "description": "\"Protect your phone, protect the planet.\",",
+      "cta": "\"Buy Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Eco-friendly phone case.  Stylish & durable.  Shop now!\",\n  \"headline\": \"Sustainable Style\",\n  \"description\": \"Protect your phone, protect the planet.\",\n  \"cta\": \"Buy Now\"\n}\n```\n",
+    "generation_time": 1.6629359722137451,
+    "timestamp": "2025-07-26T12:37:58.405488"
+  }
+}

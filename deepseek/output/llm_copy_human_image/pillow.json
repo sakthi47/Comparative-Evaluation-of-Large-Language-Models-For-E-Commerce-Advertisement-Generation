@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:27.327111",
+  "input_image": "./input/pillow.jpeg",
+  "product_description": "shiny pink skin friendly pillow in rectangle shape, 60 cm x 30 cm",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Sleep in style & comfort! Our shiny pink skin-friendly pillow is the perfect blend of modern design & cozy support. Limited stock\u2014upgrade your sleep today!\",",
+      "headline": "\"Luxury Pink Pillow \u2013 Skin-Friendly Comfort\",",
+      "description": "\"Soft, stylish, and gentle on skin. Perfect for restful nights.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Sleep in style & comfort! Our shiny pink skin-friendly pillow is the perfect blend of modern design & cozy support. Limited stock\u2014upgrade your sleep today!\",\n  \"headline\": \"Luxury Pink Pillow \u2013 Skin-Friendly Comfort\",\n  \"description\": \"Soft, stylish, and gentle on skin. Perfect for restful nights.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 2.4774563312530518,
+    "timestamp": "2025-07-26T20:56:27.327091"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

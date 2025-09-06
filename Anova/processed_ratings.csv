@@ -1,0 +1,921 @@
+ResponseId,ProductName,AdNumber,QuestionType,QuestionNumber,Rating,AgeGroup,ShoppingFreq,Duration
+R_4dAB6hOE7ORFHXj,Phonecase,1,Purchase Intent,1,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,1,Visual Appeal,2,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,1,Value Convincing,3,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,1,Message Clarity,4,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,1,Trustworthiness,5,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,2,Purchase Intent,1,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,2,Visual Appeal,2,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,2,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,2,Message Clarity,4,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,2,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,3,Purchase Intent,1,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,3,Visual Appeal,2,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,3,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,3,Message Clarity,4,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,3,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,4,Purchase Intent,1,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,4,Visual Appeal,2,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,4,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,4,Message Clarity,4,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,4,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,5,Purchase Intent,1,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,5,Visual Appeal,2,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,5,Value Convincing,3,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,5,Message Clarity,4,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,5,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,6,Purchase Intent,1,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,6,Visual Appeal,2,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,6,Value Convincing,3,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,6,Message Clarity,4,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,6,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,7,Purchase Intent,1,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,7,Visual Appeal,2,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,7,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,7,Message Clarity,4,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,7,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,8,Purchase Intent,1,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,8,Visual Appeal,2,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,8,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,8,Message Clarity,4,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,8,Trustworthiness,5,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,9,Purchase Intent,1,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,9,Visual Appeal,2,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,9,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,9,Message Clarity,4,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,9,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,10,Purchase Intent,1,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,10,Visual Appeal,2,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,10,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,10,Message Clarity,4,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,10,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,11,Purchase Intent,1,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,11,Visual Appeal,2,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,11,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,11,Message Clarity,4,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,11,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,12,Purchase Intent,1,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,12,Visual Appeal,2,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,12,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,12,Message Clarity,4,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,12,Trustworthiness,5,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,13,Purchase Intent,1,3,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,13,Visual Appeal,2,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,13,Value Convincing,3,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,13,Message Clarity,4,4,,,218
+R_4dAB6hOE7ORFHXj,Phonecase,13,Trustworthiness,5,4,,,218
+R_9dMLWHZS9wwgUlX,T-Shirt,1,Purchase Intent,1,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,1,Visual Appeal,2,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,1,Value Convincing,3,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,1,Message Clarity,4,5,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,1,Trustworthiness,5,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,3,Purchase Intent,1,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,3,Visual Appeal,2,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,3,Value Convincing,3,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,3,Message Clarity,4,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,3,Trustworthiness,5,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,4,Purchase Intent,1,5,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,4,Visual Appeal,2,5,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,4,Value Convincing,3,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,4,Message Clarity,4,3,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,4,Trustworthiness,5,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,5,Purchase Intent,1,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,5,Visual Appeal,2,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,5,Value Convincing,3,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,5,Message Clarity,4,5,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,5,Trustworthiness,5,5,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,6,Purchase Intent,1,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,6,Visual Appeal,2,3,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,6,Value Convincing,3,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,6,Message Clarity,4,4,,,351
+R_9dMLWHZS9wwgUlX,T-Shirt,6,Trustworthiness,5,3,,,351
+R_44GUXr08nvquzx9,Coffee Mug,1,Purchase Intent,1,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,1,Visual Appeal,2,2,,,647
+R_44GUXr08nvquzx9,Coffee Mug,1,Value Convincing,3,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,1,Message Clarity,4,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,1,Trustworthiness,5,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,2,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,2,Visual Appeal,2,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,2,Value Convincing,3,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,2,Message Clarity,4,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,2,Trustworthiness,5,2,,,647
+R_44GUXr08nvquzx9,Coffee Mug,3,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,3,Visual Appeal,2,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,3,Value Convincing,3,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,3,Message Clarity,4,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,3,Trustworthiness,5,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,4,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,4,Visual Appeal,2,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,4,Value Convincing,3,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,4,Message Clarity,4,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,4,Trustworthiness,5,2,,,647
+R_44GUXr08nvquzx9,Coffee Mug,5,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,5,Visual Appeal,2,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,5,Value Convincing,3,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,5,Message Clarity,4,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,5,Trustworthiness,5,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,6,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,6,Visual Appeal,2,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,6,Value Convincing,3,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,6,Message Clarity,4,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,6,Trustworthiness,5,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,7,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,7,Visual Appeal,2,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,7,Value Convincing,3,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,7,Message Clarity,4,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,7,Trustworthiness,5,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,8,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,8,Visual Appeal,2,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,8,Value Convincing,3,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,8,Message Clarity,4,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,8,Trustworthiness,5,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,9,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,9,Visual Appeal,2,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,9,Value Convincing,3,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,9,Message Clarity,4,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,9,Trustworthiness,5,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,10,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,10,Visual Appeal,2,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,10,Value Convincing,3,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,10,Message Clarity,4,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,10,Trustworthiness,5,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,11,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,11,Visual Appeal,2,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,11,Value Convincing,3,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,11,Message Clarity,4,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,11,Trustworthiness,5,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,12,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,12,Visual Appeal,2,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,12,Value Convincing,3,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,12,Message Clarity,4,4,,,647
+R_44GUXr08nvquzx9,Coffee Mug,12,Trustworthiness,5,3,,,647
+R_44GUXr08nvquzx9,Coffee Mug,13,Purchase Intent,1,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,13,Visual Appeal,2,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,13,Value Convincing,3,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,13,Message Clarity,4,5,,,647
+R_44GUXr08nvquzx9,Coffee Mug,13,Trustworthiness,5,5,,,647
+R_6kGqz2eTlFfPUtZ,Phonecase,1,Purchase Intent,1,5,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,1,Visual Appeal,2,5,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,1,Value Convincing,3,5,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,1,Message Clarity,4,4,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,1,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,2,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,2,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,2,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,2,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,2,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,3,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,3,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,3,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,3,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,3,Trustworthiness,5,2,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,4,Purchase Intent,1,2,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,4,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,4,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,4,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,4,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,5,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,5,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,5,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,5,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,5,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,6,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,6,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,6,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,6,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,6,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,7,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,7,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,7,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,7,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,7,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,8,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,8,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,8,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,8,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,8,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,9,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,9,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,9,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,9,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,9,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,10,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,10,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,10,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,10,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,10,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,11,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,11,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,11,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,11,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,11,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,12,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,12,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,12,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,12,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,12,Trustworthiness,5,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,13,Purchase Intent,1,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,13,Visual Appeal,2,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,13,Value Convincing,3,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,13,Message Clarity,4,3,,,240
+R_6kGqz2eTlFfPUtZ,Phonecase,13,Trustworthiness,5,3,,,240
+R_6g6PYHs2IdqKlSi,Backpack,1,Purchase Intent,1,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,1,Visual Appeal,2,1,,,494
+R_6g6PYHs2IdqKlSi,Backpack,1,Value Convincing,3,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,1,Message Clarity,4,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,1,Trustworthiness,5,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,2,Purchase Intent,1,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,2,Visual Appeal,2,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,2,Value Convincing,3,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,2,Message Clarity,4,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,2,Trustworthiness,5,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,3,Purchase Intent,1,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,3,Visual Appeal,2,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,3,Value Convincing,3,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,3,Message Clarity,4,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,3,Trustworthiness,5,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,4,Purchase Intent,1,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,4,Visual Appeal,2,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,4,Value Convincing,3,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,4,Message Clarity,4,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,4,Trustworthiness,5,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,5,Purchase Intent,1,1,,,494
+R_6g6PYHs2IdqKlSi,Backpack,5,Visual Appeal,2,1,,,494
+R_6g6PYHs2IdqKlSi,Backpack,5,Value Convincing,3,1,,,494
+R_6g6PYHs2IdqKlSi,Backpack,5,Message Clarity,4,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,5,Trustworthiness,5,1,,,494
+R_6g6PYHs2IdqKlSi,Backpack,6,Purchase Intent,1,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,6,Visual Appeal,2,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,6,Value Convincing,3,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,6,Message Clarity,4,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,6,Trustworthiness,5,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,7,Purchase Intent,1,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,7,Visual Appeal,2,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,7,Value Convincing,3,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,7,Message Clarity,4,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,7,Trustworthiness,5,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,8,Purchase Intent,1,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,8,Visual Appeal,2,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,8,Value Convincing,3,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,8,Message Clarity,4,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,8,Trustworthiness,5,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,9,Purchase Intent,1,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,9,Visual Appeal,2,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,9,Value Convincing,3,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,9,Message Clarity,4,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,9,Trustworthiness,5,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,10,Purchase Intent,1,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,10,Visual Appeal,2,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,10,Value Convincing,3,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,10,Message Clarity,4,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,10,Trustworthiness,5,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,11,Purchase Intent,1,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,11,Visual Appeal,2,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,11,Value Convincing,3,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,11,Message Clarity,4,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,11,Trustworthiness,5,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,12,Purchase Intent,1,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,12,Visual Appeal,2,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,12,Value Convincing,3,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,12,Message Clarity,4,5,,,494
+R_6g6PYHs2IdqKlSi,Backpack,12,Trustworthiness,5,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,13,Purchase Intent,1,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,13,Visual Appeal,2,2,,,494
+R_6g6PYHs2IdqKlSi,Backpack,13,Value Convincing,3,3,,,494
+R_6g6PYHs2IdqKlSi,Backpack,13,Message Clarity,4,4,,,494
+R_6g6PYHs2IdqKlSi,Backpack,13,Trustworthiness,5,2,,,494
+R_4DLOsv6dEcw5Na2,Backpack,1,Purchase Intent,1,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,1,Visual Appeal,2,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,1,Value Convincing,3,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,1,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,1,Trustworthiness,5,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,2,Purchase Intent,1,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,2,Visual Appeal,2,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,2,Value Convincing,3,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,2,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,2,Trustworthiness,5,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,3,Purchase Intent,1,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,3,Visual Appeal,2,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,3,Value Convincing,3,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,3,Message Clarity,4,5,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,3,Trustworthiness,5,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,4,Purchase Intent,1,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,4,Visual Appeal,2,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,4,Value Convincing,3,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,4,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,4,Trustworthiness,5,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,5,Purchase Intent,1,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,5,Visual Appeal,2,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,5,Value Convincing,3,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,5,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,5,Trustworthiness,5,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,6,Purchase Intent,1,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,6,Visual Appeal,2,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,6,Value Convincing,3,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,6,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,6,Trustworthiness,5,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,7,Purchase Intent,1,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,7,Visual Appeal,2,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,7,Value Convincing,3,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,7,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,7,Trustworthiness,5,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,8,Purchase Intent,1,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,8,Visual Appeal,2,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,8,Value Convincing,3,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,8,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,8,Trustworthiness,5,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,9,Purchase Intent,1,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,9,Visual Appeal,2,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,9,Value Convincing,3,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,9,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,9,Trustworthiness,5,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,10,Purchase Intent,1,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,10,Visual Appeal,2,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,10,Value Convincing,3,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,10,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,10,Trustworthiness,5,3,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,11,Purchase Intent,1,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,11,Visual Appeal,2,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,11,Value Convincing,3,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,11,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,11,Trustworthiness,5,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,12,Purchase Intent,1,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,12,Visual Appeal,2,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,12,Value Convincing,3,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,12,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,12,Trustworthiness,5,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,13,Purchase Intent,1,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,13,Visual Appeal,2,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,13,Value Convincing,3,2,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,13,Message Clarity,4,4,,,48337
+R_4DLOsv6dEcw5Na2,Backpack,13,Trustworthiness,5,2,,,48337
+R_4gXhcMnyn0K1AS0,Backpack,1,Purchase Intent,1,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,1,Visual Appeal,2,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,1,Value Convincing,3,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,1,Message Clarity,4,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,1,Trustworthiness,5,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,2,Purchase Intent,1,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,2,Visual Appeal,2,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,2,Value Convincing,3,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,2,Message Clarity,4,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,2,Trustworthiness,5,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,3,Purchase Intent,1,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,3,Visual Appeal,2,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,3,Value Convincing,3,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,3,Message Clarity,4,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,3,Trustworthiness,5,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,4,Purchase Intent,1,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,4,Visual Appeal,2,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,4,Value Convincing,3,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,4,Message Clarity,4,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,4,Trustworthiness,5,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,5,Purchase Intent,1,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,5,Visual Appeal,2,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,5,Value Convincing,3,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,5,Message Clarity,4,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,5,Trustworthiness,5,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,6,Purchase Intent,1,1,,,564
+R_4gXhcMnyn0K1AS0,Backpack,6,Visual Appeal,2,1,,,564
+R_4gXhcMnyn0K1AS0,Backpack,6,Value Convincing,3,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,6,Message Clarity,4,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,6,Trustworthiness,5,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,7,Purchase Intent,1,1,,,564
+R_4gXhcMnyn0K1AS0,Backpack,7,Visual Appeal,2,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,7,Value Convincing,3,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,7,Message Clarity,4,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,7,Trustworthiness,5,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,8,Purchase Intent,1,1,,,564
+R_4gXhcMnyn0K1AS0,Backpack,8,Visual Appeal,2,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,8,Value Convincing,3,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,8,Message Clarity,4,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,8,Trustworthiness,5,5,,,564
+R_4gXhcMnyn0K1AS0,Backpack,9,Purchase Intent,1,5,,,564
+R_4gXhcMnyn0K1AS0,Backpack,9,Visual Appeal,2,5,,,564
+R_4gXhcMnyn0K1AS0,Backpack,9,Value Convincing,3,5,,,564
+R_4gXhcMnyn0K1AS0,Backpack,9,Message Clarity,4,5,,,564
+R_4gXhcMnyn0K1AS0,Backpack,9,Trustworthiness,5,5,,,564
+R_4gXhcMnyn0K1AS0,Backpack,10,Purchase Intent,1,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,10,Visual Appeal,2,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,10,Value Convincing,3,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,10,Message Clarity,4,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,10,Trustworthiness,5,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,11,Purchase Intent,1,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,11,Visual Appeal,2,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,11,Value Convincing,3,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,11,Message Clarity,4,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,11,Trustworthiness,5,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,12,Purchase Intent,1,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,12,Visual Appeal,2,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,12,Value Convincing,3,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,12,Message Clarity,4,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,12,Trustworthiness,5,2,,,564
+R_4gXhcMnyn0K1AS0,Backpack,13,Purchase Intent,1,3,,,564
+R_4gXhcMnyn0K1AS0,Backpack,13,Visual Appeal,2,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,13,Value Convincing,3,5,,,564
+R_4gXhcMnyn0K1AS0,Backpack,13,Message Clarity,4,4,,,564
+R_4gXhcMnyn0K1AS0,Backpack,13,Trustworthiness,5,2,,,564
+R_91X8Lg4BissAVJE,Umbrella,1,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,1,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,1,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,1,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,1,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,2,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,2,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,2,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,2,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,2,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,3,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,3,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,3,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,3,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,3,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,4,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,4,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,4,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,4,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,4,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,5,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,5,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,5,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,5,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,5,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,6,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,6,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,6,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,6,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,6,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,7,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,7,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,7,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,7,Message Clarity,4,3,,,82780
+R_91X8Lg4BissAVJE,Umbrella,7,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,8,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,8,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,8,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,8,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,8,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,9,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,9,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,9,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,9,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,9,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,10,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,10,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,10,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,10,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,10,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,11,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,11,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,11,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,11,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,11,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,12,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,12,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,12,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,12,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,12,Trustworthiness,5,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,13,Purchase Intent,1,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,13,Visual Appeal,2,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,13,Value Convincing,3,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,13,Message Clarity,4,5,,,82780
+R_91X8Lg4BissAVJE,Umbrella,13,Trustworthiness,5,5,,,82780
+R_4box09rZd32aAQV,Umbrella,1,Purchase Intent,1,5,,,173
+R_4box09rZd32aAQV,Umbrella,1,Visual Appeal,2,4,,,173
+R_4box09rZd32aAQV,Umbrella,1,Value Convincing,3,4,,,173
+R_4box09rZd32aAQV,Umbrella,1,Message Clarity,4,5,,,173
+R_4box09rZd32aAQV,Umbrella,1,Trustworthiness,5,5,,,173
+R_4box09rZd32aAQV,Umbrella,2,Purchase Intent,1,4,,,173
+R_4box09rZd32aAQV,Umbrella,2,Visual Appeal,2,5,,,173
+R_4box09rZd32aAQV,Umbrella,2,Value Convincing,3,5,,,173
+R_4box09rZd32aAQV,Umbrella,2,Message Clarity,4,5,,,173
+R_4box09rZd32aAQV,Umbrella,2,Trustworthiness,5,5,,,173
+R_4box09rZd32aAQV,Umbrella,3,Purchase Intent,1,4,,,173
+R_4box09rZd32aAQV,Umbrella,3,Visual Appeal,2,4,,,173
+R_4box09rZd32aAQV,Umbrella,3,Value Convincing,3,4,,,173
+R_4box09rZd32aAQV,Umbrella,3,Message Clarity,4,4,,,173
+R_4box09rZd32aAQV,Umbrella,3,Trustworthiness,5,5,,,173
+R_4box09rZd32aAQV,Umbrella,4,Purchase Intent,1,4,,,173
+R_4box09rZd32aAQV,Umbrella,4,Visual Appeal,2,4,,,173
+R_4box09rZd32aAQV,Umbrella,4,Value Convincing,3,5,,,173
+R_4box09rZd32aAQV,Umbrella,4,Message Clarity,4,5,,,173
+R_4box09rZd32aAQV,Umbrella,4,Trustworthiness,5,5,,,173
+R_4box09rZd32aAQV,Umbrella,5,Purchase Intent,1,4,,,173
+R_4box09rZd32aAQV,Umbrella,5,Visual Appeal,2,5,,,173
+R_4box09rZd32aAQV,Umbrella,5,Value Convincing,3,5,,,173
+R_4box09rZd32aAQV,Umbrella,5,Message Clarity,4,5,,,173
+R_4box09rZd32aAQV,Umbrella,5,Trustworthiness,5,5,,,173
+R_4box09rZd32aAQV,Umbrella,6,Purchase Intent,1,3,,,173
+R_4box09rZd32aAQV,Umbrella,6,Visual Appeal,2,4,,,173
+R_4box09rZd32aAQV,Umbrella,6,Value Convincing,3,4,,,173
+R_4box09rZd32aAQV,Umbrella,6,Message Clarity,4,4,,,173
+R_4box09rZd32aAQV,Umbrella,6,Trustworthiness,5,4,,,173
+R_4box09rZd32aAQV,Umbrella,7,Purchase Intent,1,4,,,173
+R_4box09rZd32aAQV,Umbrella,7,Visual Appeal,2,4,,,173
+R_4box09rZd32aAQV,Umbrella,7,Value Convincing,3,4,,,173
+R_4box09rZd32aAQV,Umbrella,7,Message Clarity,4,4,,,173
+R_4box09rZd32aAQV,Umbrella,7,Trustworthiness,5,4,,,173
+R_4box09rZd32aAQV,Umbrella,8,Purchase Intent,1,4,,,173
+R_4box09rZd32aAQV,Umbrella,8,Visual Appeal,2,4,,,173
+R_4box09rZd32aAQV,Umbrella,8,Value Convincing,3,5,,,173
+R_4box09rZd32aAQV,Umbrella,8,Message Clarity,4,4,,,173
+R_4box09rZd32aAQV,Umbrella,8,Trustworthiness,5,4,,,173
+R_4box09rZd32aAQV,Umbrella,9,Purchase Intent,1,5,,,173
+R_4box09rZd32aAQV,Umbrella,9,Visual Appeal,2,5,,,173
+R_4box09rZd32aAQV,Umbrella,9,Value Convincing,3,5,,,173
+R_4box09rZd32aAQV,Umbrella,9,Message Clarity,4,5,,,173
+R_4box09rZd32aAQV,Umbrella,9,Trustworthiness,5,5,,,173
+R_4box09rZd32aAQV,Umbrella,10,Purchase Intent,1,5,,,173
+R_4box09rZd32aAQV,Umbrella,10,Visual Appeal,2,5,,,173
+R_4box09rZd32aAQV,Umbrella,10,Value Convincing,3,5,,,173
+R_4box09rZd32aAQV,Umbrella,10,Message Clarity,4,5,,,173
+R_4box09rZd32aAQV,Umbrella,10,Trustworthiness,5,5,,,173
+R_4box09rZd32aAQV,Umbrella,11,Purchase Intent,1,5,,,173
+R_4box09rZd32aAQV,Umbrella,11,Visual Appeal,2,5,,,173
+R_4box09rZd32aAQV,Umbrella,11,Value Convincing,3,5,,,173
+R_4box09rZd32aAQV,Umbrella,11,Message Clarity,4,5,,,173
+R_4box09rZd32aAQV,Umbrella,11,Trustworthiness,5,5,,,173
+R_4box09rZd32aAQV,Umbrella,12,Purchase Intent,1,5,,,173
+R_4box09rZd32aAQV,Umbrella,12,Visual Appeal,2,5,,,173
+R_4box09rZd32aAQV,Umbrella,12,Value Convincing,3,4,,,173
+R_4box09rZd32aAQV,Umbrella,12,Message Clarity,4,4,,,173
+R_4box09rZd32aAQV,Umbrella,12,Trustworthiness,5,4,,,173
+R_4box09rZd32aAQV,Umbrella,13,Purchase Intent,1,5,,,173
+R_4box09rZd32aAQV,Umbrella,13,Visual Appeal,2,5,,,173
+R_4box09rZd32aAQV,Umbrella,13,Value Convincing,3,5,,,173
+R_4box09rZd32aAQV,Umbrella,13,Message Clarity,4,5,,,173
+R_4box09rZd32aAQV,Umbrella,13,Trustworthiness,5,5,,,173
+R_93MpHGHcF9OAXap,Phonecase,1,Purchase Intent,1,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,1,Visual Appeal,2,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,1,Value Convincing,3,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,1,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,1,Trustworthiness,5,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,2,Purchase Intent,1,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,2,Visual Appeal,2,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,2,Value Convincing,3,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,2,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,2,Trustworthiness,5,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,3,Purchase Intent,1,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,3,Visual Appeal,2,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,3,Value Convincing,3,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,3,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,3,Trustworthiness,5,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,4,Purchase Intent,1,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,4,Visual Appeal,2,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,4,Value Convincing,3,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,4,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,4,Trustworthiness,5,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,5,Purchase Intent,1,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,5,Visual Appeal,2,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,5,Value Convincing,3,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,5,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,5,Trustworthiness,5,3,,,169
+R_93MpHGHcF9OAXap,Phonecase,6,Purchase Intent,1,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,6,Visual Appeal,2,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,6,Value Convincing,3,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,6,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,6,Trustworthiness,5,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,7,Purchase Intent,1,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,7,Visual Appeal,2,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,7,Value Convincing,3,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,7,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,7,Trustworthiness,5,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,8,Purchase Intent,1,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,8,Visual Appeal,2,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,8,Value Convincing,3,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,8,Message Clarity,4,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,8,Trustworthiness,5,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,9,Purchase Intent,1,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,9,Visual Appeal,2,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,9,Value Convincing,3,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,9,Message Clarity,4,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,9,Trustworthiness,5,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,10,Purchase Intent,1,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,10,Visual Appeal,2,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,10,Value Convincing,3,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,10,Message Clarity,4,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,10,Trustworthiness,5,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,11,Purchase Intent,1,4,,,169
+R_93MpHGHcF9OAXap,Phonecase,11,Visual Appeal,2,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,11,Value Convincing,3,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,11,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,11,Trustworthiness,5,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,12,Purchase Intent,1,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,12,Visual Appeal,2,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,12,Value Convincing,3,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,12,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,12,Trustworthiness,5,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,13,Purchase Intent,1,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,13,Visual Appeal,2,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,13,Value Convincing,3,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,13,Message Clarity,4,5,,,169
+R_93MpHGHcF9OAXap,Phonecase,13,Trustworthiness,5,4,,,169
+R_9H1yyIq5r6uRJuN,Phonecase,1,Purchase Intent,1,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,1,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,1,Value Convincing,3,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,1,Message Clarity,4,4,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,1,Trustworthiness,5,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,2,Purchase Intent,1,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,2,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,2,Value Convincing,3,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,2,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,2,Trustworthiness,5,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,3,Purchase Intent,1,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,3,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,3,Value Convincing,3,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,3,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,3,Trustworthiness,5,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,4,Purchase Intent,1,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,4,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,4,Value Convincing,3,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,4,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,4,Trustworthiness,5,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,5,Purchase Intent,1,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,5,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,5,Value Convincing,3,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,5,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,5,Trustworthiness,5,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,6,Purchase Intent,1,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,6,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,6,Value Convincing,3,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,6,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,6,Trustworthiness,5,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,7,Purchase Intent,1,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,7,Visual Appeal,2,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,7,Value Convincing,3,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,7,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,7,Trustworthiness,5,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,8,Purchase Intent,1,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,8,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,8,Value Convincing,3,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,8,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,8,Trustworthiness,5,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,9,Purchase Intent,1,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,9,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,9,Value Convincing,3,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,9,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,9,Trustworthiness,5,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,10,Purchase Intent,1,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,10,Visual Appeal,2,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,10,Value Convincing,3,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,10,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,10,Trustworthiness,5,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,11,Purchase Intent,1,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,11,Visual Appeal,2,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,11,Value Convincing,3,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,11,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,11,Trustworthiness,5,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,12,Purchase Intent,1,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,12,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,12,Value Convincing,3,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,12,Message Clarity,4,3,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,12,Trustworthiness,5,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,13,Purchase Intent,1,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,13,Visual Appeal,2,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,13,Value Convincing,3,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,13,Message Clarity,4,2,,,489
+R_9H1yyIq5r6uRJuN,Phonecase,13,Trustworthiness,5,2,,,489
+R_1mJfsTuKFRxBeNX,T-Shirt,1,Purchase Intent,1,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,1,Visual Appeal,2,1,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,1,Value Convincing,3,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,1,Message Clarity,4,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,1,Trustworthiness,5,1,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,3,Purchase Intent,1,3,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,3,Visual Appeal,2,1,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,3,Value Convincing,3,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,3,Message Clarity,4,3,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,3,Trustworthiness,5,3,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,4,Purchase Intent,1,1,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,4,Visual Appeal,2,1,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,4,Value Convincing,3,3,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,4,Message Clarity,4,3,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,4,Trustworthiness,5,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,5,Purchase Intent,1,1,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,5,Visual Appeal,2,1,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,5,Value Convincing,3,3,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,5,Message Clarity,4,3,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,5,Trustworthiness,5,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,6,Purchase Intent,1,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,6,Visual Appeal,2,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,6,Value Convincing,3,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,6,Message Clarity,4,2,,,582
+R_1mJfsTuKFRxBeNX,T-Shirt,6,Trustworthiness,5,2,,,582
+R_9wGmFKx8eP4wW10,Umbrella,1,Purchase Intent,1,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,1,Visual Appeal,2,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,1,Value Convincing,3,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,1,Message Clarity,4,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,1,Trustworthiness,5,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,2,Purchase Intent,1,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,2,Visual Appeal,2,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,2,Value Convincing,3,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,2,Message Clarity,4,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,2,Trustworthiness,5,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,3,Purchase Intent,1,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,3,Visual Appeal,2,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,3,Value Convincing,3,5,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,3,Message Clarity,4,5,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,3,Trustworthiness,5,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,4,Purchase Intent,1,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,4,Visual Appeal,2,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,4,Value Convincing,3,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,4,Message Clarity,4,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,4,Trustworthiness,5,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,5,Purchase Intent,1,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,5,Visual Appeal,2,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,5,Value Convincing,3,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,5,Message Clarity,4,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,5,Trustworthiness,5,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,6,Purchase Intent,1,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,6,Visual Appeal,2,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,6,Value Convincing,3,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,6,Message Clarity,4,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,6,Trustworthiness,5,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,7,Purchase Intent,1,5,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,7,Visual Appeal,2,5,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,7,Value Convincing,3,5,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,7,Message Clarity,4,5,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,7,Trustworthiness,5,5,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,8,Purchase Intent,1,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,8,Visual Appeal,2,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,8,Value Convincing,3,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,8,Message Clarity,4,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,8,Trustworthiness,5,5,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,9,Purchase Intent,1,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,9,Visual Appeal,2,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,9,Value Convincing,3,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,9,Message Clarity,4,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,9,Trustworthiness,5,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,10,Purchase Intent,1,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,10,Visual Appeal,2,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,10,Value Convincing,3,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,10,Message Clarity,4,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,10,Trustworthiness,5,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,11,Purchase Intent,1,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,11,Visual Appeal,2,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,11,Value Convincing,3,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,11,Message Clarity,4,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,11,Trustworthiness,5,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,12,Purchase Intent,1,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,12,Visual Appeal,2,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,12,Value Convincing,3,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,12,Message Clarity,4,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,12,Trustworthiness,5,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,13,Purchase Intent,1,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,13,Visual Appeal,2,2,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,13,Value Convincing,3,4,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,13,Message Clarity,4,3,,,6256
+R_9wGmFKx8eP4wW10,Umbrella,13,Trustworthiness,5,3,,,6256
+R_5cwOAXQ4PpvSENP,T-Shirt,1,Purchase Intent,1,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,1,Visual Appeal,2,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,1,Value Convincing,3,4,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,1,Message Clarity,4,4,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,1,Trustworthiness,5,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,3,Purchase Intent,1,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,3,Visual Appeal,2,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,3,Value Convincing,3,4,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,3,Message Clarity,4,4,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,3,Trustworthiness,5,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,4,Purchase Intent,1,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,4,Visual Appeal,2,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,4,Value Convincing,3,2,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,4,Message Clarity,4,5,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,4,Trustworthiness,5,2,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,5,Purchase Intent,1,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,5,Visual Appeal,2,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,5,Value Convincing,3,2,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,5,Message Clarity,4,5,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,5,Trustworthiness,5,2,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,6,Purchase Intent,1,2,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,6,Visual Appeal,2,3,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,6,Value Convincing,3,4,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,6,Message Clarity,4,4,,,347
+R_5cwOAXQ4PpvSENP,T-Shirt,6,Trustworthiness,5,1,,,347
+R_9fBNnYsKfTTBmK3,Umbrella,1,Purchase Intent,1,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,1,Visual Appeal,2,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,1,Value Convincing,3,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,1,Message Clarity,4,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,1,Trustworthiness,5,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,2,Purchase Intent,1,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,2,Visual Appeal,2,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,2,Value Convincing,3,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,2,Message Clarity,4,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,2,Trustworthiness,5,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,3,Purchase Intent,1,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,3,Visual Appeal,2,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,3,Value Convincing,3,2,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,3,Message Clarity,4,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,3,Trustworthiness,5,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,4,Purchase Intent,1,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,4,Visual Appeal,2,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,4,Value Convincing,3,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,4,Message Clarity,4,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,4,Trustworthiness,5,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,5,Purchase Intent,1,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,5,Visual Appeal,2,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,5,Value Convincing,3,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,5,Message Clarity,4,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,5,Trustworthiness,5,2,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,6,Purchase Intent,1,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,6,Visual Appeal,2,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,6,Value Convincing,3,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,6,Message Clarity,4,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,6,Trustworthiness,5,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,7,Purchase Intent,1,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,7,Visual Appeal,2,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,7,Value Convincing,3,2,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,7,Message Clarity,4,1,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,7,Trustworthiness,5,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,8,Purchase Intent,1,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,8,Visual Appeal,2,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,8,Value Convincing,3,1,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,8,Message Clarity,4,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,8,Trustworthiness,5,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,9,Purchase Intent,1,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,9,Visual Appeal,2,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,9,Value Convincing,3,2,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,9,Message Clarity,4,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,9,Trustworthiness,5,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,10,Purchase Intent,1,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,10,Visual Appeal,2,2,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,10,Value Convincing,3,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,10,Message Clarity,4,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,10,Trustworthiness,5,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,11,Purchase Intent,1,2,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,11,Visual Appeal,2,2,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,11,Value Convincing,3,1,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,11,Message Clarity,4,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,11,Trustworthiness,5,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,12,Purchase Intent,1,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,12,Visual Appeal,2,3,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,12,Value Convincing,3,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,12,Message Clarity,4,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,12,Trustworthiness,5,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,13,Purchase Intent,1,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,13,Visual Appeal,2,4,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,13,Value Convincing,3,2,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,13,Message Clarity,4,5,,,168
+R_9fBNnYsKfTTBmK3,Umbrella,13,Trustworthiness,5,4,,,168
+R_4eIwgh0jk2q9wBd,Backpack,1,Purchase Intent,1,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,1,Visual Appeal,2,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,1,Value Convincing,3,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,1,Message Clarity,4,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,1,Trustworthiness,5,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,2,Purchase Intent,1,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,2,Visual Appeal,2,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,2,Value Convincing,3,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,2,Message Clarity,4,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,2,Trustworthiness,5,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,3,Purchase Intent,1,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,3,Visual Appeal,2,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,3,Value Convincing,3,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,3,Message Clarity,4,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,3,Trustworthiness,5,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,4,Purchase Intent,1,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,4,Visual Appeal,2,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,4,Value Convincing,3,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,4,Message Clarity,4,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,4,Trustworthiness,5,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,5,Purchase Intent,1,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,5,Visual Appeal,2,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,5,Value Convincing,3,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,5,Message Clarity,4,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,5,Trustworthiness,5,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,6,Purchase Intent,1,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,6,Visual Appeal,2,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,6,Value Convincing,3,1,,,291
+R_4eIwgh0jk2q9wBd,Backpack,6,Message Clarity,4,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,6,Trustworthiness,5,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,7,Purchase Intent,1,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,7,Visual Appeal,2,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,7,Value Convincing,3,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,7,Message Clarity,4,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,7,Trustworthiness,5,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,8,Purchase Intent,1,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,8,Visual Appeal,2,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,8,Value Convincing,3,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,8,Message Clarity,4,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,8,Trustworthiness,5,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,9,Purchase Intent,1,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,9,Visual Appeal,2,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,9,Value Convincing,3,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,9,Message Clarity,4,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,9,Trustworthiness,5,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,10,Purchase Intent,1,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,10,Visual Appeal,2,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,10,Value Convincing,3,2,,,291
+R_4eIwgh0jk2q9wBd,Backpack,10,Message Clarity,4,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,10,Trustworthiness,5,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,11,Purchase Intent,1,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,11,Visual Appeal,2,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,11,Value Convincing,3,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,11,Message Clarity,4,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,11,Trustworthiness,5,5,,,291
+R_4eIwgh0jk2q9wBd,Backpack,12,Purchase Intent,1,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,12,Visual Appeal,2,5,,,291
+R_4eIwgh0jk2q9wBd,Backpack,12,Value Convincing,3,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,12,Message Clarity,4,4,,,291
+R_4eIwgh0jk2q9wBd,Backpack,12,Trustworthiness,5,5,,,291
+R_4eIwgh0jk2q9wBd,Backpack,13,Purchase Intent,1,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,13,Visual Appeal,2,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,13,Value Convincing,3,3,,,291
+R_4eIwgh0jk2q9wBd,Backpack,13,Message Clarity,4,5,,,291
+R_4eIwgh0jk2q9wBd,Backpack,13,Trustworthiness,5,4,,,291

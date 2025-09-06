@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:55:54.967743",
+  "input_image": "./input/sunglass.jpeg",
+  "product_description": "comfortable black color frame sunglass in rectangle shape with dark tint.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Elevate your look with sleek, modern sunglasses. Comfortable black frames with dark tint for ultimate style & protection. Limited stock\u2014upgrade your shades today!\",",
+      "headline": "\"Sleek Black Frames, Bold Style\",",
+      "description": "\"Modern rectangle sunglasses with dark tint for comfort and UV protection.\",",
+      "cta": "\"Shop Now \u2013 Limited Time\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Elevate your look with sleek, modern sunglasses. Comfortable black frames with dark tint for ultimate style & protection. Limited stock\u2014upgrade your shades today!\",\n  \"headline\": \"Sleek Black Frames, Bold Style\",\n  \"description\": \"Modern rectangle sunglasses with dark tint for comfort and UV protection.\",\n  \"cta\": \"Shop Now \u2013 Limited Time\"\n}\n```",
+    "generation_time": 2.9878089427948,
+    "timestamp": "2025-07-26T20:55:54.967723"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

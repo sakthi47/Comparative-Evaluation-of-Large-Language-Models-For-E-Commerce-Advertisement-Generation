@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:56:19.993139",
+  "input_image": "./input/tshirt.jpeg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "The perfect navy tee that feels as good as it looks. Premium cotton, timeless style, and unmatched comfort.",
+      "headline": "Essential Navy Crew Neck Perfection",
+      "description": "Luxuriously soft premium cotton t-shirt with a classic crew neck and perfect fit. Versatile style for everyday wear.",
+      "cta": "Shop Premium Basics"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"The perfect navy tee that feels as good as it looks. Premium cotton, timeless style, and unmatched comfort.\",\n    \"headline\": \"Essential Navy Crew Neck Perfection\",\n    \"description\": \"Luxuriously soft premium cotton t-shirt with a classic crew neck and perfect fit. Versatile style for everyday wear.\",\n    \"cta\": \"Shop Premium Basics\"\n}",
+    "generation_time": 2.9733266830444336,
+    "timestamp": "2025-07-26T11:56:19.993097"
+  }
+}

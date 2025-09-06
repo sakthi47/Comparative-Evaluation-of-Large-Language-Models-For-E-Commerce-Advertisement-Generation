@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:27:43.040831",
+  "input_image": "./input/cutting_board.jpg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Elevate your kitchen prep with our premium bamboo cutting board - eco-friendly, durable, and naturally antimicrobial",
+      "headline": "Premium Bamboo Cutting Board",
+      "description": "Crafted from sustainable bamboo, this sturdy cutting board features an ergonomic handle and generous prep space for all your culinary needs.",
+      "cta": "Shop Eco-Friendly Kitchen"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Elevate your kitchen prep with our premium bamboo cutting board - eco-friendly, durable, and naturally antimicrobial\",\n    \"headline\": \"Premium Bamboo Cutting Board\",\n    \"description\": \"Crafted from sustainable bamboo, this sturdy cutting board features an ergonomic handle and generous prep space for all your culinary needs.\",\n    \"cta\": \"Shop Eco-Friendly Kitchen\"\n}",
+    "generation_time": 2.682103157043457,
+    "timestamp": "2025-07-26T11:27:43.040791"
+  }
+}

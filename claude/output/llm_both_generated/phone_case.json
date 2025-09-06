@@ -1,0 +1,33 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T12:06:14.634265",
+  "product_description": "teal green iphone 15 silicon backcase with non shiny glittery spots in light green color through the case",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "Ethereal sparkle meets everyday protection. A dreamy teal case with delicate glitter that catches light like morning dew.",
+      "headline": "Subtle Magic for Your iPhone 15",
+      "description": "Wrap your iPhone in sophisticated protection with our teal silicon case, adorned with soft green glitter that adds elegance without overwhelming.",
+      "cta": "Add Some Sparkle"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Ethereal sparkle meets everyday protection. A dreamy teal case with delicate glitter that catches light like morning dew.\",\n    \"headline\": \"Subtle Magic for Your iPhone 15\",\n    \"description\": \"Wrap your iPhone in sophisticated protection with our teal silicon case, adorned with soft green glitter that adds elegance without overwhelming.\",\n    \"cta\": \"Add Some Sparkle\"\n}",
+    "generation_time": 4.061715126037598,
+    "timestamp": "2025-07-26T12:05:59.362566"
+  },
+  "claude_optimized_prompt": "Photorealistic product shot of a teal green iPhone case with subtle light green glitter spots, placed on a frosted glass surface with morning sunlight casting gentle shadows, soft bokeh background in muted sage tones, minimalist composition with negative space, shallow depth of field, 8K commercial photography",
+  "image_generation_result": {
+    "image_url": "https://dalleprodsec.blob.core.windows.net/private/images/b11ff96e-0dca-4a40-a8df-b664d1699fb5/generated_00.png?se=2025-07-27T16%3A06%3A14Z&sig=j8l6n4AsAafh02x8gwSKCMTT5btY%2FfzXEQwVACcMJbc%3D&ske=2025-07-31T04%3A07%3A30Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-24T04%3A07%3A30Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+    "revised_prompt": "A photorealistic product shot of a teal green iPhone case with subtle light green glitter spots, placed on a frosted glass surface. Morning sunlight casts gentle shadows on the surface. The background features a soft bokeh effect in muted sage tones, creating a minimalist composition with plenty of negative space. The image has a shallow depth of field, with the iPhone case as the main focus. The photo is presented in 8K resolution, commercial photography style, showcasing high-detail textures and lighting for a premium aesthetic.",
+    "original_prompt": "Photorealistic product shot of a teal green iPhone case with subtle light green glitter spots, placed on a frosted glass surface with morning sunlight casting gentle shadows, soft bokeh background in muted sage tones, minimalist composition with negative space, shallow depth of field, 8K commercial photography",
+    "generation_time": 10.551691055297852,
+    "timestamp": "2025-07-26T12:06:14.634231",
+    "size": "1024x1024"
+  },
+  "image_settings": {
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_120614.png"
+}

@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:27:31.983814",
+  "input_image": "./input/coffee_mug.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Sip in Style: Elevate Your Coffee Moments with This Minimalist Mug\",\n  \"description\": \"Start your day with effortless elegance! This sleek, modern mug combines timeless design with durability, making every sip feel like a special occasion. Perfect for cozy mornings or productive afternoons, its ergonomic handle ensures comfort while its neutral tone complements any kitchen aesthetic. Share warmth, joy, and style in every pour!\",\n  \"cta\": \"Upgrade your coffee experience today\u2014shop now and make every sip unforgettable!\"\n}\n```",
+  "custom_prompt": null
+}

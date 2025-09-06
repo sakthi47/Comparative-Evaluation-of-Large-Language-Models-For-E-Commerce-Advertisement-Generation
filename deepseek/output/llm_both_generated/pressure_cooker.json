@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T21:08:55.045243",
+  "product_description": "3 litres silver color pressure cooker with bakelite black handle with a whistle on it.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "deepseek_model": "DeepSeek-V3-0324",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your kitchen with our sleek 3L silver pressure cooker! Faster cooking, safer meals, stylish design. Limited stock \u2013 cook smarter today!\",",
+      "headline": "\"Effortless Cooking, Stunning Style\",",
+      "description": "\"3L silver pressure cooker with secure whistle & ergonomic handle for perfect meals every time.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your kitchen with our sleek 3L silver pressure cooker! Faster cooking, safer meals, stylish design. Limited stock \u2013 cook smarter today!\",\n  \"headline\": \"Effortless Cooking, Stunning Style\",\n  \"description\": \"3L silver pressure cooker with secure whistle & ergonomic handle for perfect meals every time.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 3.290663957595825,
+    "timestamp": "2025-07-26T21:08:50.334893"
+  },
+  "deepseek_optimized_prompt": "\"Professional product photo of a modern 3-litre silver pressure cooker with a sleek, reflective finish, featuring a black bakelite handle and a prominent whistle on top. The cooker is placed slightly angled on a clean, minimalist kitchen countertop to showcase its design and details. Soft, diffused lighting highlights the left side to create gentle reflections on the metallic surface, while a subtle fill light on the right ensures balanced illumination. The background is a blurred, neutral-toned kitchen setting with soft textures to keep focus on the product. The mood is elegant and contemporary, with cool tones complementing the silver cooker and warm accents in the background for contrast. Include a slight shadow beneath the cooker for depth. The composition is clean, with the product centered and ample negative space for ad copy overlay. Style: high-end, polished, and aspirational.\"",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "\"Professional product photo of a modern 3-litre silver pressure cooker with a sleek, reflective finish, featuring a black bakelite handle and a prominent whistle on top. The cooker is placed slightly angled on a clean, minimalist kitchen countertop to showcase its design and details. Soft, diffused lighting highlights the left side to create gentle reflections on the metallic surface, while a subtle fill light on the right ensures balanced illumination. The background is a blurred, neutral-toned kitchen setting with soft textures to keep focus on the product. The mood is elegant and contemporary, with cool tones complementing the silver cooker and warm accents in the background for contrast. Include a slight shadow beneath the cooker for depth. The composition is clean, with the product centered and ample negative space for ad copy overlay. Style: high-end, polished, and aspirational.\"",
+    "generation_time": 2.2459139823913574,
+    "timestamp": "2025-07-26T21:08:55.045228",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_210855.png"
+}

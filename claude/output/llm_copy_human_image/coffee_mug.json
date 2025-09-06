@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:27:40.070566",
+  "input_image": "./input/coffee_mug.jpg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Timeless elegance meets modern comfort in this minimalist enamel mug. Perfect for your daily coffee ritual.",
+      "headline": "Classic Enamel Mug | Modern Simplicity",
+      "description": "Durable grey enamel mug with sleek design and comfortable handle. Vintage charm meets contemporary style for your favorite beverages.",
+      "cta": "Add to Cart"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Timeless elegance meets modern comfort in this minimalist enamel mug. Perfect for your daily coffee ritual.\",\n    \"headline\": \"Classic Enamel Mug | Modern Simplicity\",\n    \"description\": \"Durable grey enamel mug with sleek design and comfortable handle. Vintage charm meets contemporary style for your favorite beverages.\",\n    \"cta\": \"Add to Cart\"\n}",
+    "generation_time": 2.9821879863739014,
+    "timestamp": "2025-07-26T11:27:40.070534"
+  }
+}

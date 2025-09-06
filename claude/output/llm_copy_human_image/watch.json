@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:50:00.291499",
+  "input_image": "./input/watch.jpeg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Elevate your style with this stunning rose gold timepiece, featuring brilliant crystals and minimalist elegance.",
+      "headline": "Timeless Rose Gold Luxury",
+      "description": "Sleek minimalist watch with crystal-encrusted bezel and premium rose gold finish. Perfect blend of modern design and classic sophistication.",
+      "cta": "Shop Luxury Watches"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Elevate your style with this stunning rose gold timepiece, featuring brilliant crystals and minimalist elegance.\",\n    \"headline\": \"Timeless Rose Gold Luxury\",\n    \"description\": \"Sleek minimalist watch with crystal-encrusted bezel and premium rose gold finish. Perfect blend of modern design and classic sophistication.\",\n    \"cta\": \"Shop Luxury Watches\"\n}",
+    "generation_time": 3.440365791320801,
+    "timestamp": "2025-07-26T11:50:00.291465"
+  }
+}

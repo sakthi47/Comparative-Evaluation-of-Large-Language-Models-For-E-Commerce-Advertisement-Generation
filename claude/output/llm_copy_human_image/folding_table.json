@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:27:47.138948",
+  "input_image": "./input/folding_table.jpg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Transform your space with mid-century modern elegance. Sleek wooden table with distinctive black hairpin legs.",
+      "headline": "Mid-Century Magic Meets Modern Design",
+      "description": "Beautifully crafted dining table featuring rich wood grain and architectural black metal legs. Perfect for contemporary living spaces.",
+      "cta": "Shop This Style"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Transform your space with mid-century modern elegance. Sleek wooden table with distinctive black hairpin legs.\",\n    \"headline\": \"Mid-Century Magic Meets Modern Design\",\n    \"description\": \"Beautifully crafted dining table featuring rich wood grain and architectural black metal legs. Perfect for contemporary living spaces.\",\n    \"cta\": \"Shop This Style\"\n}",
+    "generation_time": 3.801483631134033,
+    "timestamp": "2025-07-26T11:27:47.138292"
+  }
+}

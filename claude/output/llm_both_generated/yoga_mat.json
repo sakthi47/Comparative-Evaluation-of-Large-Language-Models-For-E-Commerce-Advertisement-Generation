@@ -1,0 +1,33 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T12:08:03.754042",
+  "product_description": "grey colored 6 inch length, 3 inch width yoga mat made of natural rubber",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "Find your center on our premium grey natural rubber yoga mat. Perfect grip, ideal size, pure comfort for your practice.",
+      "headline": "Elevate Your Flow",
+      "description": "Experience grounded stability with our eco-friendly natural rubber mat. Perfectly sized for home or studio, with superior grip and comfort.",
+      "cta": "Start Your Journey"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Find your center on our premium grey natural rubber yoga mat. Perfect grip, ideal size, pure comfort for your practice.\",\n    \"headline\": \"Elevate Your Flow\",\n    \"description\": \"Experience grounded stability with our eco-friendly natural rubber mat. Perfectly sized for home or studio, with superior grip and comfort.\",\n    \"cta\": \"Start Your Journey\"\n}",
+    "generation_time": 3.4667840003967285,
+    "timestamp": "2025-07-26T12:07:50.668538"
+  },
+  "claude_optimized_prompt": "A serene modern yoga studio with natural light streaming through floor-to-ceiling windows, a rolled grey yoga mat on light wooden floors, surrounded by minimalist decor and potted plants. Shot from above at 45-degree angle, soft morning light creates gentle shadows, empty space in top right for text overlay",
+  "image_generation_result": {
+    "image_url": "https://dalleprodsec.blob.core.windows.net/private/images/7afdce5d-67c6-4d83-9372-3af065c01500/generated_00.png?se=2025-07-27T16%3A08%3A03Z&sig=bUekHDC0opUumnEFps7%2FaHEBmR315xE5QHKNui%2FlBDQ%3D&ske=2025-07-31T04%3A07%3A18Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-24T04%3A07%3A18Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+    "revised_prompt": "A serene modern yoga studio with natural light streaming through floor-to-ceiling windows, featuring a rolled grey yoga mat placed on light wooden floors. The space is surrounded by minimalist decor and several potted green plants, creating a tranquil and inviting atmosphere. The scene is shot from above at a 45-degree angle, with soft morning light cascading through the windows and creating gentle shadows. There is intentional empty space in the top right corner for text overlay.",
+    "original_prompt": "A serene modern yoga studio with natural light streaming through floor-to-ceiling windows, a rolled grey yoga mat on light wooden floors, surrounded by minimalist decor and potted plants. Shot from above at 45-degree angle, soft morning light creates gentle shadows, empty space in top right for text overlay",
+    "generation_time": 9.918685913085938,
+    "timestamp": "2025-07-26T12:08:03.753998",
+    "size": "1024x1024"
+  },
+  "image_settings": {
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_120803.png"
+}

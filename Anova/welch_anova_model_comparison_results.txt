@@ -1,0 +1,26 @@
+Welch ANOVA Analysis Results - Study (5 Model Comparison)
+======================================================================
+
+Study: Leveraging Commercial LLMs for E-Commerce Advertising
+Research Question: Which AI model performs best for ad generation?
+
+MODEL COMPARISON ANALYSIS:
+F(4, 68.9) = 0.213, p = 0.930506
+Effect Size (η²): 0.0054
+Conclusion: Non-significant differences found
+
+Model Performance Ranking:
+1. Claude: 3.633 (n=42.0)
+2. ChatGPT: 3.571 (n=42.0)
+3. Deepseek: 3.495 (n=42.0)
+4. Gemini: 3.486 (n=42.0)
+5. Human: 3.388 (n=16.0)
+
+Descriptive Statistics:
+           count    mean     std     var
+LLM_Model                               
+Human         16  3.3875  1.1921  1.4212
+Claude        42  3.6333  0.9985  0.9969
+ChatGPT       42  3.5714  0.8918  0.7953
+Deepseek      42  3.4952  0.9840  0.9683
+Gemini        42  3.4857  1.0713  1.1476

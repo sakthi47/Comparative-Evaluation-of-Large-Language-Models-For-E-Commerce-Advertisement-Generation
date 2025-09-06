@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:22.206298",
+  "input_image": "./input/cutting_board.jpeg",
+  "product_description": "rectangle shaped sandal wood colored cutting board suitable for chopping made of wood with cylinderical hole for hanging",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your kitchen with our sleek sandalwood cutting board\u2014durable, stylish & easy to hang. Limited stock, chop in style today!\",",
+      "headline": "\"Elegant Sandalwood Cutting Board\",",
+      "description": "\"Durable wood, modern design, and a handy hanging hole for effortless storage.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your kitchen with our sleek sandalwood cutting board\u2014durable, stylish & easy to hang. Limited stock, chop in style today!\",\n  \"headline\": \"Elegant Sandalwood Cutting Board\",\n  \"description\": \"Durable wood, modern design, and a handy hanging hole for effortless storage.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 2.5570201873779297,
+    "timestamp": "2025-07-26T20:56:22.206275"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

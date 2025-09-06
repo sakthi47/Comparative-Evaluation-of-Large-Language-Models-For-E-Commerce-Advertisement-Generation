@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T21:10:18.759953",
+  "product_description": "shiny pink skin friendly pillow in rectangle shape, 60 cm x 30 cm",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "deepseek_model": "DeepSeek-V3-0324",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Sleep in style & comfort! Our ultra-soft pink pillow is gentle on your skin & perfect for any position. Limited stock \u2013 treat yourself today!\",",
+      "headline": "\"Luxury Pink Pillow \u2013 Skin-Friendly Comfort\",",
+      "description": "\"60x30cm rectangle pillow, hypoallergenic & ultra-soft for all-night comfort.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Sleep in style & comfort! Our ultra-soft pink pillow is gentle on your skin & perfect for any position. Limited stock \u2013 treat yourself today!\",\n  \"headline\": \"Luxury Pink Pillow \u2013 Skin-Friendly Comfort\",\n  \"description\": \"60x30cm rectangle pillow, hypoallergenic & ultra-soft for all-night comfort.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 5.122203826904297,
+    "timestamp": "2025-07-26T21:10:13.693370"
+  },
+  "deepseek_optimized_prompt": "**AI Image Generation Prompt:**  \n\n\"Professional product photo of a shiny, soft pink skin-friendly pillow (60 cm x 30 cm, rectangular shape) placed centrally on a clean, neutral-toned surface with subtle texture. The pillow should appear plush and inviting, with slight indentations to emphasize softness. Lighting should be soft and diffused, creating gentle highlights on the pillow's smooth surface to enhance its luxurious feel. Use a modern, minimalist setup with a slightly blurred pastel or light gray background to keep focus on the product. The mood should be serene and elegant, with a warm undertone to evoke comfort. Include subtle lifestyle elements like a neatly folded blanket in complementary tones (soft white or blush) placed beside the pillow for context. Ensure crisp, high-resolution details with a balanced composition suitable for Facebook/Instagram ads.\"",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "**AI Image Generation Prompt:**  \n\n\"Professional product photo of a shiny, soft pink skin-friendly pillow (60 cm x 30 cm, rectangular shape) placed centrally on a clean, neutral-toned surface with subtle texture. The pillow should appear plush and inviting, with slight indentations to emphasize softness. Lighting should be soft and diffused, creating gentle highlights on the pillow's smooth surface to enhance its luxurious feel. Use a modern, minimalist setup with a slightly blurred pastel or light gray background to keep focus on the product. The mood should be serene and elegant, with a warm undertone to evoke comfort. Include subtle lifestyle elements like a neatly folded blanket in complementary tones (soft white or blush) placed beside the pillow for context. Ensure crisp, high-resolution details with a balanced composition suitable for Facebook/Instagram ads.\"",
+    "generation_time": 2.2998201847076416,
+    "timestamp": "2025-07-26T21:10:18.759942",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_211018.png"
+}

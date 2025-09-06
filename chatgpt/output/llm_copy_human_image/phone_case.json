@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:33:08.982723",
+  "input_image": "./input/phone_case.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Protect Your Phone, Protect the Planet \u2013 Eco-Friendly Style You\u2019ll Love!\",\n  \"description\": \"Upgrade your phone case to one that cares for the planet and your style. Made with sustainable materials, this sleek case combines durability with a modern, earthy design. Lightweight yet tough, it shields your phone from drops and scratches while reducing your environmental footprint. Feel good about your choices, and let your phone make a statement about what truly matters.\",\n  \"cta\": \"Shop now and join the eco-conscious movement \u2013 limited stock available!\"\n}\n```",
+  "custom_prompt": null
+}

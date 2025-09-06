@@ -1,0 +1,33 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T12:06:36.543444",
+  "product_description": "3 litres silver color pressure cooker with bakelite black handle with a whistle on it.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "Cook faster, eat healthier! This sleek 3L pressure cooker saves 70% cooking time while preserving nutrients & flavors.",
+      "headline": "Modern Cooking, Maximum Flavor",
+      "description": "Elegant silver design with safe-grip handle transforms your daily cooking. Perfect size for 2-4 people, makes tender meals in minutes while saving energy.",
+      "cta": "Shop Now & Save Time"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Cook faster, eat healthier! This sleek 3L pressure cooker saves 70% cooking time while preserving nutrients & flavors.\",\n    \"headline\": \"Modern Cooking, Maximum Flavor\",\n    \"description\": \"Elegant silver design with safe-grip handle transforms your daily cooking. Perfect size for 2-4 people, makes tender meals in minutes while saving energy.\",\n    \"cta\": \"Shop Now & Save Time\"\n}",
+    "generation_time": 4.253247976303101,
+    "timestamp": "2025-07-26T12:06:21.597615"
+  },
+  "claude_optimized_prompt": "Professional product photography of a sleek silver pressure cooker on a modern kitchen counter, steam rising elegantly, fresh vegetables scattered artistically, warm natural lighting from left, shallow depth of field, rule of thirds composition, marble countertop, soft bokeh background, photorealistic 8K quality",
+  "image_generation_result": {
+    "image_url": "https://dalleprodsec.blob.core.windows.net/private/images/d57ee5b6-7c2c-4f94-a6ae-d2d3cf27ca47/generated_00.png?se=2025-07-27T16%3A06%3A36Z&sig=LUZvR2og%2BFrNZMb6PNmp1Nt6o8d%2BZ3QCvk38JKGVq1M%3D&ske=2025-07-31T04%3A08%3A30Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-24T04%3A08%3A30Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+    "revised_prompt": "Professional product photography of a sleek silver pressure cooker on a modern kitchen counter. Steam is rising elegantly from the pressure cooker, and fresh vegetables like carrots, peppers, and broccoli are scattered artistically nearby. The scene is illuminated with warm natural lighting coming from the left. The pressure cooker rests on a marble countertop, and the composition follows the rule of thirds with a shallow depth of field. The soft bokeh background adds a touch of elegance and modernity to the scene. The image is in photorealistic 8K quality.",
+    "original_prompt": "Professional product photography of a sleek silver pressure cooker on a modern kitchen counter, steam rising elegantly, fresh vegetables scattered artistically, warm natural lighting from left, shallow depth of field, rule of thirds composition, marble countertop, soft bokeh background, photorealistic 8K quality",
+    "generation_time": 10.137331008911133,
+    "timestamp": "2025-07-26T12:06:36.543409",
+    "size": "1024x1024"
+  },
+  "image_settings": {
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_120636.png"
+}

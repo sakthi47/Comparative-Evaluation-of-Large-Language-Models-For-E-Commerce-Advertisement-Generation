@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:56:07.714473",
+  "input_image": "./input/pressure_cooker.jpeg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Cook faster, safer, and smarter with our premium pressure cooker. Perfect meals in half the time, every time.",
+      "headline": "Revolution in Your Kitchen",
+      "description": "Professional-grade aluminum pressure cooker with safety-lock system and ergonomic handle. Reduces cooking time by up to 70%.",
+      "cta": "Shop Now & Save Time"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Cook faster, safer, and smarter with our premium pressure cooker. Perfect meals in half the time, every time.\",\n    \"headline\": \"Revolution in Your Kitchen\",\n    \"description\": \"Professional-grade aluminum pressure cooker with safety-lock system and ergonomic handle. Reduces cooking time by up to 70%.\",\n    \"cta\": \"Shop Now & Save Time\"\n}",
+    "generation_time": 4.106472015380859,
+    "timestamp": "2025-07-26T11:56:07.714334"
+  }
+}

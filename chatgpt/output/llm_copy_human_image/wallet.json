@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:38:57.350611",
+  "input_image": "./input/wallet.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Elevate Your Style with a Personalized Touch \u2013 The Wallet That Speaks for You!\",\n  \"description\": \"Crafted from premium leather, this sleek and timeless wallet combines elegance with functionality. Designed for the modern individual, it features ample space for your cards and cash while remaining slim and lightweight. Make it uniquely yours with custom engraving\u2014perfect for gifting or adding a personal flair. Carry sophistication everywhere you go and showcase your distinctive style.\",\n  \"cta\": \"Personalize your wallet today and redefine your everyday essentials \u2013 Shop now before they\u2019re gone!\"\n}\n```",
+  "custom_prompt": null
+}

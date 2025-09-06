@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:30.076957",
+  "input_image": "./input/umbrella.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Stay dry in style.  VW branded umbrella.\",",
+      "headline": "\"VW Auto Umbrella\",",
+      "description": "\"Premium quality, stylish design.  Perfect for any weather.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Stay dry in style.  VW branded umbrella.\",\n  \"headline\": \"VW Auto Umbrella\",\n  \"description\": \"Premium quality, stylish design.  Perfect for any weather.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 1.8151841163635254,
+    "timestamp": "2025-07-26T12:38:30.076878"
+  }
+}

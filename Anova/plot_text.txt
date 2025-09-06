@@ -1,0 +1,88 @@
+Loaded processed data: 184 ad evaluations, 920 individual ratings
+Models: ['ChatGPT', 'Claude', 'Deepseek', 'Gemini', 'Human']
+Products: ['T-Shirt' 'Coffee Mug' 'Backpack' 'Umbrella' 'Phonecase']
+Creating 5-model comparison visualizations for  study...
+
+======================================================================
+WELCH ANOVA RESULTS (5-MODEL COMPARISON)
+======================================================================
+
+OVERALL MODEL COMPARISON:
+F(4, 179) = 0.241
+p-value: 0.914850
+Effect size (η²): 0.0054
+*** NO SIGNIFICANT DIFFERENCES ***
+Conclusion: All AI models perform equivalently
+
+MODEL RANKING:
+1. Claude: 3.633 (n=42)
+2. ChatGPT: 3.571 (n=42)
+3. Deepseek: 3.495 (n=42)
+4. Gemini: 3.486 (n=42)
+5. Human: 3.388 (n=16)
+Creating plot for: Purchase Intent
+Creating plot for: Visual Appeal
+Creating plot for: Value Convincing
+Creating plot for: Message Clarity
+Creating plot for: Trustworthiness
+Created individual question plots for 5 models in '5model_plots/' directory
+Created 5-model comparison heatmap
+Created overall 5-model performance visualization
+Created 5-model box plots
+
+================================================================================
+STATISTICAL RESULTS BY QUESTION (5-MODEL COMPARISON)
+================================================================================
+Question        Mean   Std    N    F      p-val    η²     Sig  Best Model Score 
+----------------------------------------------------------------------------------------------------
+Purchase Intent 3.47   1.18   184  0.30   0.8770   0.007  No   Claude     3.62  
+Visual Appeal   3.36   1.22   184  0.51   0.7292   0.011  No   Claude     3.50  
+Value Convincing 3.43   1.16   184  0.30   0.8791   0.007  No   Claude     3.55  
+Message Clarity 3.89   0.99   184  0.24   0.9153   0.005  No   Gemini     3.95  
+Trustworthiness 3.51   1.19   184  1.01   0.4024   0.022  No   Claude     3.74  
+
+Statistical results saved to '5model_plots/question_statistical_results_5models.csv'
+Created 5-model best/worst performers visualization
+
+Best Performers by Question:
+  Purchase Intent: Claude (3.62)
+  Visual Appeal: Claude (3.50)
+  Value Convincing: Claude (3.55)
+  Message Clarity: Gemini (3.95)
+  Trustworthiness: Claude (3.74)
+
+Worst Performers by Question:
+  Purchase Intent: Human (3.38)
+  Visual Appeal: Human (3.00)
+  Value Convincing: Deepseek (3.31)
+  Message Clarity: Claude (3.76)
+  Trustworthiness: Human (3.19)
+Created product comparison visualization for 5-model analysis
+Created comprehensive 5-model summary visualization
+
+======================================================================
+ALL 5-MODEL VISUALIZATIONS COMPLETED
+======================================================================
+Files created in '5model_plots/' directory:
+1. Individual question bar charts (5 models each)
+2. Model comparison heatmap
+3. Overall model performance dashboard
+4. Model box plots by question
+5. Best/worst performers by question
+6. Product comparison analysis
+7. Comprehensive summary visualization
+8. Statistical results CSV (5-model comparison)
+
+Key Findings:
+• Best performing model: Claude (3.633)
+• Worst performing model: Human (3.388)
+• Performance gap: 0.246 points
+• Statistical significance: NO (p = 0.9149)
+• Effect size: 0.0054 (Small)
+
+Practical Recommendations:
+• Any model can be selected without performance penalty
+• Base decision on other factors (cost, speed, features)
+• Descriptively, Claude ranked highest
+
+All files are high-resolution (300 DPI) and ready for presentation!

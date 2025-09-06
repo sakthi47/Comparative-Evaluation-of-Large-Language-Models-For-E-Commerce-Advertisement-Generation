@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:55:30.030649",
+  "input_image": "./input/pillow.jpeg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Transform your beauty sleep with pure silk luxury. Wake up to smoother hair and refreshed skin every morning.",
+      "headline": "Pure Silk Pillowcase for Better Beauty",
+      "description": "Premium mulberry silk pillowcase that prevents hair breakage, reduces facial creases, and keeps skin hydrated while you sleep.",
+      "cta": "Shop Silk Beauty Sleep"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Transform your beauty sleep with pure silk luxury. Wake up to smoother hair and refreshed skin every morning.\",\n    \"headline\": \"Pure Silk Pillowcase for Better Beauty\",\n    \"description\": \"Premium mulberry silk pillowcase that prevents hair breakage, reduces facial creases, and keeps skin hydrated while you sleep.\",\n    \"cta\": \"Shop Silk Beauty Sleep\"\n}",
+    "generation_time": 3.343596935272217,
+    "timestamp": "2025-07-26T11:55:30.030620"
+  }
+}

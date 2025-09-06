@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:25.786173",
+  "input_image": "./input/tshirt.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Premium Black Tee.  Soft, durable, & stylish.  Upgrade your wardrobe.\",",
+      "headline": "\"Effortless Style\",",
+      "description": "\"Soft cotton, perfect fit, everyday wear.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Premium Black Tee.  Soft, durable, & stylish.  Upgrade your wardrobe.\",\n  \"headline\": \"Effortless Style\",\n  \"description\": \"Soft cotton, perfect fit, everyday wear.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 1.7108640670776367,
+    "timestamp": "2025-07-26T12:38:25.786096"
+  }
+}

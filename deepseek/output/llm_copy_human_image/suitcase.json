@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:24.662069",
+  "input_image": "./input/suitcase.jpeg",
+  "product_description": "black colored travel suitcase with 56cm x 40cm x 23cm of weight capacity 22kg with 2 wheels with handle.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Sleek, durable, and ready for adventure\u2014your perfect travel companion with 22kg capacity. Don't miss out!\",",
+      "headline": "\"Effortless Travel in Style\",",
+      "description": "\"Spacious 56cm suitcase with smooth-rolling wheels for stress-free journeys.\",",
+      "cta": "\"Shop Now & Travel Smart\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Sleek, durable, and ready for adventure\u2014your perfect travel companion with 22kg capacity. Don't miss out!\",\n  \"headline\": \"Effortless Travel in Style\",\n  \"description\": \"Spacious 56cm suitcase with smooth-rolling wheels for stress-free journeys.\",\n  \"cta\": \"Shop Now & Travel Smart\"\n}\n```",
+    "generation_time": 2.2673959732055664,
+    "timestamp": "2025-07-26T20:56:24.662045"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

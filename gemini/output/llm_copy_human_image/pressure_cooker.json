@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:08.410602",
+  "input_image": "./input/pressure_cooker.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Hawkins Pressure Cooker: Fast, Safe, Reliable.  Cook delicious meals effortlessly!\",",
+      "headline": "\"Hawkins Pressure Cooker\",",
+      "description": "\"Durable, efficient cooking.  Perfect for everyday use.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Hawkins Pressure Cooker: Fast, Safe, Reliable.  Cook delicious meals effortlessly!\",\n  \"headline\": \"Hawkins Pressure Cooker\",\n  \"description\": \"Durable, efficient cooking.  Perfect for everyday use.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 3.2464561462402344,
+    "timestamp": "2025-07-26T12:38:08.410489"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:37:44.238362",
+  "input_image": "./input/umbrella.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Stay Dry in Style: Elevate Your Rainy Days with Premium Protection!\",\n  \"description\": \"Shield yourself from sudden downpours with this sleek, durable umbrella featuring Volkswagen\u2019s iconic logo. Its large canopy keeps you dry and confident, while the ergonomic handle ensures comfort on the go. Designed for reliability and effortless elegance, this umbrella is your ultimate weather companion.\",\n  \"cta\": \"Don\u2019t wait for the storm\u2014order now and make rainy days a breeze!\"\n}\n```",
+  "custom_prompt": null
+}

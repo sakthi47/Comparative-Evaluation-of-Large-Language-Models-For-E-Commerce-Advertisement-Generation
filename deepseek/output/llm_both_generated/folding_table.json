@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T21:10:33.829722",
+  "product_description": "wooden folding table of size 100cm x 200cm with long black iron legs",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "deepseek_model": "DeepSeek-V3-0324",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Sleek 100x200cm wooden folding table with iron legs \u2013 stylish, sturdy, and space-saving. Perfect for any modern home. Limited stock!\",",
+      "headline": "\"Modern Folding Table \u2013 Style Meets Function\",",
+      "description": "\"Elegant design, easy storage, and durable iron legs. Upgrade your space today!\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Sleek 100x200cm wooden folding table with iron legs \u2013 stylish, sturdy, and space-saving. Perfect for any modern home. Limited stock!\",\n  \"headline\": \"Modern Folding Table \u2013 Style Meets Function\",\n  \"description\": \"Elegant design, easy storage, and durable iron legs. Upgrade your space today!\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 2.257053852081299,
+    "timestamp": "2025-07-26T21:10:29.155138"
+  },
+  "deepseek_optimized_prompt": "**AI Image Generation Prompt:**  \n\n\"Professional product photo of a sleek, modern wooden folding table (100cm x 200cm) with long black iron legs, positioned at a slight angle to showcase its folding mechanism and sturdy design. The table is open and placed in a minimalist, well-lit indoor setting with soft, diffused lighting to highlight the natural wood grain and metallic legs. The background is a neutral, light gray or white backdrop with subtle shadows for depth.  \n\nStyling includes a modern aesthetic\u2014add a small potted plant, a stylish notebook, and a ceramic mug on the table to suggest a contemporary home office or dining setup. The mood is clean, sophisticated, and inviting, with warm undertones to enhance the wood texture. The image should be crisp, high-resolution, and optimized for Facebook/Instagram ads, with a focus on the product\u2019s space-saving and stylish appeal.\"",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "**AI Image Generation Prompt:**  \n\n\"Professional product photo of a sleek, modern wooden folding table (100cm x 200cm) with long black iron legs, positioned at a slight angle to showcase its folding mechanism and sturdy design. The table is open and placed in a minimalist, well-lit indoor setting with soft, diffused lighting to highlight the natural wood grain and metallic legs. The background is a neutral, light gray or white backdrop with subtle shadows for depth.  \n\nStyling includes a modern aesthetic\u2014add a small potted plant, a stylish notebook, and a ceramic mug on the table to suggest a contemporary home office or dining setup. The mood is clean, sophisticated, and inviting, with warm undertones to enhance the wood texture. The image should be crisp, high-resolution, and optimized for Facebook/Instagram ads, with a focus on the product\u2019s space-saving and stylish appeal.\"",
+    "generation_time": 2.211688280105591,
+    "timestamp": "2025-07-26T21:10:33.829709",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_211033.png"
+}

@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:55:46.776484",
+  "input_image": "./input/slippers.jpeg",
+  "product_description": "Medium Dark Blue slide sandals with size 7, waterproof slippers made of high quality rubber.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Step into comfort with waterproof Medium Dark Blue slide sandals\u2014perfect for any adventure. Limited stock in size 7!\",",
+      "headline": "\"Waterproof Slides for Every Step\",",
+      "description": "\"High-quality rubber sandals, stylish & durable for all-day wear.\",",
+      "cta": "\"Shop Now \u2013 Limited Stock!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Step into comfort with waterproof Medium Dark Blue slide sandals\u2014perfect for any adventure. Limited stock in size 7!\",\n  \"headline\": \"Waterproof Slides for Every Step\",\n  \"description\": \"High-quality rubber sandals, stylish & durable for all-day wear.\",\n  \"cta\": \"Shop Now \u2013 Limited Stock!\"\n}\n```",
+    "generation_time": 2.1608242988586426,
+    "timestamp": "2025-07-26T20:55:46.776460"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

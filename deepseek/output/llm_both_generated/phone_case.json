@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T21:08:46.727259",
+  "product_description": "teal green iphone 15 silicon backcase with non shiny glittery spots in light green color through the case",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "deepseek_model": "DeepSeek-V3-0324",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your iPhone 15 with our teal green silicone case\u2014subtle light green glitter adds a modern touch while keeping it sleek. Limited stock!\",",
+      "headline": "\"Elegant Teal Glitter iPhone 15 Case\",",
+      "description": "\"Sleek silicone with delicate light green glitter. Modern, protective, and stylish.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your iPhone 15 with our teal green silicone case\u2014subtle light green glitter adds a modern touch while keeping it sleek. Limited stock!\",\n  \"headline\": \"Elegant Teal Glitter iPhone 15 Case\",\n  \"description\": \"Sleek silicone with delicate light green glitter. Modern, protective, and stylish.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 4.265566825866699,
+    "timestamp": "2025-07-26T21:08:42.172067"
+  },
+  "deepseek_optimized_prompt": "**AI Image Generation Prompt:**  \n\n\"Professional product photo of a teal green iPhone 15 silicone back case with subtle, non-shiny light green glitter spots scattered throughout, placed at a slight angle to showcase its sleek, modern design. The case should be centered on a clean, minimalist white or soft gray background with soft, diffused lighting to highlight the glitter details without harsh reflections. Use a shallow depth of field to slightly blur the background while keeping the case sharp. The mood should be fresh, modern, and slightly luxurious, with cool-toned lighting enhancing the teal and light green hues. Include subtle shadows for depth and realism. The composition should be clean and uncluttered, optimized for Facebook/Instagram ads, with space for text overlay.\"",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "**AI Image Generation Prompt:**  \n\n\"Professional product photo of a teal green iPhone 15 silicone back case with subtle, non-shiny light green glitter spots scattered throughout, placed at a slight angle to showcase its sleek, modern design. The case should be centered on a clean, minimalist white or soft gray background with soft, diffused lighting to highlight the glitter details without harsh reflections. Use a shallow depth of field to slightly blur the background while keeping the case sharp. The mood should be fresh, modern, and slightly luxurious, with cool-toned lighting enhancing the teal and light green hues. Include subtle shadows for depth and realism. The composition should be clean and uncluttered, optimized for Facebook/Instagram ads, with space for text overlay.\"",
+    "generation_time": 2.2223470211029053,
+    "timestamp": "2025-07-26T21:08:46.727250",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_210846.png"
+}

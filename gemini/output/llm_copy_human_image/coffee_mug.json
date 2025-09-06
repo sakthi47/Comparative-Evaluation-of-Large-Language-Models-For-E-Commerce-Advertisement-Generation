@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:37:29.394634",
+  "input_image": "./input/coffee_mug.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your morning routine.  Stylish, durable mug.  Order now!\",",
+      "headline": "\"Grey Ceramic Mug\",",
+      "description": "\"Simple elegance for your daily brew.  Enjoy!\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your morning routine.  Stylish, durable mug.  Order now!\",\n  \"headline\": \"Grey Ceramic Mug\",\n  \"description\": \"Simple elegance for your daily brew.  Enjoy!\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 2.694344997406006,
+    "timestamp": "2025-07-26T12:37:29.394558"
+  }
+}

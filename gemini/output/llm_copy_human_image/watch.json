@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:44.660168",
+  "input_image": "./input/watch.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Rose gold elegance. Minimalist design.  Shop now!\",",
+      "headline": "\"Rose Gold Minimalist Watch\",",
+      "description": "\"Chic, timeless style.  Perfect everyday accessory.\",",
+      "cta": "\"Buy Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Rose gold elegance. Minimalist design.  Shop now!\",\n  \"headline\": \"Rose Gold Minimalist Watch\",\n  \"description\": \"Chic, timeless style.  Perfect everyday accessory.\",\n  \"cta\": \"Buy Now\"\n}\n```\n",
+    "generation_time": 2.153087854385376,
+    "timestamp": "2025-07-26T12:38:44.660056"
+  }
+}

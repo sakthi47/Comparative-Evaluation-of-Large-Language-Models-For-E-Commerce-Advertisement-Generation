@@ -1,0 +1,33 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T12:06:54.249962",
+  "product_description": "eco-friendly water bottle",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "Save 1,460 plastic bottles a year while staying stylishly hydrated. Your sustainable choice for a cleaner planet starts here.",
+      "headline": "Hydrate with Purpose",
+      "description": "Sleek, durable, and eco-conscious. Our reusable water bottle keeps drinks cold for 24 hours while helping eliminate single-use plastic waste.",
+      "cta": "Make the Switch Today"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Save 1,460 plastic bottles a year while staying stylishly hydrated. Your sustainable choice for a cleaner planet starts here.\",\n    \"headline\": \"Hydrate with Purpose\",\n    \"description\": \"Sleek, durable, and eco-conscious. Our reusable water bottle keeps drinks cold for 24 hours while helping eliminate single-use plastic waste.\",\n    \"cta\": \"Make the Switch Today\"\n}",
+    "generation_time": 3.8604249954223633,
+    "timestamp": "2025-07-23T12:06:41.353468"
+  },
+  "claude_optimized_prompt": "A sleek stainless steel water bottle on a modern kitchen counter near a window, soft morning light streaming in, fresh plants and minimalist decor in background, shallow depth of field, clean aesthetic, professional product photography style, rule of thirds composition, 8K quality, photorealistic",
+  "image_generation_result": {
+    "image_url": "https://dalleprodsec.blob.core.windows.net/private/images/304c0e97-e014-4bcb-bbfe-c2d98c539202/generated_00.png?se=2025-07-24T16%3A06%3A54Z&sig=LQ%2F5%2FtZpZa54tKdLaJmb1PrJtZSxijNaaMqzD1LsNT4%3D&ske=2025-07-25T17%3A39%3A50Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-18T17%3A39%3A50Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+    "revised_prompt": "A sleek stainless steel water bottle placed on a modern kitchen counter near a window, with soft morning light streaming in. In the background, there are fresh plants and minimalist decor, providing a clean and calming aesthetic. The image has a shallow depth of field to emphasize the water bottle while softly blurring the background. It is styled as professional product photography, adhering to the rule of thirds for composition, and rendered in 8K quality with a photorealistic approach.",
+    "original_prompt": "A sleek stainless steel water bottle on a modern kitchen counter near a window, soft morning light streaming in, fresh plants and minimalist decor in background, shallow depth of field, clean aesthetic, professional product photography style, rule of thirds composition, 8K quality, photorealistic",
+    "generation_time": 9.915112972259521,
+    "timestamp": "2025-07-23T12:06:54.249929",
+    "size": "1024x1024"
+  },
+  "image_settings": {
+    "model": "dall-e-3",
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_120654.png"
+}

@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:13.427153",
+  "input_image": "./input/slippers.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Cloud-like comfort.  Durable style.  Your new fave slides.\",",
+      "headline": "\"Relax in Style\",",
+      "description": "\"Soft, comfy slides for all-day wear.  Lightweight & easy to clean.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Cloud-like comfort.  Durable style.  Your new fave slides.\",\n  \"headline\": \"Relax in Style\",\n  \"description\": \"Soft, comfy slides for all-day wear.  Lightweight & easy to clean.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 2.5421931743621826,
+    "timestamp": "2025-07-26T12:38:13.427100"
+  }
+}

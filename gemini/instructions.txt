@@ -1,0 +1,6 @@
+python llm_copy_human_image.py --image ./input/bottle.jpeg
+
+python llm_image_human_copy.py --description "premium water bottle"
+
+python llm_both_generated.py --description "premium eco-friendly water bottle"
+

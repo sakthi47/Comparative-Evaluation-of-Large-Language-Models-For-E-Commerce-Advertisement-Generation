@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:28:12.675676",
+  "input_image": "./input/cutting_board.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Upgrade Your Kitchen with Eco-Friendly Elegance!\",\n  \"description\": \"Say goodbye to flimsy cutting boards! Our premium bamboo cutting board offers unmatched durability, natural antibacterial properties, and a sleek design to enhance your cooking experience. Perfect for every kitchen task, it\u2019s eco-conscious, easy to clean, and gentle on your knives. Make meal prep a joy, not a chore!\",\n  \"cta\": \"Transform your kitchen today\u2014order your bamboo cutting board now and experience the difference!\"\n}\n```",
+  "custom_prompt": null
+}

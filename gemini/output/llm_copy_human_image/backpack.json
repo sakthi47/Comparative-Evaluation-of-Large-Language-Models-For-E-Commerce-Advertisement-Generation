@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:37:19.974158",
+  "input_image": "./input/backpack.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Pastel Rainbow Backpack! \u2728  Cute & comfy.\",",
+      "headline": "\"Rainbow Backpack\",",
+      "description": "\"Adorable pastel rainbow design. Perfect for school or play!\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Pastel Rainbow Backpack! \u2728  Cute & comfy.\",\n  \"headline\": \"Rainbow Backpack\",\n  \"description\": \"Adorable pastel rainbow design. Perfect for school or play!\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 2.0345308780670166,
+    "timestamp": "2025-07-26T12:37:19.974066"
+  }
+}

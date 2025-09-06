@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:33:41.703595",
+  "input_image": "./input/pillow.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Wake Up Glowing: The Pillowcase That Transforms Your Skin & Hair Overnight!\",\n  \"description\": \"Indulge in luxury sleep with our premium silk pillowcase. Say goodbye to bedhead and wrinkles\u2014its smooth, hypoallergenic surface reduces friction for glowing skin and frizz-free hair. Perfect for self-care lovers who crave effortless beauty while they rest.\",\n  \"cta\": \"Treat yourself today\u2014shop now and experience the magic of beauty sleep!\"\n}\n```",
+  "custom_prompt": null
+}

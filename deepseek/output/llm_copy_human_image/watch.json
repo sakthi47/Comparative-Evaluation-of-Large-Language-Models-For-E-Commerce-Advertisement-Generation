@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:55:49.336362",
+  "input_image": "./input/watch.jpeg",
+  "product_description": "Pink color women watch, with 2 cm white dial, surrounded by pink stones with time minute and hour hand in black color without any numbers or romans inside.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Elegant pink watch with sparkling stones. Minimalist design meets modern charm. Perfect for any occasion. Limited stock\u2014get yours before it's gone!\",",
+      "headline": "\"Sparkling Pink Elegance\",",
+      "description": "\"Modern pink watch with white dial\u2014timeless beauty for every outfit.\",",
+      "cta": "\"Shop Now & Shine\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Elegant pink watch with sparkling stones. Minimalist design meets modern charm. Perfect for any occasion. Limited stock\u2014get yours before it's gone!\",\n  \"headline\": \"Sparkling Pink Elegance\",\n  \"description\": \"Modern pink watch with white dial\u2014timeless beauty for every outfit.\",\n  \"cta\": \"Shop Now & Shine\"\n}\n```",
+    "generation_time": 2.3880808353424072,
+    "timestamp": "2025-07-26T20:55:49.336337"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

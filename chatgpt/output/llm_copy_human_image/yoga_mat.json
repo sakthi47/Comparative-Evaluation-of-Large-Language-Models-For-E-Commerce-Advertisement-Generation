@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:39:54.654697",
+  "input_image": "./input/yoga_mat.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Elevate Your Practice: The Yoga Mat That Supports You Every Step of the Way!\",\n  \"description\": \"Transform your yoga sessions with the ultimate comfort and stability. This premium mat offers unbeatable grip, cushioning, and durability to help you focus, flow, and unwind. Say goodbye to slipping and discomfort, and hello to a mat that moves with you\u2014whether you're mastering poses or finding inner peace. Perfect for yogis of all levels who demand quality and style.\",\n  \"cta\": \"Ready to upgrade your practice? Tap below to bring home your perfect yoga companion today!\"\n}\n```",
+  "custom_prompt": null
+}

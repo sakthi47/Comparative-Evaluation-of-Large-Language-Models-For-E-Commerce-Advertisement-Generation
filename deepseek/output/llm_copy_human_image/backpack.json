@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:55:51.793943",
+  "input_image": "./input/backpack.jpeg",
+  "product_description": "light sandal backpack with multiple small consecutive reverse U design for kids with one small compartment in the front, and one big compartment in the middle",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Lightweight & stylish sandal backpack for kids! Roomy compartments, comfy straps, and a fun reverse U design. Perfect for school or adventures. Grab yours today!\",",
+      "headline": "\"Kids' Sandal Backpack - Light & Spacious\",",
+      "description": "\"Modern design with smart storage. Durable, comfy, and ready for any adventure.\",",
+      "cta": "\"Shop Now - Limited Stock!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Lightweight & stylish sandal backpack for kids! Roomy compartments, comfy straps, and a fun reverse U design. Perfect for school or adventures. Grab yours today!\",\n  \"headline\": \"Kids' Sandal Backpack - Light & Spacious\",\n  \"description\": \"Modern design with smart storage. Durable, comfy, and ready for any adventure.\",\n  \"cta\": \"Shop Now - Limited Stock!\"\n}\n```",
+    "generation_time": 2.2780396938323975,
+    "timestamp": "2025-07-26T20:55:51.793922"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

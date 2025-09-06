@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:02.673474",
+  "input_image": "./input/pillow.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Luxury silk pillow.  Sleep soundly, wake refreshed.\",",
+      "headline": "\"Indulge in Silk\",",
+      "description": "\"Soft, smooth, and luxurious.  The ultimate sleep upgrade.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Luxury silk pillow.  Sleep soundly, wake refreshed.\",\n  \"headline\": \"Indulge in Silk\",\n  \"description\": \"Soft, smooth, and luxurious.  The ultimate sleep upgrade.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 1.7972540855407715,
+    "timestamp": "2025-07-26T12:38:02.673377"
+  }
+}

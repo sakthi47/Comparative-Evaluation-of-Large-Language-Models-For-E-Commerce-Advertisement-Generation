@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:03.260984",
+  "input_image": "./input/phone_case.jpeg",
+  "product_description": "teal green iphone 15 silicon backcase with non shiny glittery spots in light green color through the case",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your iPhone 15's style with our teal green silicon case\u2014subtle light green glitter adds a modern, elegant touch. Limited stock!\",",
+      "headline": "\"Elegant Teal Glitter iPhone 15 Case\",",
+      "description": "\"Sleek, modern design with non-shiny glitter accents. Durable & stylish.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your iPhone 15's style with our teal green silicon case\u2014subtle light green glitter adds a modern, elegant touch. Limited stock!\",\n  \"headline\": \"Elegant Teal Glitter iPhone 15 Case\",\n  \"description\": \"Sleek, modern design with non-shiny glitter accents. Durable & stylish.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 2.677945137023926,
+    "timestamp": "2025-07-26T20:56:03.260962"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

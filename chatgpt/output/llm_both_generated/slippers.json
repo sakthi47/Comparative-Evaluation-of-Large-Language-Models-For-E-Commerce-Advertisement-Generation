@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:10:37.378852",
+  "product_description": "Medium Dark Blue slide sandals with size 7, waterproof slippers made of high quality rubber.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Step Into Comfort: Modern Blue Slide Sandals Built to Last!\",\n  \"description\": \"Elevate your every step with our Medium Dark Blue slide sandals, crafted from high-quality waterproof rubber. Perfectly sized at 7, these modern slippers are lightweight, durable, and stylish\u2014ideal for everyday wear, rain or shine. Your feet deserve this blend of comfort and confidence!\",\n  \"cta\": \"Shop now and give your feet the care they deserve!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/3b28ec08-c1aa-482e-bb2f-0e6925f3c58a/generated_00.png?se=2025-07-24T22%3A10%3A37Z&sig=J242SFCkCXStVQ8A0SJQ4jCUv82xcwia5WlohHymf4k%3D&ske=2025-07-28T14%3A52%3A40Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-21T14%3A52%3A40Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of Medium Dark Blue slide sandals with size 7, waterproof slippers made of high quality rubber., \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_181037.png"
+}

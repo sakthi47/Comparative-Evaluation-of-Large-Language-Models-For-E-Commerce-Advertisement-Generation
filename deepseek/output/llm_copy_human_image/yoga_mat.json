@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:16.470973",
+  "input_image": "./input/yoga_mat.jpeg",
+  "product_description": "grey colored 6 inch length, 3 inch width yoga mat made of natural rubber",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Find your balance on our eco-friendly grey yoga mat. Natural rubber grip, perfect size for any practice. Limited stock \u2013 flow in comfort today!\",",
+      "headline": "\"Grey Yoga Mat \u2013 Natural Comfort\",",
+      "description": "\"6\\\"x3\\\" natural rubber mat for stability and style. Eco-friendly, non-slip, and ultra-durable.\",",
+      "cta": "\"Shop Now \u2013 Limited Time\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Find your balance on our eco-friendly grey yoga mat. Natural rubber grip, perfect size for any practice. Limited stock \u2013 flow in comfort today!\",\n  \"headline\": \"Grey Yoga Mat \u2013 Natural Comfort\",\n  \"description\": \"6\\\"x3\\\" natural rubber mat for stability and style. Eco-friendly, non-slip, and ultra-durable.\",\n  \"cta\": \"Shop Now \u2013 Limited Time\"\n}\n```",
+    "generation_time": 2.58906888961792,
+    "timestamp": "2025-07-26T20:56:16.470953"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

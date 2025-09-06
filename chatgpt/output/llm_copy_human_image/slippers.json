@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:35:46.578807",
+  "input_image": "./input/slippers.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Step Into Comfort: Your Feet Deserve This Bliss!\",\n  \"description\": \"Say goodbye to tired feet with our ultra-soft, lightweight slides. Perfect for home, gym, or poolside, they cradle your feet like a gentle hug. Designed for all-day relaxation, these slides are easy to slip on and keep your style effortlessly chic. Feel the comfort you\u2019ve been missing every step of the way!\",\n  \"cta\": \"Shop now and treat your feet to the comfort they deserve!\"\n}\n```",
+  "custom_prompt": null
+}

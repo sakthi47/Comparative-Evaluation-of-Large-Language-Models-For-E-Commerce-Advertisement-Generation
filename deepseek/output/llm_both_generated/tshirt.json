@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T21:08:37.337185",
+  "product_description": "half hand dark blue t shirt with roundneck in medium size.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "deepseek_model": "DeepSeek-V3-0324",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your casual look with our modern half-hand dark blue tee. Soft, stylish & perfect for any occasion. Limited stock\u2014grab yours now!\",",
+      "headline": "\"Modern Dark Blue Tee\",",
+      "description": "\"Ultra-comfortable roundneck shirt in a sleek dark blue hue.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your casual look with our modern half-hand dark blue tee. Soft, stylish & perfect for any occasion. Limited stock\u2014grab yours now!\",\n  \"headline\": \"Modern Dark Blue Tee\",\n  \"description\": \"Ultra-comfortable roundneck shirt in a sleek dark blue hue.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 1.8531920909881592,
+    "timestamp": "2025-07-26T21:08:30.781521"
+  },
+  "deepseek_optimized_prompt": "\"Generate a professional product photo of a modern half-hand dark blue t-shirt with a round neck in medium size, laid flat on a clean, minimalist white surface to highlight its design and fabric texture. The t-shirt should be neatly arranged with slight folds to appear natural, and the sleeves should be slightly rolled to showcase the half-hand detail. Use soft, diffused lighting to create even illumination with subtle shadows for depth, enhancing the rich dark blue color. The background should be a neutral, light gray or off-white to keep the focus on the product, with ample negative space for ad copy. The mood should be sleek, contemporary, and inviting, aligning with a modern brand style. Include a lifestyle element like a pair of stylish sunglasses or a minimalist watch placed subtly nearby to suggest versatility. Ensure high-resolution details for Facebook/Instagram ads, with a clean, polished look that emphasizes the t-shirt's softness and style.\"",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "\"Generate a professional product photo of a modern half-hand dark blue t-shirt with a round neck in medium size, laid flat on a clean, minimalist white surface to highlight its design and fabric texture. The t-shirt should be neatly arranged with slight folds to appear natural, and the sleeves should be slightly rolled to showcase the half-hand detail. Use soft, diffused lighting to create even illumination with subtle shadows for depth, enhancing the rich dark blue color. The background should be a neutral, light gray or off-white to keep the focus on the product, with ample negative space for ad copy. The mood should be sleek, contemporary, and inviting, aligning with a modern brand style. Include a lifestyle element like a pair of stylish sunglasses or a minimalist watch placed subtly nearby to suggest versatility. Ensure high-resolution details for Facebook/Instagram ads, with a clean, polished look that emphasizes the t-shirt's softness and style.\"",
+    "generation_time": 2.8635733127593994,
+    "timestamp": "2025-07-26T21:08:37.337174",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_210837.png"
+}

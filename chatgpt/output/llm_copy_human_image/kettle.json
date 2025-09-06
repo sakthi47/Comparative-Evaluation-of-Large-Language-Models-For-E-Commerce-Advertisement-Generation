@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:30:12.905491",
+  "input_image": "./input/kettle.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Brew Elegance: The Teapot That Elevates Every Sip\",\n  \"description\": \"Transform your tea time into a moment of pure serenity with our sleek, modern teapot. Designed for perfect pours and timeless style, this teapot blends functionality and beauty effortlessly. Its ergonomic handle ensures comfort, while the precision spout prevents spills. Whether hosting friends or unwinding solo, this teapot makes every cup an experience worth savoring.\",\n  \"cta\": \"Shop now and bring sophistication to your tea ritual!\"\n}\n```",
+  "custom_prompt": null
+}

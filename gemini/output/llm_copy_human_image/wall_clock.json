@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:34.829988",
+  "input_image": "./input/wall_clock.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Modern wall clock.  Sleek design, precise time. Upgrade your space!\",",
+      "headline": "\"Modern Wall Clock\",",
+      "description": "\"Stylish, accurate timekeeping.  Perfect for any room.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Modern wall clock.  Sleek design, precise time. Upgrade your space!\",\n  \"headline\": \"Modern Wall Clock\",\n  \"description\": \"Stylish, accurate timekeeping.  Perfect for any room.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 2.275543689727783,
+    "timestamp": "2025-07-26T12:38:34.829875"
+  }
+}

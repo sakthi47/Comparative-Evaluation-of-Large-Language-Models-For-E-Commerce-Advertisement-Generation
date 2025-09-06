@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:19.459634",
+  "input_image": "./input/wall_clock.jpeg",
+  "product_description": "30 cm grey wallclock with white dial and black numbering in bold and mini & hour hand with minute time divisions in red color.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your space with our sleek 30cm grey wall clock\u2014bold black numbers, crisp white dial & striking red accents. Timeless style meets modern precision. Order now!\",",
+      "headline": "\"Sleek Grey Wall Clock\",",
+      "description": "\"Modern 30cm clock with bold numbers & red accents. Perfect for any room.\",",
+      "cta": "\"Shop Now \u2013 Limited Stock!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your space with our sleek 30cm grey wall clock\u2014bold black numbers, crisp white dial & striking red accents. Timeless style meets modern precision. Order now!\",\n  \"headline\": \"Sleek Grey Wall Clock\",\n  \"description\": \"Modern 30cm clock with bold numbers & red accents. Perfect for any room.\",\n  \"cta\": \"Shop Now \u2013 Limited Stock!\"\n}\n```",
+    "generation_time": 2.79355788230896,
+    "timestamp": "2025-07-26T20:56:19.459612"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

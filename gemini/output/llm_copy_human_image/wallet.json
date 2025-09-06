@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:40.051258",
+  "input_image": "./input/wallet.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Luxury Leather Wallet. Personalize it!  Free Engraving.\",",
+      "headline": "\"Upgrade Your Wallet\",",
+      "description": "\"Genuine leather.  Customizable.  Lasts a lifetime.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Luxury Leather Wallet. Personalize it!  Free Engraving.\",\n  \"headline\": \"Upgrade Your Wallet\",\n  \"description\": \"Genuine leather.  Customizable.  Lasts a lifetime.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 2.6719141006469727,
+    "timestamp": "2025-07-26T12:38:40.051225"
+  }
+}

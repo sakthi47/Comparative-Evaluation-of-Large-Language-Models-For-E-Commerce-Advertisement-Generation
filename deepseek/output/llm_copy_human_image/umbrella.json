@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:30.499939",
+  "input_image": "./input/umbrella.jpeg",
+  "product_description": "dark blue big rain umbrella with black handle",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Stay dry in style with our sleek dark blue rain umbrella. Durable, wind-resistant, and effortlessly modern\u2014perfect for any downpour. Don\u2019t get caught unprepared!\",",
+      "headline": "\"Sleek & Storm-Ready Umbrella\",",
+      "description": "\"Premium dark blue umbrella with a sturdy black handle. Built to last, designed to impress.\",",
+      "cta": "\"Shop Now & Stay Dry\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Stay dry in style with our sleek dark blue rain umbrella. Durable, wind-resistant, and effortlessly modern\u2014perfect for any downpour. Don\u2019t get caught unprepared!\",\n  \"headline\": \"Sleek & Storm-Ready Umbrella\",\n  \"description\": \"Premium dark blue umbrella with a sturdy black handle. Built to last, designed to impress.\",\n  \"cta\": \"Shop Now & Stay Dry\"\n}\n```",
+    "generation_time": 2.990830183029175,
+    "timestamp": "2025-07-26T20:56:30.499919"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

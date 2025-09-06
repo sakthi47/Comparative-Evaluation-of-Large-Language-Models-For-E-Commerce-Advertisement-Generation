@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T13:08:58.690416",
+  "product_description": "teal green iphone 15 silicon backcase with non shiny glittery spots in light green color through the case",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "gemini_model": "gemini-1.5-flash",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Elevate your iPhone 15. Teal green sparkle.  Limited stock!\",",
+      "headline": "\"Shine Brighter.\",",
+      "description": "\"Subtle shimmer, serious style.  Shop now!\",",
+      "cta": "\"Get Yours Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Elevate your iPhone 15. Teal green sparkle.  Limited stock!\",\n  \"headline\": \"Shine Brighter.\",\n  \"description\": \"Subtle shimmer, serious style.  Shop now!\",\n  \"cta\": \"Get Yours Now\"\n}\n```\n",
+    "generation_time": 0.9122011661529541,
+    "timestamp": "2025-07-26T13:08:55.489241"
+  },
+  "gemini_optimized_prompt": "Product shot of a teal green iPhone 15 silicone case with subtle, non-shiny, light green glitter embedded throughout.  Clean, modern style.  Soft, diffused lighting highlighting the case's texture and subtle sparkle.  Minimalist white background.  Focus on the case, slightly elevated on a white surface.  Color palette: teal green, light green, off-white.  Mood: sophisticated, elegant, premium. No props or lifestyle elements.",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "Product shot of a teal green iPhone 15 silicone case with subtle, non-shiny, light green glitter embedded throughout.  Clean, modern style.  Soft, diffused lighting highlighting the case's texture and subtle sparkle.  Minimalist white background.  Focus on the case, slightly elevated on a white surface.  Color palette: teal green, light green, off-white.  Mood: sophisticated, elegant, premium. No props or lifestyle elements.",
+    "generation_time": 2.2701869010925293,
+    "timestamp": "2025-07-26T13:08:58.690407",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_130858.jpg"
+}

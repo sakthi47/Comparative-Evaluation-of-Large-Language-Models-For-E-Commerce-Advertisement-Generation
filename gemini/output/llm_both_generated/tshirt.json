@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T13:08:52.128327",
+  "product_description": "half hand dark blue t shirt with roundneck in medium size.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "gemini_model": "gemini-1.5-flash",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Effortless style. Deep blue comfort.  Grab yours now!\",",
+      "headline": "\"Midnight Blue Comfort\",",
+      "description": "\"Half-sleeve, round neck.  Medium size. Limited stock!\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Effortless style. Deep blue comfort.  Grab yours now!\",\n  \"headline\": \"Midnight Blue Comfort\",\n  \"description\": \"Half-sleeve, round neck.  Medium size. Limited stock!\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 0.9177711009979248,
+    "timestamp": "2025-07-26T13:08:49.038770"
+  },
+  "gemini_optimized_prompt": "Studio product shot of a men's medium, dark blue, half-sleeve, round-neck t-shirt.  Soft, natural light with subtle shadows, highlighting the fabric texture.  Minimalist white background.  T-shirt is neatly folded on a clean, flat surface.  Color palette: predominantly deep blue with clean white background. Mood: clean, modern, sophisticated.  No props or lifestyle elements.",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "Studio product shot of a men's medium, dark blue, half-sleeve, round-neck t-shirt.  Soft, natural light with subtle shadows, highlighting the fabric texture.  Minimalist white background.  T-shirt is neatly folded on a clean, flat surface.  Color palette: predominantly deep blue with clean white background. Mood: clean, modern, sophisticated.  No props or lifestyle elements.",
+    "generation_time": 2.2492258548736572,
+    "timestamp": "2025-07-26T13:08:52.128310",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_130852.jpg"
+}

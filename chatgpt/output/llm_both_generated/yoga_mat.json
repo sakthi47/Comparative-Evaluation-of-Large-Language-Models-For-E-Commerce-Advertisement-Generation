@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:23:48.646316",
+  "product_description": "grey colored 6 inch length, 3 inch width yoga mat made of natural rubber",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Elevate Your Flow: The Sleek, Sustainable Yoga Mat That Moves With You\",\n  \"description\": \"Discover the ultimate blend of style and comfort with our grey yoga mat, crafted from premium natural rubber. Compact at 6 inches by 3 inches, it's perfect for seamless transitions and maximum grip during every pose. Eco-friendly, durable, and designed for modern yogis who crave balance in life and on the mat.\",\n  \"cta\": \"Find your alignment\u2014shop now and transform your practice today!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/b5d7098e-fde5-47a9-a0fa-3dfe30a73a12/generated_00.png?se=2025-07-24T22%3A23%3A48Z&sig=ziZviMasLBoBAmfV9xewlmGvXjoIvoILBnoOu8ow34g%3D&ske=2025-07-29T19%3A02%3A17Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-22T19%3A02%3A17Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of grey colored 6 inch length, 3 inch width yoga mat made of natural rubber, \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_182348.png"
+}

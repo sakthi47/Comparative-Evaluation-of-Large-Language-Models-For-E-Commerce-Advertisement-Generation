@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:14:00.742038",
+  "product_description": "dark blue big rain umbrella with black handle ",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Stay Dry, Stay Stylish: The Ultimate Rain Shield You\u2019ll Love!\",\n  \"description\": \"Turn rainy days into a fashion statement with our dark blue umbrella featuring a sleek black handle. Durable, wind-resistant, and big enough to keep you and your essentials dry. Modern design meets everyday functionality for the perfect rain companion.\",\n  \"cta\": \"Don\u2019t let the rain stop you\u2014grab your modern rain shield today!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/582ccc26-3913-437d-8aa9-ae5d226a324f/generated_00.png?se=2025-07-24T22%3A14%3A00Z&sig=R9SKAowLBJuRtP4UpM2SCX3YSkJ2HrzLO5XjnXw1pMw%3D&ske=2025-07-28T12%3A09%3A41Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-21T12%3A09%3A41Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of dark blue big rain umbrella with black handle , \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_181400.png"
+}

@@ -1,0 +1,55 @@
+Welch ANOVA Analysis Results - Study
+==================================================
+
+Study: Leveraging Commercial LLMs for E-Commerce Advertising
+
+PRIMARY ANALYSIS (Overall Welch ANOVA):
+F(12, 65.7) = 0.498, p = 0.908765
+Effect Size (η²): 0.0356
+Conclusion: Non-significant differences found
+
+SECONDARY ANALYSIS (LLM-Only Comparison):
+F(3, 90.9) = 0.196, p = 0.898541
+Effect Size (η²): 0.0038
+Conclusion: Non-significant differences between LLMs
+
+LLM Performance Ranking:
+1. Claude: 3.633
+2. ChatGPT: 3.571
+3. Deepseek: 3.495
+4. Gemini: 3.486
+
+Descriptive Statistics:
+                             count    mean     std     var
+AdType                                                    
+ChatGPT Both                    13  3.7846  0.7548  0.5697
+ChatGPT Image + Human Copy      16  3.4375  0.8334  0.6945
+Claude Both                     13  3.8769  0.9985  0.9969
+Claude Image + Human Copy       13  3.7385  1.0178  1.0359
+Deepseek Both                   13  3.6769  1.0377  1.0769
+Deepseek Image + Human Copy     13  3.4308  0.7609  0.5790
+Gemini Both                     13  3.6769  1.0473  1.0969
+Gemini Image + Human Copy       13  3.6154  0.9814  0.9631
+Human Both                      16  3.3875  1.1921  1.4212
+Human Image + ChatGPT Copy      13  3.5231  1.0971  1.2036
+Human Image + Claude Copy       16  3.3500  0.9757  0.9520
+Human Image + Deepseek Copy     16  3.4000  1.1314  1.2800
+Human Image + Gemini Copy       16  3.2250  1.1705  1.3700
+
+Results by Question Type:
+------------------------------
+
+PurchaseIntent:
+  F(12, 65.7) = 0.545, p = 0.876942
+
+VisualAppeal:
+  F(12, 65.7) = 0.545, p = 0.876842
+
+ValueConvincing:
+  F(12, 65.6) = 0.441, p = 0.940263
+
+MessageClarity:
+  F(12, 65.7) = 0.371, p = 0.969265
+
+Trustworthiness:
+  F(12, 65.7) = 1.044, p = 0.420951

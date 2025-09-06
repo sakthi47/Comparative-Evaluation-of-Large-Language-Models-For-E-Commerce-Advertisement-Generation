@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T13:10:07.540176",
+  "product_description": "wooden folding table of size 100cm x 200cm with long black iron legs",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "gemini_model": "gemini-1.5-flash",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Effortless style.  Durable design.  Unfold your space. Limited stock!\",",
+      "headline": "\"Modern Folding Table\",",
+      "description": "\"Spacious, sleek wood top.  Strong black iron legs. Easy storage.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Effortless style.  Durable design.  Unfold your space. Limited stock!\",\n  \"headline\": \"Modern Folding Table\",\n  \"description\": \"Spacious, sleek wood top.  Strong black iron legs. Easy storage.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 0.900001049041748,
+    "timestamp": "2025-07-26T13:10:05.022112"
+  },
+  "gemini_optimized_prompt": "wooden folding table of size 100cm x 200cm with long black iron legs, modern style, professional product photography, clean background, high quality",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "wooden folding table of size 100cm x 200cm with long black iron legs, modern style, professional product photography, clean background, high quality",
+    "generation_time": 2.4238600730895996,
+    "timestamp": "2025-07-26T13:10:07.540168",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_131007.jpg"
+}

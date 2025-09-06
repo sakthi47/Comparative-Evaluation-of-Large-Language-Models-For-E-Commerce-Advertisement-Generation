@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:19:39.510842",
+  "product_description": "teal green iphone 15 silicon backcase with non shiny glittery spots in light green color through the case",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Glow in Style: Teal Green iPhone 15 Case with Subtle Glitter Magic!\",\n  \"description\": \"Elevate your iPhone 15 game with a sleek teal green silicone case adorned with soft, non-shiny light green glitter accents. Lightweight, durable, and designed for modern elegance, this case offers both protection and personality. Let your phone shine subtly while staying protected from life's bumps and scratches!\",\n  \"cta\": \"Shop Now and Add a Touch of Sparkle to Your Everyday!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/258d5e1a-1303-4eae-b318-997be6ed1e68/generated_00.png?se=2025-07-24T22%3A19%3A39Z&sig=bJWZ3YqmcNtKonMRd0eR20x78Q8fAAE7cHnJTzQChHY%3D&ske=2025-07-25T17%3A39%3A50Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-18T17%3A39%3A50Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of teal green iphone 15 silicon backcase with non shiny glittery spots in light green color through the case, \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_181939.png"
+}

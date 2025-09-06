@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:37:39.105575",
+  "input_image": "./input/folding_table.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Modern style, sturdy build.  Perfect for small spaces!\",",
+      "headline": "\"Stylish Small Table\",",
+      "description": "\"Compact wood top, sleek black legs. Easy assembly.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Modern style, sturdy build.  Perfect for small spaces!\",\n  \"headline\": \"Stylish Small Table\",\n  \"description\": \"Compact wood top, sleek black legs. Easy assembly.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 2.837660312652588,
+    "timestamp": "2025-07-26T12:37:39.105437"
+  }
+}

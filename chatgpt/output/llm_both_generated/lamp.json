@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:22:51.814770",
+  "product_description": "light green pot shaped table lamp with white cone cover",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Brighten Your Space with Modern Elegance \u2013 A Lamp That Stands Out!\",\n  \"description\": \"Transform your home with this chic table lamp. Its light green pot-shaped base adds a touch of nature-inspired charm, while the sleek white cone cover diffuses a soft, inviting glow. Perfect for any modern space, this lamp combines style and functionality effortlessly.\",\n  \"cta\": \"Upgrade your d\u00e9cor today \u2013 Shop now and light up your life!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/aa064ce5-3d41-4c19-974b-3120d51930e3/generated_00.png?se=2025-07-24T22%3A22%3A51Z&sig=2CczLvwDGtQdi036Z0VLEYexMB79BZUljsUOz9z38Qk%3D&ske=2025-07-25T17%3A39%3A50Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-18T17%3A39%3A50Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of light green pot shaped table lamp with white cone cover, \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_182251.png"
+}

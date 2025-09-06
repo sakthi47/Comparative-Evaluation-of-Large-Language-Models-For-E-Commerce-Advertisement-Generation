@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:55:40.981085",
+  "input_image": "./input/backpack.jpeg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Bring whimsical style to every adventure with our blush pink rainbow backpack. Perfect for dreamers on the go!",
+      "headline": "Carry Joy: Rainbow Dreams Backpack",
+      "description": "Stylish and spacious backpack featuring playful rainbow prints on soft blush pink. Multiple pockets keep essentials organized with modern charm.",
+      "cta": "Shop Rainbow Collection"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Bring whimsical style to every adventure with our blush pink rainbow backpack. Perfect for dreamers on the go!\",\n    \"headline\": \"Carry Joy: Rainbow Dreams Backpack\",\n    \"description\": \"Stylish and spacious backpack featuring playful rainbow prints on soft blush pink. Multiple pockets keep essentials organized with modern charm.\",\n    \"cta\": \"Shop Rainbow Collection\"\n}",
+    "generation_time": 4.516717910766602,
+    "timestamp": "2025-07-26T11:55:40.981049"
+  }
+}

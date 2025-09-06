@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:37:33.796400",
+  "input_image": "./input/cutting_board.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your kitchen!  Durable bamboo cutting board.  Easy to clean & eco-friendly.\",",
+      "headline": "\"Bamboo Cutting Board\",",
+      "description": "\"Eco-friendly, durable, and stylish.  Order yours today!\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your kitchen!  Durable bamboo cutting board.  Easy to clean & eco-friendly.\",\n  \"headline\": \"Bamboo Cutting Board\",\n  \"description\": \"Eco-friendly, durable, and stylish.  Order yours today!\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 1.9330508708953857,
+    "timestamp": "2025-07-26T12:37:33.796271"
+  }
+}

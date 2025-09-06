@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:56:30.027147",
+  "input_image": "./input/umbrella.jpeg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Stay dry in signature Volkswagen style with our premium golf umbrella, engineered for lasting protection and refined elegance.",
+      "headline": "Premium VW Golf Umbrella",
+      "description": "Robust construction meets sophisticated design in this navy blue umbrella featuring the iconic VW logo and ergonomic grip handle.",
+      "cta": "Add to Cart"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Stay dry in signature Volkswagen style with our premium golf umbrella, engineered for lasting protection and refined elegance.\",\n    \"headline\": \"Premium VW Golf Umbrella\",\n    \"description\": \"Robust construction meets sophisticated design in this navy blue umbrella featuring the iconic VW logo and ergonomic grip handle.\",\n    \"cta\": \"Add to Cart\"\n}",
+    "generation_time": 3.0650858879089355,
+    "timestamp": "2025-07-26T11:56:30.027124"
+  }
+}

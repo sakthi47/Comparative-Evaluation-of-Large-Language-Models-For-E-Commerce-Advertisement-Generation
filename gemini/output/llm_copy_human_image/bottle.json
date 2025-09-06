@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T12:13:35.143989",
+  "input_image": "./input/bottle.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Keeps drinks cold for hours! Fun design kids love.\",",
+      "headline": "\"Kids' Insulated Bottle\",",
+      "description": "\"Durable, leakproof, & adorable!\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Keeps drinks cold for hours! Fun design kids love.\",\n  \"headline\": \"Kids' Insulated Bottle\",\n  \"description\": \"Durable, leakproof, & adorable!\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 1.5162827968597412,
+    "timestamp": "2025-07-23T12:13:35.143867"
+  }
+}

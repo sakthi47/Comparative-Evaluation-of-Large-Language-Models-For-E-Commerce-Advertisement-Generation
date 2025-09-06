@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:32.548960",
+  "input_image": "./input/folding_table.jpeg",
+  "product_description": "wooden folding table of size 100cm x 200cm with long black iron legs",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Expand your space with style! Our 100x200cm wooden folding table blends modern design & durability. Limited stock\u2014transform your home today!\",",
+      "headline": "\"Sleek Wooden Folding Table\",",
+      "description": "\"Modern, space-saving design with sturdy black iron legs. Perfect for any room.\",",
+      "cta": "\"Shop Now - Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Expand your space with style! Our 100x200cm wooden folding table blends modern design & durability. Limited stock\u2014transform your home today!\",\n  \"headline\": \"Sleek Wooden Folding Table\",\n  \"description\": \"Modern, space-saving design with sturdy black iron legs. Perfect for any room.\",\n  \"cta\": \"Shop Now - Limited Time!\"\n}\n```",
+    "generation_time": 1.824314832687378,
+    "timestamp": "2025-07-26T20:56:32.548936"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

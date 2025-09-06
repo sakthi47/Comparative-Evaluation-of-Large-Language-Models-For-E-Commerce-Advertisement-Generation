@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:16:17.987720",
+  "product_description": "light sandal backpack with multiple small consecutive reverse U design for kids with one small compartment in the front, and one big compartment in the middle",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Step into adventure with the coolest backpack for kids \u2013 lightweight, stylish, and ready for every journey!\",\n  \"description\": \"Meet the ultimate kids' backpack: modern design with playful reverse U patterns, a handy front pocket for essentials, and a spacious middle compartment for all their treasures. Ultra-lightweight and built for comfort, it's perfect for school, playdates, or exploring the world in style.\",\n  \"cta\": \"Get yours today and let your little adventurer carry happiness wherever they go!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/c6fe1c4e-9fbf-4b47-9032-971517a33518/generated_00.png?se=2025-07-24T22%3A16%3A17Z&sig=%2BYLPN%2FBtmNVcnUSJEnLjJPjSreb8yLUcA%2BTtcHlCOK0%3D&ske=2025-07-29T19%3A02%3A17Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-22T19%3A02%3A17Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of light sandal backpack with multiple small consecutive reverse U design for kids with one small compartment in the front, and one big compartment in the middle, \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_181617.png"
+}

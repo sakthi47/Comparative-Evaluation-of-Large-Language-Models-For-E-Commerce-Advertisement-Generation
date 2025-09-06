@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:32:05.008102",
+  "input_image": "./input/lamp.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Transform Any Room with Timeless Elegance \u2013 Your Perfect Lighting Solution Awaits!\",\n  \"description\": \"Elevate your home d\u00e9cor with this chic and minimalist lamp. Designed to create a warm, inviting glow, its neutral tones effortlessly complement any style. Perfect for cozy nights or enhancing your workspace, this lamp brings a touch of sophistication and comfort to your space.\",\n  \"cta\": \"Add a touch of elegance to your home today \u2013 Shop now and brighten your life!\"\n}\n```",
+  "custom_prompt": null
+}

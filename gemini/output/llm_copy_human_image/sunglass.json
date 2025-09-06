@@ -1,0 +1,18 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T12:38:21.620121",
+  "input_image": "./input/sunglass.jpeg",
+  "model_used": "gemini-1.5-flash",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Unleash your inner warrior. \ud83d\ude0e  Superior sun protection & style.\",",
+      "headline": "\"Dominate the Sun\",",
+      "description": "\"Premium sunglasses.  Unmatched comfort.  Bold design.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Unleash your inner warrior. \ud83d\ude0e  Superior sun protection & style.\",\n  \"headline\": \"Dominate the Sun\",\n  \"description\": \"Premium sunglasses.  Unmatched comfort.  Bold design.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 1.660456895828247,
+    "timestamp": "2025-07-26T12:38:21.619993"
+  }
+}

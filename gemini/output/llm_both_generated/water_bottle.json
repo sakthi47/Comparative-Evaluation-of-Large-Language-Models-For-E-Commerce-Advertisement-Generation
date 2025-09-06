@@ -1,0 +1,35 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-26T13:08:12.396473",
+  "product_description": "Fancy water bottle with beautiful design for kids in blue body and pink cap. leak proof with vibrant body design.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "gemini_model": "gemini-1.5-flash",
+  "copy_generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Hydration made fun! Leakproof, vibrant design.  Grab yours now!\",",
+      "headline": "\"Kids' Hydration Hero\",",
+      "description": "\"Stylish, spill-proof, & beautifully designed.  Keeps kids happy & hydrated.\",",
+      "cta": "\"Shop Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Hydration made fun! Leakproof, vibrant design.  Grab yours now!\",\n  \"headline\": \"Kids' Hydration Hero\",\n  \"description\": \"Stylish, spill-proof, & beautifully designed.  Keeps kids happy & hydrated.\",\n  \"cta\": \"Shop Now\"\n}\n```\n",
+    "generation_time": 0.949073076248169,
+    "timestamp": "2025-07-26T13:08:09.022967"
+  },
+  "gemini_optimized_prompt": "Studio product shot of a leakproof kids' water bottle.  Blue body with a vibrant, playful, modern design featuring stylized floral patterns or geometric shapes. Pink screw-on cap.  The bottle is made of BPA-free plastic with a slightly glossy finish.  Bright, clean, and even lighting, emphasizing the bottle's texture and design.  Simple, minimalist white background.  Focus on the bottle, slightly elevated on a white surface.  Colors: vibrant blues and pinks, with a cheerful, playful mood. No props or lifestyle elements.",
+  "image_generation_result": {
+    "image_object": "<PIL.Image object - not serializable>",
+    "original_prompt": "Studio product shot of a leakproof kids' water bottle.  Blue body with a vibrant, playful, modern design featuring stylized floral patterns or geometric shapes. Pink screw-on cap.  The bottle is made of BPA-free plastic with a slightly glossy finish.  Bright, clean, and even lighting, emphasizing the bottle's texture and design.  Simple, minimalist white background.  Focus on the bottle, slightly elevated on a white surface.  Colors: vibrant blues and pinks, with a cheerful, playful mood. No props or lifestyle elements.",
+    "generation_time": 2.2633299827575684,
+    "timestamp": "2025-07-26T13:08:12.396464",
+    "model": "flux-schnell",
+    "size": "1024x1024",
+    "image_format": "Image"
+  },
+  "image_settings": {
+    "model": "flux-schnell",
+    "width": 1024,
+    "height": 1024
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250726_130812.jpg"
+}

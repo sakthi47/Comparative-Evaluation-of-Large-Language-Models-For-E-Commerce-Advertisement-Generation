@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:11.053917",
+  "input_image": "./input/coffee_mug.jpeg",
+  "product_description": "100 ml grey colored coffee mug with round opening with c shaped handle",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Sip in style with our modern grey coffee mug \u2013 perfect grip, sleek design, and just the right size for your daily brew. Elevate your coffee moments today!\",",
+      "headline": "\"Modern Grey Coffee Mug\",",
+      "description": "\"Ergonomic C-handle, 100ml capacity, and timeless design for your favorite brew.\",",
+      "cta": "\"Get Yours Now\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Sip in style with our modern grey coffee mug \u2013 perfect grip, sleek design, and just the right size for your daily brew. Elevate your coffee moments today!\",\n  \"headline\": \"Modern Grey Coffee Mug\",\n  \"description\": \"Ergonomic C-handle, 100ml capacity, and timeless design for your favorite brew.\",\n  \"cta\": \"Get Yours Now\"\n}\n```",
+    "generation_time": 2.0821173191070557,
+    "timestamp": "2025-07-26T20:56:11.053895"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

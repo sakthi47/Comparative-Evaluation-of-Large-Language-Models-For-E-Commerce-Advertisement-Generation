@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:25:41.081018",
+  "input_image": "./input/bottle.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Brighten Their Day with the Cutest Leak-Proof Thermos for Kids!\",\n  \"description\": \"Make hydration fun and hassle-free! This adorable thermos keeps drinks hot or cold for hours, features a spill-proof design, and is easy for little hands to use. Perfect for school, road trips, or adventures\u2014its colorful, cheerful design will bring smiles every time they sip!\",\n  \"cta\": \"Shop now and give your child the gift of hydration in style!\"\n}\n```",
+  "custom_prompt": null
+}

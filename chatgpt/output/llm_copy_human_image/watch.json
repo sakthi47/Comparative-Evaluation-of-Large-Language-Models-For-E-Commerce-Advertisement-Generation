@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:39:13.325153",
+  "input_image": "./input/watch.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Elevate Every Moment with Timeless Rose Gold Elegance\",\n  \"description\": \"Turn heads and capture hearts with this stunning rose gold watch. Perfect for any occasion, its sleek design adds sophistication to your everyday style. Lightweight and durable, it\u2019s the ultimate accessory for confidence and class. Shine brighter, feel bolder\u2014it\u2019s time to make your statement.\",\n  \"cta\": \"Shop now and redefine your style\u2014limited stock available!\"\n}\n```",
+  "custom_prompt": null
+}

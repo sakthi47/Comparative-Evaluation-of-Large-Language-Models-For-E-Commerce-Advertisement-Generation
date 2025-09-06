@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:26:36.687343",
+  "input_image": "./input/backpack.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Carry Joy Everywhere: The Backpack That\u2019s Stylish, Practical, and Full of Positivity!\",\n  \"description\": \"This pastel rainbow backpack is more than just a bag\u2014it\u2019s your new daily companion. Lightweight yet durable, it keeps your essentials organized with multiple compartments and side mesh pockets for easy access. Perfect for school, travel, or everyday adventures, it blends functionality with a playful design that\u2019ll brighten your day every time you wear it. Let your personality shine while staying effortlessly organized.\",\n  \"cta\": \"Get yours today and add a splash of sunshine to your routine\u2014limited stock available!\"\n}\n```",
+  "custom_prompt": null
+}

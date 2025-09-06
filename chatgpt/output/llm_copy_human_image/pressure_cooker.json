@@ -1,0 +1,8 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-23T17:35:04.187164",
+  "input_image": "./input/pressure_cooker.jpg",
+  "model_used": "gpt-4o-2",
+  "generated_copy": "```json\n{\n  \"headline\": \"Brew Comfort in Every Sip \u2013 Your Perfect Kitchen Companion Awaits!\",\n  \"description\": \"Experience effortless, fast, and safe boiling with this durable aluminum kettle. Designed for efficiency and timeless style, it\u2019s perfect for morning rituals or cozy evenings. Its sturdy handle and secure lid ensure a hassle-free pour every time. Elevate your tea or coffee moments with a product that\u2019s built to last and crafted for convenience.\",\n  \"cta\": \"Don\u2019t wait! Add warmth and ease to your kitchen \u2013 Shop now and enjoy free shipping!\"\n}\n```",
+  "custom_prompt": null
+}

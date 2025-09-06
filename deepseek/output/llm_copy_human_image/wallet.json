@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:34.804222",
+  "input_image": "./input/wallet.jpeg",
+  "product_description": "brown men wallet with two sections and a name tag in front right bottom corner with silver boundary.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Sleek brown wallet with dual compartments & silver-accented name tag. Stay organized in style\u2014limited stock available!\",",
+      "headline": "\"Modern Elegance, Effortless Organization\",",
+      "description": "\"Two-section design with personalized name tag for a polished, functional carry.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Sleek brown wallet with dual compartments & silver-accented name tag. Stay organized in style\u2014limited stock available!\",\n  \"headline\": \"Modern Elegance, Effortless Organization\",\n  \"description\": \"Two-section design with personalized name tag for a polished, functional carry.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 2.06551194190979,
+    "timestamp": "2025-07-26T20:56:34.804201"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:55:44.423031",
+  "input_image": "./input/bottle.jpeg",
+  "product_description": "Fancy water bottle with beautiful design for kids in blue body and pink cap. leak proof with vibrant body design.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Sip in style! Our vibrant, leak-proof water bottle keeps kids hydrated with a playful blue & pink design they'll love. Limited stock\u2014grab yours today!\",",
+      "headline": "\"Stylish & Leak-Proof Kids' Bottle\",",
+      "description": "\"Beautiful design, vibrant colors, and 100% leak-proof for mess-free hydration.\",",
+      "cta": "\"Shop Now \u2013 Limited Stock!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Sip in style! Our vibrant, leak-proof water bottle keeps kids hydrated with a playful blue & pink design they'll love. Limited stock\u2014grab yours today!\",\n  \"headline\": \"Stylish & Leak-Proof Kids' Bottle\",\n  \"description\": \"Beautiful design, vibrant colors, and 100% leak-proof for mess-free hydration.\",\n  \"cta\": \"Shop Now \u2013 Limited Stock!\"\n}\n```",
+    "generation_time": 2.9032068252563477,
+    "timestamp": "2025-07-26T20:55:44.423006"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

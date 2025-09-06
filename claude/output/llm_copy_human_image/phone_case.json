@@ -1,0 +1,17 @@
+{
+  "condition": "LC (LLM Copy / Human Image)",
+  "timestamp": "2025-07-26T11:27:57.581577",
+  "input_image": "./input/phone_case.jpg",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "Protect your iPhone beautifully with our eco-friendly phone case, crafted from sustainable materials in elegant forest green",
+      "headline": "Sustainable Style for Your iPhone",
+      "description": "Premium biodegradable phone case with a unique speckled texture. Durable protection meets environmental responsibility in sophisticated green.",
+      "cta": "Shop Eco-Friendly Cases"
+    },
+    "raw_response": "{\n    \"primary_copy\": \"Protect your iPhone beautifully with our eco-friendly phone case, crafted from sustainable materials in elegant forest green\",\n    \"headline\": \"Sustainable Style for Your iPhone\",\n    \"description\": \"Premium biodegradable phone case with a unique speckled texture. Durable protection meets environmental responsibility in sophisticated green.\",\n    \"cta\": \"Shop Eco-Friendly Cases\"\n}",
+    "generation_time": 3.0886800289154053,
+    "timestamp": "2025-07-26T11:27:57.581533"
+  }
+}

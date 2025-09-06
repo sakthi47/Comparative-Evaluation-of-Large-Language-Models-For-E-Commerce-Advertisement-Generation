@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:56:05.820237",
+  "input_image": "./input/pressure_cooker.jpeg",
+  "product_description": "3 litres silver color pressure cooker with bakelite black handle with a whistle on it.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your kitchen with our sleek 3L silver pressure cooker! Cook faster, save energy & enjoy perfect meals every time. Limited stock \u2013 get yours today!\",",
+      "headline": "\"Effortless Cooking, Stunning Style\",",
+      "description": "\"3L silver pressure cooker with secure bakelite handle & whistle for safety. Modern, durable, and efficient.\",",
+      "cta": "\"Shop Now \u2013 Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your kitchen with our sleek 3L silver pressure cooker! Cook faster, save energy & enjoy perfect meals every time. Limited stock \u2013 get yours today!\",\n  \"headline\": \"Effortless Cooking, Stunning Style\",\n  \"description\": \"3L silver pressure cooker with secure bakelite handle & whistle for safety. Modern, durable, and efficient.\",\n  \"cta\": \"Shop Now \u2013 Limited Time!\"\n}\n```",
+    "generation_time": 2.371206760406494,
+    "timestamp": "2025-07-26T20:56:05.820220"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

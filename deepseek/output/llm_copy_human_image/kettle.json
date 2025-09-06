@@ -1,0 +1,22 @@
+{
+  "condition": "LC (LLM Copy / Human Image) - Text-based approximation",
+  "timestamp": "2025-07-26T20:55:57.631551",
+  "input_image": "./input/kettle.jpeg",
+  "product_description": "a kettle with half grey and half silver with grey lid used for serving hot tea with a C shaped handle for convenient usage.",
+  "model_used": "DeepSeek-V3-0324",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "custom_prompt": null,
+  "generation_result": {
+    "copy_data": {
+      "primary_copy": "\"Upgrade your tea time with our sleek half-grey, half-silver kettle. C-shaped handle for effortless pouring. Perfect brew, every time. Limited stock!\",",
+      "headline": "\"Sleek Kettle for Perfect Tea\",",
+      "description": "\"Modern design, effortless pouring, and quick heating for your daily brew.\",",
+      "cta": "\"Shop Now - Limited Time!\""
+    },
+    "raw_response": "```json\n{\n  \"primary_copy\": \"Upgrade your tea time with our sleek half-grey, half-silver kettle. C-shaped handle for effortless pouring. Perfect brew, every time. Limited stock!\",\n  \"headline\": \"Sleek Kettle for Perfect Tea\",\n  \"description\": \"Modern design, effortless pouring, and quick heating for your daily brew.\",\n  \"cta\": \"Shop Now - Limited Time!\"\n}\n```",
+    "generation_time": 2.4443328380584717,
+    "timestamp": "2025-07-26T20:55:57.631525"
+  },
+  "note": "DeepSeek V3 does not support vision - used text description instead"
+}

@@ -1,0 +1,19 @@
+{
+  "condition": "LCI (LLM Copy & LLM Image)",
+  "timestamp": "2025-07-23T18:09:33.260843",
+  "product_description": "Fancy water bottle with beautiful design for kids in blue body and pink cap. leak proof with vibrant body design.",
+  "brand_style": "modern",
+  "target_audience": "general",
+  "generated_copy": "```json\n{\n  \"headline\": \"Sip in Style: The Must-Have Water Bottle for Your Little Superstar!\",\n  \"description\": \"Make hydration fun with our beautifully designed kids' water bottle! Featuring a vibrant blue body and pink cap, it's leak-proof, durable, and perfect for little hands. Eye-catching and practical, this modern accessory turns every sip into an adventure. Stay hydrated, stay cool!\",\n  \"cta\": \"Get yours now and make hydration a splash of fun!\"\n}\n```",
+  "generated_image_url": "https://dalleprodsec.blob.core.windows.net/private/images/310c5c32-392c-42db-9434-12b20e710dd3/generated_00.png?se=2025-07-24T22%3A09%3A33Z&sig=zhrX337isFe2eDMATEKOusMbAnNi2Y%2B6mwTjPHaBp7w%3D&ske=2025-07-28T14%3A52%3A40Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-07-21T14%3A52%3A40Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02",
+  "image_prompt": "\n        Professional product photography of Fancy water bottle with beautiful design for kids in blue body and pink cap. leak proof with vibrant body design., \n        modern style, high quality, clean background, \n        commercial advertising photo, well-lit, appealing to general,\n        suitable for Facebook/Instagram ads, no text or logos\n        ",
+  "models_used": {
+    "text_model": "gpt-4o-2",
+    "image_model": "dall-e-3"
+  },
+  "image_settings": {
+    "size": "1024x1024",
+    "quality": "standard"
+  },
+  "downloaded_image": "./output/llm_both_generated/lci_generated_image_20250723_180933.png"
+}
